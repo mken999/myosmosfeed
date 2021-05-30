@@ -706,6 +706,121 @@
           "title": "How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js"
         }
       ]
+    },
+    {
+      "title": "ゴリミー",
+      "feedUrl": "https://gori.me/feed",
+      "siteUrl": "https://gori.me",
+      "articles": [
+        {
+          "id": "https://gori.me/?p=135177",
+          "author": "g.O.R.i",
+          "description": "Amazonのオーディオブックサービス「Audible（オーディブル）」が、プライム会員を対象とした3か月無料体験キャンペーンを開催中だ。キャンペーンは2021年6月29日まで。 Audibleは俳優や声優、プロのナレーターによって読み上げられた本を音声で聴くことができるサービス。人気作家のベストセ…\nThe post Amazonのオーディオブックサービス「Audible」、3ヶ月無料体験キャンペーン中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/amazon/amazon-sale/135177",
+          "publishedOn": "2021-05-30T08:29:06.000Z",
+          "wordCount": 140,
+          "title": "Amazonのオーディオブックサービス「Audible」、3ヶ月無料体験キャンペーン中"
+        },
+        {
+          "id": "https://gori.me/?p=135171",
+          "author": "g.O.R.i",
+          "description": "Appleの元CDO（Chief Design Officer＝最高デザイン責任者）だったJony Ive氏は、24インチiMac（2021）のデザインに関わっていたと判明した。Jony Ive氏は2019年11月にAppleを退社し、自身のデザインファーム「LoveFrom」を立ち上げ。引き続きA…\nThe post Jony Ive、24インチiMacのデザインに関わっていた first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/imac/135171",
+          "publishedOn": "2021-05-29T23:37:28.000Z",
+          "wordCount": 169,
+          "title": "Jony Ive、24インチiMacのデザインに関わっていた"
+        },
+        {
+          "id": "https://gori.me/?p=135169",
+          "author": "g.O.R.i",
+          "description": "SamsungとLGが、2021年の新型iPhone（iPhone 13）用のディスプレイパネルを生産開始した可能性がある。「iPhone 13」と「iPhone 13 mini」はLG Displayが担当。「iPhone 13 Pro」と「iPhone 13 Pro Max」はSamsungが担…\nThe post SamsungとLG、iPhone 13用のディスプレイパネルを生産開始か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/135169",
+          "publishedOn": "2021-05-29T22:11:39.000Z",
+          "wordCount": 251,
+          "title": "SamsungとLG、iPhone 13用のディスプレイパネルを生産開始か"
+        },
+        {
+          "id": "https://gori.me/?p=135159",
+          "author": "g.O.R.i",
+          "description": "Apple Watch用プライドエディションブレイデッドソロループを購入した。ソロループはバックルなどの繋ぎ目が一切ないため、パソコン仕事をしている人にとって使い勝手が良い。 ブレイデッドソロループは手首にジャストフィットするため、購入前に正確なサイズを把握する必要がある。40mm用は「1」から「9…\nThe post 【レビュー】Apple Watch用プライドエディションブレイデッドソロループ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/watch-accessories/watch-band/135159",
+          "publishedOn": "2021-05-29T21:45:29.000Z",
+          "wordCount": 185,
+          "title": "【レビュー】Apple Watch用プライドエディションブレイデッドソロループ"
+        },
+        {
+          "id": "https://gori.me/?p=135168",
+          "author": "g.O.R.i",
+          "description": "Twitterは、ツイート用リアクションボタンを開発している可能性がある。大手SNSの未発表機能を多数発見しているJane Manchun Wong氏によると、「Like（いいね）」「Cheer（歓呼）」「Hmm（うーん）」「Sad（悲しい）」「Haha（笑）」などのボタンが検討されているという。 …\nThe post Twitter、ツイート用リアクションボタンを準備中か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/twitter/twitter-news/135168",
+          "publishedOn": "2021-05-29T13:31:36.000Z",
+          "wordCount": 185,
+          "title": "Twitter、ツイート用リアクションボタンを準備中か"
+        },
+        {
+          "id": "https://gori.me/?p=135166",
+          "author": "g.O.R.i",
+          "description": "Appleは、Podcastアプリの有料定期購読サービス「Apple Podcastサブスクリプション」のリリースを6月に延期する。当初は5月より170カ国で提供開始する予定だったが、9to5Macによると、「クリエイターおよびリスナーにとって最高の体験にするため」遅らせるという。正確なリリース時期…\nThe post Apple Podcastのサブスク、リリースを6月に延期 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/135166",
+          "publishedOn": "2021-05-29T02:17:29.000Z",
+          "wordCount": 162,
+          "title": "Apple Podcastのサブスク、リリースを6月に延期"
+        },
+        {
+          "id": "https://gori.me/?p=135165",
+          "author": "g.O.R.i",
+          "description": "iPad Proアプリが使用できるRAMは、最大5GBに制限されていると判明した。iPad専用のイラスト製作アプリ「Procreate」のフォーラムによると、5GB以上のRAMを使用した場合、アプリがクラッシュするという。 M1チップのiPad Pro（2021）は、128GB・256GB・512G…\nThe post M1 iPad Pro、最大16GBのRAMを活かせず　アプリの使用可能RAMは5GBまで first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipad/ipadpro/135165",
+          "publishedOn": "2021-05-29T00:57:47.000Z",
+          "wordCount": 250,
+          "title": "M1 iPad Pro、最大16GBのRAMを活かせず　アプリの使用可能RAMは5GBまで"
+        },
+        {
+          "id": "https://gori.me/?p=135163",
+          "author": "g.O.R.i",
+          "description": "Twitterが、認証済みアカウントの申請受付を一時的に停止すると発表した。申請された認証済みアカウントの精査を行うためとしており、近日中の再開を約束している。 We’re rolling in verification requests. So we gotta hit pause on acce…\nThe post Twitter、認証済みアカウントの申請受付を一時停止　近々再開へ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/twitter/twitter-news/135163",
+          "publishedOn": "2021-05-28T23:27:14.000Z",
+          "wordCount": 185,
+          "title": "Twitter、認証済みアカウントの申請受付を一時停止　近々再開へ"
+        },
+        {
+          "id": "https://gori.me/?p=134838",
+          "author": "g.O.R.i",
+          "description": "Appleは、新しい完全ワイヤレスイヤホン「Beats Studio Buds」を近日中に発売する可能性がある。MacRumorsによると、iOS 14.6およびtvOS 14.6のベータ版から発見されたという。 「Beats Studio Buds」は、Powerbeats Proのようなイヤーフ…\nThe post 新しい完全ワイヤレスイヤホン「Beats Studio Buds」が発見される first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/music-accessories/earphones/134838",
+          "publishedOn": "2021-05-28T15:15:09.000Z",
+          "wordCount": 189,
+          "title": "新しい完全ワイヤレスイヤホン「Beats Studio Buds」が発見される"
+        },
+        {
+          "id": "https://gori.me/?p=135161",
+          "author": "g.O.R.i",
+          "description": "Appleは、エントリーモデルの新型AirPods（AirPods 3）を年内に発表する可能性がある。Bloombergによると、「AirPods 3」は柄の部分が短くなった新デザインを採用しており、AirPods Proと似ているという。 また新型AirPods Proは2022年に発表予定。年内…\nThe post AirPods 3は年内登場、AirPods Proの新モデルは来年に延期か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/music-accessories/airpods/135161",
+          "publishedOn": "2021-05-28T14:56:20.000Z",
+          "wordCount": 181,
+          "title": "AirPods 3は年内登場、AirPods Proの新モデルは来年に延期か"
+        },
+        {
+          "id": "https://gori.me/?p=135152",
+          "author": "g.O.R.i",
+          "description": "AppleでSIMフリーiPhoneを購入すると、無料のY!mobile SIMカード（ワイモバイルSIMスターターキット）が「おすすめ」に表示される。契約事務手数料（3,000円）が無料になる特典が利用できるが、期間限定で、最大7,000円のキャッシュバックが受けられるキャンペーンがスタートした。…\nThe post AppleでワイモバイルSIM購入・契約がお得！最大7,000円キャッシュバック first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mobile/smartphone/135152",
+          "publishedOn": "2021-05-28T01:29:59.000Z",
+          "wordCount": 152,
+          "title": "AppleでワイモバイルSIM購入・契約がお得！最大7,000円キャッシュバック"
+        },
+        {
+          "id": "https://gori.me/?p=135145",
+          "author": "g.O.R.i",
+          "description": "Twitterが準備中とされる有料サブスクリプションサービス「Twitter Blue」は、Twitter公式アプリのアプリ内課金として提供され、月額2.99ドルで利用できることが明らかになった。日本での価格は月額350円であると判明した。 大手SNSの未発表機能を多数発見しているJane Manc…\nThe post Twitterのサブスク、利用料金は月額350円　カラーテーマやカスタムアイコンも提供か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/twitter/twitter-news/135145",
+          "publishedOn": "2021-05-27T23:52:36.000Z",
+          "wordCount": 205,
+          "title": "Twitterのサブスク、利用料金は月額350円　カラーテーマやカスタムアイコンも提供か"
+        }
+      ]
     }
   ],
   "cliVersion": "1.9.0"
