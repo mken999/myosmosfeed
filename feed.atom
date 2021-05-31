@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T23:05:29.042Z</updated>
+    <updated>2021-05-31T00:56:54.127Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[12.9インチiPad Pro 2021 レビュー：”ガチ勢”用マシーン]]></title>
+        <id>https://gori.me/?p=135005</id>
+        <link href="https://gori.me/ipad/ipadpro/135005"/>
+        <updated>2021-05-30T23:20:24.000Z</updated>
+        <summary type="html"><![CDATA[iPadを”画面の大きいiPhone”として活用しているような人でも、iPad Proを選ぶべき理由はあった。120Hzディスプレイの滑らかさ、iPhoneで慣れたFace IDの便利さ、ディスプレイの美しさ。「どうせなら一番良いやつを買っておこう」という気持ちもあった。 しかしiPad Pro（2…
+The post 12.9インチiPad Pro 2021 レビュー：”ガチ勢”用マシーン first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazonのオーディオブックサービス「Audible」、3ヶ月無料体験キャンペーン中]]></title>
         <id>https://gori.me/?p=135177</id>
