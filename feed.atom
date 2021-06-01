@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T00:56:54.127Z</updated>
+    <updated>2021-06-01T01:09:59.188Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Japan、日本独自CM「さあ、アクティブな方へ」を公開]]></title>
+        <id>https://gori.me/?p=135212</id>
+        <link href="https://gori.me/apple/apple-tvcm/135212"/>
+        <updated>2021-05-31T23:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Apple Japanが6月1日、YouTubeチャンネルを更新。Apple Watchの日本独自CM「さあ、アクティブな方へ」を公開した。Apple Watchに引っ張られて日常生活の中に運動を取り入れる様子を表現した内容となっている。 登場するApple Watchは、身につけている人を無理やり…
+The post Apple Japan、日本独自CM「さあ、アクティブな方へ」を公開 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12.9インチiPad Proを2枚使って携帯可能なトリプルモニター環境を作ってみた]]></title>
+        <id>https://gori.me/?p=135200</id>
+        <link href="https://gori.me/macbookpro/135200"/>
+        <updated>2021-05-31T21:45:49.000Z</updated>
+        <summary type="html"><![CDATA[M1 MacBook Proの内蔵ディスプレイと12.9インチiPad Proの2020年モデルと2021年モデルを使い、携帯可能なトリプルモニター環境を構築してみた。1台目のiPad ProはSidecar、2台目はLuna Displayで接続した。Sidecarはワンクリック、Luna Dis…
+The post 12.9インチiPad Proを2枚使って携帯可能なトリプルモニター環境を作ってみた first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
+        <id>https://css-tricks.com/?p=340465</id>
+        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
+        <updated>2021-05-31T17:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
+building modern, accessible user interfaces
+creating interactive elements and complex animations
+managing complex application state
+…
+The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jason Lengstorf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
+        <id>https://css-tricks.com/?p=341482</id>
+        <link href="https://css-tricks.com/local-always-getting-better/"/>
+        <updated>2021-05-31T17:13:02.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
+The post Local: Always Getting Better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
+        <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
+        <updated>2021-05-31T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEが2.7万円から！Apple Watch整備済商品の最新情報（2021年5月31日更新）]]></title>
+        <id>https://gori.me/?p=135193</id>
+        <link href="https://gori.me/sale/apple-refurbished/135193"/>
+        <updated>2021-05-31T05:29:10.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 Apple Watch …
+The post SEが2.7万円から！Apple Watch整備済商品の最新情報（2021年5月31日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.7万円のM1 Mac miniが復活！Mac整備済商品の最新情報（2021年5月31日更新）]]></title>
+        <id>https://gori.me/?p=135191</id>
+        <link href="https://gori.me/sale/apple-refurbished/135191"/>
+        <updated>2021-05-31T05:21:11.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 Mac miniが67,980…
+The post 6.7万円のM1 Mac miniが復活！Mac整備済商品の最新情報（2021年5月31日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12.9インチiPad Pro 2021 レビュー：”ガチ勢”用マシーン]]></title>
         <id>https://gori.me/?p=135005</id>
@@ -419,6 +509,16 @@ Fixed: the articles in template data were not sorted.
 Thank you @Zenigata]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
+        <id>60ac3a2711ffb70827ef6aec</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
+        <updated>2021-05-25T22:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Valentine machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

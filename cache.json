@@ -103,6 +103,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340465",
+          "author": "Jason Lengstorf",
+          "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
+          "publishedOn": "2021-05-31T17:16:22.000Z",
+          "wordCount": 1790,
+          "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341482",
+          "author": "Chris Coyier",
+          "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/local-always-getting-better/",
+          "publishedOn": "2021-05-31T17:13:02.000Z",
+          "wordCount": 981,
+          "title": "Local: Always Getting Better"
+        },
+        {
           "id": "https://css-tricks.com/?p=341163",
           "author": "Thomas Park",
           "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -244,6 +262,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
+          "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
+          "publishedOn": "2021-05-31T11:30:00.000Z",
+          "wordCount": 2490,
+          "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "author": "hello@smashingmagazine.com (Shalabh Vyas)",
@@ -704,6 +736,15 @@
           "publishedOn": "2021-05-26T14:12:27.000Z",
           "wordCount": 1273,
           "title": "How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js"
+        },
+        {
+          "id": "60ac3a2711ffb70827ef6aec",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Valentine machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/",
+          "publishedOn": "2021-05-25T22:43:11.000Z",
+          "wordCount": 1664,
+          "title": "Keep Calm and Hack The Box – Valentine"
         }
       ]
     },
@@ -712,6 +753,42 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135212",
+          "author": "g.O.R.i",
+          "description": "Apple Japanが6月1日、YouTubeチャンネルを更新。Apple Watchの日本独自CM「さあ、アクティブな方へ」を公開した。Apple Watchに引っ張られて日常生活の中に運動を取り入れる様子を表現した内容となっている。 登場するApple Watchは、身につけている人を無理やり…\nThe post Apple Japan、日本独自CM「さあ、アクティブな方へ」を公開 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-tvcm/135212",
+          "publishedOn": "2021-05-31T23:57:04.000Z",
+          "wordCount": 173,
+          "title": "Apple Japan、日本独自CM「さあ、アクティブな方へ」を公開"
+        },
+        {
+          "id": "https://gori.me/?p=135200",
+          "author": "g.O.R.i",
+          "description": "M1 MacBook Proの内蔵ディスプレイと12.9インチiPad Proの2020年モデルと2021年モデルを使い、携帯可能なトリプルモニター環境を構築してみた。1台目のiPad ProはSidecar、2台目はLuna Displayで接続した。Sidecarはワンクリック、Luna Dis…\nThe post 12.9インチiPad Proを2枚使って携帯可能なトリプルモニター環境を作ってみた first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/135200",
+          "publishedOn": "2021-05-31T21:45:49.000Z",
+          "wordCount": 215,
+          "title": "12.9インチiPad Proを2枚使って携帯可能なトリプルモニター環境を作ってみた"
+        },
+        {
+          "id": "https://gori.me/?p=135193",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 Apple Watch …\nThe post SEが2.7万円から！Apple Watch整備済商品の最新情報（2021年5月31日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/135193",
+          "publishedOn": "2021-05-31T05:29:10.000Z",
+          "wordCount": 246,
+          "title": "SEが2.7万円から！Apple Watch整備済商品の最新情報（2021年5月31日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=135191",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 Mac miniが67,980…\nThe post 6.7万円のM1 Mac miniが復活！Mac整備済商品の最新情報（2021年5月31日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/135191",
+          "publishedOn": "2021-05-31T05:21:11.000Z",
+          "wordCount": 769,
+          "title": "6.7万円のM1 Mac miniが復活！Mac整備済商品の最新情報（2021年5月31日更新）"
+        },
         {
           "id": "https://gori.me/?p=135005",
           "author": "g.O.R.i",
