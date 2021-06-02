@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "author": null,
+          "description": "Added: testing and CI/CD workflows",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "publishedOn": "2021-06-01T04:39:30.000Z",
+          "wordCount": 268,
+          "title": "v1.10.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "author": null,
           "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
@@ -102,6 +111,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=341720",
+          "author": "Chris Coyier",
+          "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ped.ro/blog/code-blocks-but-better",
+          "publishedOn": "2021-06-01T22:08:48.000Z",
+          "wordCount": 3202,
+          "title": "Code blocks, but better"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341342",
+          "author": "Evgeny Klimenchenko",
+          "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
+          "publishedOn": "2021-06-01T14:17:43.000Z",
+          "wordCount": 3850,
+          "title": "Front-End Testing is For Everyone"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341296",
+          "author": "Geoff Graham",
+          "description": "Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…\nThe post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/",
+          "publishedOn": "2021-06-01T14:16:55.000Z",
+          "wordCount": 926,
+          "title": "Jetpack Boost Handles Critical CSS For You"
+        },
         {
           "id": "https://css-tricks.com/?p=340465",
           "author": "Jason Lengstorf",
@@ -262,6 +298,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
+          "publishedOn": "2021-06-01T14:00:00.000Z",
+          "wordCount": 7115,
+          "title": "Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6db8029d-7039-4beb-b787-f3a0df852f12/smashing-podcast-episode-38.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.",
+          "link": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
+          "publishedOn": "2021-06-01T09:00:00.000Z",
+          "wordCount": 1362,
+          "title": "Setting Up A Currency Convertor With ExchangeRatesApi.io",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ce4b3b1-3ae6-4371-8aaf-d72da3b69fc5/4-exchange-rate-api-bsa.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -625,20 +689,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2192,
-          "title": "The Evolution Of Jamstack",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -647,6 +697,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b5025111ffb70827ef9ebe",
+          "author": null,
+          "description": "Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.",
+          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
+          "publishedOn": "2021-06-01T23:47:33.000Z",
+          "wordCount": 1861,
+          "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
+        },
+        {
+          "id": "60b1eed311ffb70827ef9504",
+          "author": null,
+          "description": "A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the",
+          "link": "https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/",
+          "publishedOn": "2021-06-01T20:47:43.000Z",
+          "wordCount": 1416,
+          "title": "Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe"
+        },
+        {
+          "id": "60b668c0acb62507dd1d710b",
+          "author": null,
+          "description": "Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed",
+          "link": "https://www.freecodecamp.org/news/learn-next-js/",
+          "publishedOn": "2021-06-01T17:43:56.000Z",
+          "wordCount": 407,
+          "title": "Learn Next.js and Make React Development Simpler"
+        },
+        {
+          "id": "60acf28e11ffb70827ef6dd9",
+          "author": null,
+          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how",
+          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/",
+          "publishedOn": "2021-06-01T16:35:00.000Z",
+          "wordCount": 2823,
+          "title": "My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source"
+        },
+        {
+          "id": "60aff2d711ffb70827ef8829",
+          "author": null,
+          "description": "This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/",
+          "publishedOn": "2021-06-01T16:34:00.000Z",
+          "wordCount": 2137,
+          "title": "How to Get a Cybersecurity Job in 2021"
+        },
+        {
+          "id": "607f5fafdd38b9088c2bd0c9",
+          "author": null,
+          "description": "When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error",
+          "link": "https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/",
+          "publishedOn": "2021-06-01T04:19:48.000Z",
+          "wordCount": 6197,
+          "title": "Logical Fallacies – Definition and Fallacy Examples"
+        },
         {
           "id": "60acf28e11ffb70827ef6dd9",
           "author": null,
@@ -753,6 +857,51 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135209",
+          "author": "g.O.R.i",
+          "description": "iPadをほとんど使いこなしていない僕でも、iPad mini 5は毎日手にとっている。特に読書熱が増してからは自宅外にも持ち運び、隙間時間を見ては読み進める生活を続けている。本を読んでいないときはYouTubeを見ていることが多い。 カレンダー、天気、パスワード管理アプリ、メール、タスク管理ツール…\nThe post iPad mini 5が好きな理由、新モデルに期待すること first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipad/ipadmini/135209",
+          "publishedOn": "2021-06-01T21:45:30.000Z",
+          "wordCount": 259,
+          "title": "iPad mini 5が好きな理由、新モデルに期待すること"
+        },
+        {
+          "id": "https://gori.me/?p=135222",
+          "author": "g.O.R.i",
+          "description": "2021年の新型iPhone（iPhone 13）に内蔵されるバッテリーは、iPhone 12シリーズと比べて容量が増加している可能性がある。Weiboに投稿された中国認証機関の申請情報と見られるスクリーンショットによると、iPhone 12シリーズと比べてバッテリー容量が8〜18％増加するという。…\nThe post iPhone 13、バッテリー容量は最大18％増加か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/135222",
+          "publishedOn": "2021-06-01T15:09:02.000Z",
+          "wordCount": 281,
+          "title": "iPhone 13、バッテリー容量は最大18％増加か"
+        },
+        {
+          "id": "https://gori.me/?p=135220",
+          "author": "g.O.R.i",
+          "description": "ジャストシステムは6月1日、日本語入力システム「ATOK for Mac」を最新バージョン（Tech Ver.32.1）にアップデート。AppleシリコンMacを正式にサポートした。これまではRosetta 2での動作となっていた。 「ATOK Passport／ATOK定額制サービス」で「ATOK…\nThe post ATOK for Mac、AppleシリコンMacを正式サポート first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apps/mac-app-news/135220",
+          "publishedOn": "2021-06-01T12:43:38.000Z",
+          "wordCount": 170,
+          "title": "ATOK for Mac、AppleシリコンMacを正式サポート"
+        },
+        {
+          "id": "https://gori.me/?p=135218",
+          "author": "g.O.R.i",
+          "description": "楽天モバイルよりキャプチャ 楽天モバイルが、Rakuten UN-LIMIT VI（SIM）を申し込むと還元されるポイントが7,000ポイントに増額するキャンペーンをスタートした。通常は5,000ポイント。キャンペーンは6月11日までの期間限定で開催される。 キャンペーン対象者は、楽天モバイルを初め…\nThe post 楽天モバイル、申し込みで7,000ポイント還元キャンペーン開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mobile/smartphone/135218",
+          "publishedOn": "2021-06-01T03:53:52.000Z",
+          "wordCount": 196,
+          "title": "楽天モバイル、申し込みで7,000ポイント還元キャンペーン開催中"
+        },
+        {
+          "id": "https://gori.me/?p=135216",
+          "author": "g.O.R.i",
+          "description": "新型MacBook Pro用のミニLEDディスプレイパネルが、2021年第3四半期（7〜9月）に出荷開始される可能性がある。製造はGlobal Lighting Technologiesが担当するという。 Digitimesは先月18日、新型MacBook Proの量産開始時期が2021年第4四半期…\nThe post 新型MacBook Pro用のミニLED、7月以降に出荷開始か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/135216",
+          "publishedOn": "2021-06-01T02:10:37.000Z",
+          "wordCount": 180,
+          "title": "新型MacBook Pro用のミニLED、7月以降に出荷開始か"
+        },
         {
           "id": "https://gori.me/?p=135212",
           "author": "g.O.R.i",
@@ -909,5 +1058,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
