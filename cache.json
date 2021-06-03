@@ -112,6 +112,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341724",
+          "author": "Chris Coyier",
+          "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/debugging-ios-safari/",
+          "publishedOn": "2021-06-02T21:15:28.000Z",
+          "wordCount": 974,
+          "title": "Debugging iOS Safari"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341442",
+          "author": "Dmitry Mayorov",
+          "description": "Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …\nThe post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-crash-course-in-wordpress-block-filters/",
+          "publishedOn": "2021-06-02T13:35:53.000Z",
+          "wordCount": 4169,
+          "title": "A Crash Course in WordPress Block Filters"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341572",
+          "author": "Chris Coyier",
+          "description": "PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …\nThe post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/",
+          "publishedOn": "2021-06-02T13:35:40.000Z",
+          "wordCount": 1058,
+          "title": "Are Custom Properties a “Menu of What Will Change”?"
+        },
+        {
           "id": "https://css-tricks.com/?p=341720",
           "author": "Chris Coyier",
           "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -298,6 +325,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
+          "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
+          "publishedOn": "2021-06-02T12:30:00.000Z",
+          "wordCount": 4327,
+          "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
+          "author": "hello@smashingmagazine.com (Jennifer Brehm)",
+          "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
+          "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
+          "publishedOn": "2021-06-02T10:30:00.000Z",
+          "wordCount": 5387,
+          "title": "Improving The Performance Of An Online Store (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
@@ -675,20 +730,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "publishedOn": "2021-05-04T05:00:00.000Z",
-          "wordCount": 6993,
-          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/07c22e99-6bd0-4012-9227-b494596b6bc7/smashing-podcast-episode-36.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -697,6 +738,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60afce3011ffb70827ef869c",
+          "author": null,
+          "description": "Git has a feature to \"sign\" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using",
+          "link": "https://www.freecodecamp.org/news/what-is-commit-signing-in-git/",
+          "publishedOn": "2021-06-02T23:14:01.000Z",
+          "wordCount": 2282,
+          "title": "What is Commit Signing in Git?"
+        },
+        {
+          "id": "60b3a25211ffb70827ef9b39",
+          "author": null,
+          "description": "In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend",
+          "link": "https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/",
+          "publishedOn": "2021-06-02T22:54:18.000Z",
+          "wordCount": 1415,
+          "title": "How to Use Environment Variables in VanillaJS"
+        },
+        {
+          "id": "60b3ccee11ffb70827ef9bc0",
+          "author": null,
+          "description": "One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.",
+          "link": "https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/",
+          "publishedOn": "2021-06-02T21:18:15.000Z",
+          "wordCount": 2365,
+          "title": "How to Design Your Own Learning Plan for Any Tech Stack"
+        },
+        {
+          "id": "60a699b0906c5207e3a7f5ab",
+          "author": null,
+          "description": "Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following",
+          "link": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/",
+          "publishedOn": "2021-06-02T20:44:22.000Z",
+          "wordCount": 3441,
+          "title": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More"
+        },
+        {
+          "id": "60b0f11411ffb70827ef8dbc",
+          "author": null,
+          "description": "Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,",
+          "link": "https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/",
+          "publishedOn": "2021-06-02T19:39:05.000Z",
+          "wordCount": 1155,
+          "title": "Fetch API – How to Make a GET Request and POST Request in JavaScript"
+        },
+        {
+          "id": "60b4ff4711ffb70827ef9eb2",
+          "author": null,
+          "description": "What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release",
+          "link": "https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/",
+          "publishedOn": "2021-06-02T19:14:53.000Z",
+          "wordCount": 2649,
+          "title": "How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project"
+        },
+        {
+          "id": "60b51f6e11ffb70827ef9f7c",
+          "author": null,
+          "description": "Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in",
+          "link": "https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/",
+          "publishedOn": "2021-06-02T14:45:18.000Z",
+          "wordCount": 3302,
+          "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
+        },
         {
           "id": "60b5025111ffb70827ef9ebe",
           "author": null,
@@ -857,6 +961,114 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135262",
+          "author": "g.O.R.i",
+          "description": "Spigenが、カラビナ風フック付きのAirTagホルダー「Spigen AirTag Case Rugged Armor」を国内で販売開始した。 Spigen AirTag Case Rugged Armorは、AirTagを収納するホルダー部分に着脱可能なカラビナ風フックを用意。付属のキーリング…\nThe post Spigen、カラビナ風フック付きAirTagホルダーを国内で販売開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/iphone-prepherial/135262",
+          "publishedOn": "2021-06-03T00:25:08.000Z",
+          "wordCount": 174,
+          "title": "Spigen、カラビナ風フック付きAirTagホルダーを国内で販売開始"
+        },
+        {
+          "id": "https://gori.me/?p=135258",
+          "author": "g.O.R.i",
+          "description": "Appleは6月3日、「iOS 14.7 Beta 2」「iPadOS 14.7 Beta 2」「macOS Big Sur 11.5 Beta」「watchOS 7.6 Beta 2」「tvOS 14.7 Beta 2」を開発者向けに配信開始した。最新バージョンの新機能や変更点は、現時点では明らか…\nThe post iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 2、開発者向けに配信開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios14/135258",
+          "publishedOn": "2021-06-02T23:42:25.000Z",
+          "wordCount": 258,
+          "title": "iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 2、開発者向けに配信開始"
+        },
+        {
+          "id": "https://gori.me/?p=135235",
+          "author": "g.O.R.i",
+          "description": "iPhoneのインターネット共有（テザリング）機能は便利だ。特にiPhoneをポケットやバッグに入れたままテザリングできるInstant Hotspotは便利。Macの場合、Wi-FI設定の「インターネット共有」から自分のiPhoneをクリックするだけでテザリングが開始される。 Instant Ho…\nThe post iPhoneのテザリング、ケーブルで繋いだほうが速いって知ってた？ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-tips/135235",
+          "publishedOn": "2021-06-02T21:45:27.000Z",
+          "wordCount": 247,
+          "title": "iPhoneのテザリング、ケーブルで繋いだほうが速いって知ってた？"
+        },
+        {
+          "id": "https://gori.me/?p=135252",
+          "author": "g.O.R.i",
+          "description": "/LEAKSより Googleの2021年フラッグシップスマートフォン「Pixel 6」用とされる、サードパーティ製のケース画像が公開された。「Pixel 6」シリーズは、カメラレンズおよびLEDフラッシュが端末上部に横並びに配置されており、ケース画像は突起に合わせて作られている。 #Google …\nThe post Pixel 6シリーズのサードパーティケース画像が流出　レンダリング画像と一致 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/google/pixel-news/135252",
+          "publishedOn": "2021-06-02T21:00:17.000Z",
+          "wordCount": 225,
+          "title": "Pixel 6シリーズのサードパーティケース画像が流出　レンダリング画像と一致"
+        },
+        {
+          "id": "https://gori.me/?p=135254",
+          "author": "g.O.R.i",
+          "description": "Appleの採用情報に「homeOS」の記載が発見され、話題になっている。Apple MusicにおけるシニアiOSエンジニアの募集要項の中で、AppleはhomeOSについて言及。 iOS、watchOS、tvOSのOSと並んでおり、homeOSを「モバイルプラットフォーム」と説明している。 Ap…\nThe post Apple、WWDCで「homeOS」を発表か　採用情報に記載 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/135254",
+          "publishedOn": "2021-06-02T15:00:57.000Z",
+          "wordCount": 162,
+          "title": "Apple、WWDCで「homeOS」を発表か　採用情報に記載"
+        },
+        {
+          "id": "https://gori.me/?p=135256",
+          "author": "g.O.R.i",
+          "description": "Appleは現地時間6月1日、WWDC 2021のイベント用ハッシュタグを提供開始した。「#WWDC21」と入力すると吹き出しに”いいね”アイコンが表示された絵文字が追加される。 WWDC 2021では次期OSのメジャーアップデートが発表される見通し。絵文字の意味は不明だが、iOS/iPadOSの次…\nThe post #WWDC21 のイベント用ハッシュタグが登場 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/wwdc/135256",
+          "publishedOn": "2021-06-02T15:00:49.000Z",
+          "wordCount": 161,
+          "title": "#WWDC21 のイベント用ハッシュタグが登場"
+        },
+        {
+          "id": "https://gori.me/?p=135250",
+          "author": "g.O.R.i",
+          "description": "Kindleの読み放題サービス「Kindle Unlimited」が、プライム会員を対象に3カ月間99円で利用できるキャンペーンを開催している。キャンペーン開催期間中に登録すれば、本来は980円 × 3カ月で2,940円のところ、99円で利用できる。 キャンペーン開催期間は2021年6月22日（火）…\nThe post 【97％オフ】読み放題「Kindle Unlimited」、3カ月99円キャンペーン開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/kindle-sale/135250",
+          "publishedOn": "2021-06-02T12:39:11.000Z",
+          "wordCount": 172,
+          "title": "【97％オフ】読み放題「Kindle Unlimited」、3カ月99円キャンペーン開催中"
+        },
+        {
+          "id": "https://gori.me/?p=135246",
+          "author": "g.O.R.i",
+          "description": "Amazonは、年に一度のプライム会員大感謝祭「プライムデー」を開催する。開催期間は、6月21日（月）0時から22日23時59分。Apple、BEAMS, iRobot、ル・クルーゼ、LG、シャープ、 snidel、ティファールなど多数のトップブランドやカスタマーレビュー星4つ以上の人気商品を特別価…\nThe post Amazon、大感謝祭「プライムデー」を6月21日より開催へ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/amazon/amazon-sale/135246",
+          "publishedOn": "2021-06-02T07:31:10.000Z",
+          "wordCount": 163,
+          "title": "Amazon、大感謝祭「プライムデー」を6月21日より開催へ"
+        },
+        {
+          "id": "https://gori.me/?p=135243",
+          "author": "g.O.R.i",
+          "description": "Amazon Music Unlimitedよりキャプチャ Amazonが6月21日より開催するプライムデーに先立ち、音楽ストリーミングサービス「Amazon Music Unlimited」を全く利用したことがないプライム会員を対象に、4ヶ月間無料で利用できるキャンペーンをスタートした。通常は3,…\nThe post Amazon Music Unlimited、4ヶ月無料キャンペーンを開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/amazon/amazon-sale/135243",
+          "publishedOn": "2021-06-02T06:55:41.000Z",
+          "wordCount": 172,
+          "title": "Amazon Music Unlimited、4ヶ月無料キャンペーンを開始"
+        },
+        {
+          "id": "https://gori.me/?p=135241",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 Apple Watch …\nThe post SE/44mmが3万円台！Apple Watch整備済商品の最新情報（2021年6月2日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/135241",
+          "publishedOn": "2021-06-02T04:16:12.000Z",
+          "wordCount": 195,
+          "title": "SE/44mmが3万円台！Apple Watch整備済商品の最新情報（2021年6月2日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=135239",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は12.9インチiPad Pro（…\nThe post 12.9インチiPad Proがお買い得！iPad整備済商品の最新情報（2021年6月2日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/135239",
+          "publishedOn": "2021-06-02T04:10:09.000Z",
+          "wordCount": 193,
+          "title": "12.9インチiPad Proがお買い得！iPad整備済商品の最新情報（2021年6月2日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=135237",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 Mac mini、M1 Mac…\nThe post M1 Macが多数復活！Mac整備済商品の最新情報（2021年6月2日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/135237",
+          "publishedOn": "2021-06-02T04:05:48.000Z",
+          "wordCount": 1802,
+          "title": "M1 Macが多数復活！Mac整備済商品の最新情報（2021年6月2日更新）"
+        },
         {
           "id": "https://gori.me/?p=135209",
           "author": "g.O.R.i",
