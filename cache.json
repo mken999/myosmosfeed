@@ -103,6 +103,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341793",
+          "author": "Chris Coyier",
+          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
+          "publishedOn": "2021-06-04T20:36:46.000Z",
+          "wordCount": 1039,
+          "title": "Principles for user-centered front-end development"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341968",
+          "author": "Chris Coyier",
+          "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bkardell.com/blog/canihas.html",
+          "publishedOn": "2021-06-04T14:37:59.000Z",
+          "wordCount": 1327,
+          "title": "Can I :has()"
+        },
+        {
           "id": "https://css-tricks.com/?p=341584",
           "author": "Temani Afif",
           "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -334,6 +352,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "author": "hello@smashingmagazine.com (Nwani Victory)",
+          "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
+          "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "publishedOn": "2021-06-04T10:00:00.000Z",
+          "wordCount": 4138,
+          "title": "Getting Started With Webpack",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
@@ -711,20 +743,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "author": "hello@smashingmagazine.com (Carson Shold)",
-          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
-          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2662,
-          "title": "Improving The Performance Of Shopify Themes (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -733,6 +751,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b3480c11ffb70827ef9a88",
+          "author": null,
+          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
+          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
+          "publishedOn": "2021-06-04T21:34:33.000Z",
+          "wordCount": 2174,
+          "title": "How to Search and Filter Components in React"
+        },
+        {
+          "id": "60ba33d7acb62507dd1d9050",
+          "author": null,
+          "description": "Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for",
+          "link": "https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/",
+          "publishedOn": "2021-06-04T20:58:07.000Z",
+          "wordCount": 1544,
+          "title": "Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know"
+        },
+        {
+          "id": "60b8f5c7acb62507dd1d8500",
+          "author": null,
+          "description": "I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.",
+          "link": "https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/",
+          "publishedOn": "2021-06-04T20:41:29.000Z",
+          "wordCount": 2163,
+          "title": "How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server"
+        },
+        {
+          "id": "60b2a4c611ffb70827ef9842",
+          "author": null,
+          "description": "TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-basics/",
+          "publishedOn": "2021-06-04T18:01:00.000Z",
+          "wordCount": 2225,
+          "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b98ebfacb62507dd1d8ec4",
+          "author": null,
+          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
+          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
+          "publishedOn": "2021-06-04T02:32:22.000Z",
+          "wordCount": 390,
+          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
+        },
         {
           "id": "60b11ff811ffb70827ef8f94",
           "author": null,
@@ -1010,6 +1073,42 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135291",
+          "author": "g.O.R.i",
+          "description": "WWDC21よりキャプチャ Appleは6月7日より開催するWWDC 2021で、Safari、ヘルスケア、マップ、iMessageに関する大規模なアップデート内容を発表する可能性がある。The Wall Street Journalに務めAppleとの関係性が近いジャーナリストJoanna Ste…\nThe post Apple、Safari・ヘルスケア・マップ・iMessageに大規模なアップデートが計画中か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/wwdc/135291",
+          "publishedOn": "2021-06-05T00:14:23.000Z",
+          "wordCount": 203,
+          "title": "Apple、Safari・ヘルスケア・マップ・iMessageに大規模なアップデートが計画中か"
+        },
+        {
+          "id": "https://gori.me/?p=135289",
+          "author": "g.O.R.i",
+          "description": "Appleは6月5日、開発者向けのサポートページを更新。2021年6月3日時点でApp StoreにアクセスしたiOSデバイスをもとに集計した、iOSバージョン別のシェアを公開した。 前回測定時よりiOS 14は5％増、iPadOS 14は9％増 過去4年間に発売されたデバイスのうち、iOS 14が…\nThe post iOS/iPadOSバージョン別シェア、iOS 14は90％、iPadOS 14は91％ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios14/135289",
+          "publishedOn": "2021-06-04T23:31:44.000Z",
+          "wordCount": 203,
+          "title": "iOS/iPadOSバージョン別シェア、iOS 14は90％、iPadOS 14は91％"
+        },
+        {
+          "id": "https://gori.me/?p=135286",
+          "author": "g.O.R.i",
+          "description": "新型MacBook Pro（2021）が、早ければWWDC 2021で正式に発表される可能性がある。14インチと16インチが用意され、フラットなデザインの採用、SDカードスロットとHDMIポート、充電用MagSafeの搭載、Touch Barの廃止などが特徴。10コアのCPU、16コア/32コアのG…\nThe post 14インチMacBook Pro、「欲しい」と「要らない」の狭間 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/135286",
+          "publishedOn": "2021-06-04T21:45:42.000Z",
+          "wordCount": 276,
+          "title": "14インチMacBook Pro、「欲しい」と「要らない」の狭間"
+        },
+        {
+          "id": "https://gori.me/?p=135285",
+          "author": "g.O.R.i",
+          "description": "※写真はイメージ Appleは、デザインを刷新した新型iPad mini（iPad mini 6）と薄型化したエントリーモデルのiPad（iPad 9）を年内に発表する可能性がある。Bloombergによると、「iPad mini 6」は狭額縁デザインの採用、ホームボタンの廃止が検討中。「iPad …\nThe post 新型iPad miniはホームボタン廃止、iPad Pro（2022）はワイヤレス充電対応か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipad/ipadmini/135285",
+          "publishedOn": "2021-06-04T07:34:00.000Z",
+          "wordCount": 216,
+          "title": "新型iPad miniはホームボタン廃止、iPad Pro（2022）はワイヤレス充電対応か"
+        },
         {
           "id": "https://gori.me/?p=135282",
           "author": "g.O.R.i",
