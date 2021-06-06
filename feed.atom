@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T00:41:58.643Z</updated>
+    <updated>2021-06-06T00:35:00.529Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[M2 MacBook Air、軽さと性能を兼ね揃えた最強マシーンになる予感]]></title>
+        <id>https://gori.me/?p=135292</id>
+        <link href="https://gori.me/macbookair/135292"/>
+        <updated>2021-06-05T21:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Appleが次に発表するMacBookシリーズは、ハイエンド機種と位置付けられるMacBook Proシリーズだ。内蔵される「M1X」チップは、M1を凌駕する性能が期待されている。 僕はメインマシーンとしてM1 MacBook Proを使っており、満足度は非常に高い。仕事柄、14インチMacBook…
+The post M2 MacBook Air、軽さと性能を兼ね揃えた最強マシーンになる予感 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple、Safari・ヘルスケア・マップ・iMessageに大規模なアップデートが計画中か]]></title>
         <id>https://gori.me/?p=135291</id>
@@ -1681,16 +1694,6 @@ Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
         </author>
     </entry>
 </feed>

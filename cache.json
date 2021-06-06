@@ -729,20 +729,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": "hello@smashingmagazine.com (Valeriia Panina)",
-          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
-          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4174,
-          "title": "How To Organize Product-Related Assets And Collaborate Better",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -1073,6 +1059,15 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135292",
+          "author": "g.O.R.i",
+          "description": "Appleが次に発表するMacBookシリーズは、ハイエンド機種と位置付けられるMacBook Proシリーズだ。内蔵される「M1X」チップは、M1を凌駕する性能が期待されている。 僕はメインマシーンとしてM1 MacBook Proを使っており、満足度は非常に高い。仕事柄、14インチMacBook…\nThe post M2 MacBook Air、軽さと性能を兼ね揃えた最強マシーンになる予感 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookair/135292",
+          "publishedOn": "2021-06-05T21:45:30.000Z",
+          "wordCount": 238,
+          "title": "M2 MacBook Air、軽さと性能を兼ね揃えた最強マシーンになる予感"
+        },
         {
           "id": "https://gori.me/?p=135291",
           "author": "g.O.R.i",
