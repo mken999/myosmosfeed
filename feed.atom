@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T00:35:00.529Z</updated>
+    <updated>2021-06-07T00:35:23.798Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WWDC 2021の発表予想まとめ：iOS/iPadOS 15、新型MacBook Proなど]]></title>
+        <id>https://gori.me/?p=135300</id>
+        <link href="https://gori.me/apple/wwdc/135300"/>
+        <updated>2021-06-06T21:55:51.000Z</updated>
+        <summary type="html"><![CDATA[WWDC 2021の基調講演は、日本時間6月8日午前2時からスタートする。iOS、iPadOS、macOS、watchOS、tvOSの次期メジャーアップデートが正式に発表されるだろう。リリースは、いずれも今秋以降になると見られる。 【関連】WWDC 2021、基調講演のライブ配信を見る方法（日本時間…
+The post WWDC 2021の発表予想まとめ：iOS/iPadOS 15、新型MacBook Proなど first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WWDC 2021、基調講演のライブ配信を見る方法（日本時間6月8日午前2時から）]]></title>
+        <id>https://gori.me/?p=135299</id>
+        <link href="https://gori.me/apple/wwdc/135299"/>
+        <updated>2021-06-06T21:45:22.000Z</updated>
+        <summary type="html"><![CDATA[WWDC 2021は、スペシャルイベント基調講演とともにスタート。日本時間6月8日（火）午前2時から約2時間行われる。秋に正式リリースされる次期iOS、iPadOS、macOS、watchOS、tvOSなどのアップデート内容が披露される。ハードウェアは例年発表されないが、今年は新型MacBook P…
+The post WWDC 2021、基調講演のライブ配信を見る方法（日本時間6月8日午前2時から） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Music空間オーディオの発表イベント、WWDC基調講演の直後に開催へ]]></title>
+        <id>https://gori.me/?p=135304</id>
+        <link href="https://gori.me/apple/special-event/135304"/>
+        <updated>2021-06-06T12:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、WWDC 2021の基調講演を終えた直後に、空間オーディオに関するスペシャルイベントを開催する。Apple Musicのラジオ番組として予告されており、アートワークには「Tune in at 12 p.m. PT on June 7 to watch this special even…
+The post Apple Music空間オーディオの発表イベント、WWDC基調講演の直後に開催へ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、メンタルヘルス関連の新機能を発表か]]></title>
+        <id>https://gori.me/?p=135302</id>
+        <link href="https://gori.me/apple/wwdc/135302"/>
+        <updated>2021-06-06T02:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、新しい「Mind」アプリを準備している可能性がある。App Storeのマニフェストファイルから、アプリバンドル識別子「com.Apple.Mind」が発見された。 Looks like someone deployed the new profile for App Store to…
+The post Apple、メンタルヘルス関連の新機能を発表か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M2 MacBook Air、軽さと性能を兼ね揃えた最強マシーンになる予感]]></title>
         <id>https://gori.me/?p=135292</id>
@@ -1678,20 +1730,6 @@ Added: Semantic API for theming the default template. Demo | Source | Docs
 Changed: Moved feed metadata from article level to feed level in cache.
 Fixed: Any html-like text was stripped from title. Fixed with encoded text.
 Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

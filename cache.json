@@ -85,15 +85,6 @@
           "publishedOn": "2021-05-10T08:15:20.000Z",
           "wordCount": 352,
           "title": "v1.6.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "author": null,
-          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "publishedOn": "2021-05-08T05:16:47.000Z",
-          "wordCount": 306,
-          "title": "v1.5.0"
         }
       ]
     },
@@ -1059,6 +1050,42 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135300",
+          "author": "g.O.R.i",
+          "description": "WWDC 2021の基調講演は、日本時間6月8日午前2時からスタートする。iOS、iPadOS、macOS、watchOS、tvOSの次期メジャーアップデートが正式に発表されるだろう。リリースは、いずれも今秋以降になると見られる。 【関連】WWDC 2021、基調講演のライブ配信を見る方法（日本時間…\nThe post WWDC 2021の発表予想まとめ：iOS/iPadOS 15、新型MacBook Proなど first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/wwdc/135300",
+          "publishedOn": "2021-06-06T21:55:51.000Z",
+          "wordCount": 229,
+          "title": "WWDC 2021の発表予想まとめ：iOS/iPadOS 15、新型MacBook Proなど"
+        },
+        {
+          "id": "https://gori.me/?p=135299",
+          "author": "g.O.R.i",
+          "description": "WWDC 2021は、スペシャルイベント基調講演とともにスタート。日本時間6月8日（火）午前2時から約2時間行われる。秋に正式リリースされる次期iOS、iPadOS、macOS、watchOS、tvOSなどのアップデート内容が披露される。ハードウェアは例年発表されないが、今年は新型MacBook P…\nThe post WWDC 2021、基調講演のライブ配信を見る方法（日本時間6月8日午前2時から） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/wwdc/135299",
+          "publishedOn": "2021-06-06T21:45:22.000Z",
+          "wordCount": 213,
+          "title": "WWDC 2021、基調講演のライブ配信を見る方法（日本時間6月8日午前2時から）"
+        },
+        {
+          "id": "https://gori.me/?p=135304",
+          "author": "g.O.R.i",
+          "description": "Appleは、WWDC 2021の基調講演を終えた直後に、空間オーディオに関するスペシャルイベントを開催する。Apple Musicのラジオ番組として予告されており、アートワークには「Tune in at 12 p.m. PT on June 7 to watch this special even…\nThe post Apple Music空間オーディオの発表イベント、WWDC基調講演の直後に開催へ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/special-event/135304",
+          "publishedOn": "2021-06-06T12:36:21.000Z",
+          "wordCount": 181,
+          "title": "Apple Music空間オーディオの発表イベント、WWDC基調講演の直後に開催へ"
+        },
+        {
+          "id": "https://gori.me/?p=135302",
+          "author": "g.O.R.i",
+          "description": "Appleは、新しい「Mind」アプリを準備している可能性がある。App Storeのマニフェストファイルから、アプリバンドル識別子「com.Apple.Mind」が発見された。 Looks like someone deployed the new profile for App Store to…\nThe post Apple、メンタルヘルス関連の新機能を発表か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/wwdc/135302",
+          "publishedOn": "2021-06-06T02:01:59.000Z",
+          "wordCount": 193,
+          "title": "Apple、メンタルヘルス関連の新機能を発表か"
+        },
         {
           "id": "https://gori.me/?p=135292",
           "author": "g.O.R.i",
