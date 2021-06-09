@@ -2,10 +2,218 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T00:38:19.194Z</updated>
+    <updated>2021-06-09T00:20:36.959Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Musicの空間オーディオ楽曲、今秋にダイナミック・ヘッド・トラッキング対応へ]]></title>
+        <id>https://gori.me/?p=135418</id>
+        <link href="https://gori.me/apple/apple-music/135418"/>
+        <updated>2021-06-09T00:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple Musicの空間オーディオ楽曲は今秋、ダイナミック・ヘッド・トラッキングに対応する。Appleがサポートドキュメントで明らかにした。 ダイナミック・ヘッド・トラッキングは、頭の向きを変えたりiPhoneを動かしたりしても、適切にサウンドが聞こえる仕組みだ。動画コンテンツでは、再生している…
+The post Apple Musicの空間オーディオ楽曲、今秋にダイナミック・ヘッド・トラッキング対応へ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、折畳スマホ「Pixel Fold」を10月以降に発表か]]></title>
+        <id>https://gori.me/?p=135416</id>
+        <link href="https://gori.me/google/pixel-news/135416"/>
+        <updated>2021-06-08T22:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、折畳スマホ「Pixel Fold」を2021年第4四半期（10〜12月）に発表する可能性がある。THE ELECによると、Samsung DisplayがGoogle用に折畳式有機ELパネルの生産を10月に開始するという。「Pixel Fold」は、7.6インチディスプレイを搭載して…
+The post Google、折畳スマホ「Pixel Fold」を10月以降に発表か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Max向け最新ファームウェア「3E756」が配信開始]]></title>
+        <id>https://gori.me/?p=135414</id>
+        <link href="https://gori.me/music-accessories/airpods/135414"/>
+        <updated>2021-06-08T22:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月9日、AirPods Max向けに新しいファームウェアバージョン「3E756」を配信開始した。アップデートによる新機能や変更点は明らかにされていないが、提供開始された空間オーディオ対応楽曲の再生に関連している可能性がある。 AirPodsのアップデートを手動で適用する方法はない。ファ…
+The post AirPods Max向け最新ファームウェア「3E756」が配信開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Your Own Electronics With Arduino - Full Course]]></title>
+        <id>60bfd986d3126007592d53a1</id>
+        <link href="https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/"/>
+        <updated>2021-06-08T21:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
+        <id>https://css-tricks.com/?p=341982</id>
+        <link href="https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/"/>
+        <updated>2021-06-08T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …
+The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Todd Libby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
+        <id>60b23b8911ffb70827ef954e</id>
+        <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
+        <updated>2021-06-08T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete CSS Grid Tutorial with Cheat Sheet 🎖️]]></title>
+        <id>60be6a3cd3126007592d4a03</id>
+        <link href="https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/"/>
+        <updated>2021-06-08T16:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15、データ移行時のみiCloudストレージを無料で増量へ]]></title>
+        <id>https://gori.me/?p=135396</id>
+        <link href="https://gori.me/ios/ios15/135396"/>
+        <updated>2021-06-08T14:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、iOS 15で古いiPhoneから新しいiPhoneにデータを移行する際に、iCloudのストレージ容量を一時的に無料で増やす機能を提供する。iCloudは無料で5GBのストレージ容量が利用できるが、最大512GBのストレージを内蔵するモデルが登場している中、バックアップ用としては十分…
+The post iOS 15、データ移行時のみiCloudストレージを無料で増量へ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
+        <id>https://css-tricks.com/?p=341884</id>
+        <link href="https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/"/>
+        <updated>2021-06-08T14:16:07.000Z</updated>
+        <summary type="html"><![CDATA[WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.
+At first, the site …
+The post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS/iPadOS 15、macOS Montereyの公式壁紙がダウンロード可能に]]></title>
+        <id>https://gori.me/?p=135412</id>
+        <link href="https://gori.me/ios/ios15/135412"/>
+        <updated>2021-06-08T14:09:13.000Z</updated>
+        <summary type="html"><![CDATA[iOS 15とiPadOS 15に内蔵されている新しい公式壁紙を、Apple Trackが公開している。ライトバージョンとダークバージョンがそれぞれのOS別に用意されており、合計4枚がダウンロード可能となっている。 またiDBは、macOS Montereyの公式壁紙を配布。同じくライトバージョンと…
+The post iOS/iPadOS 15、macOS Montereyの公式壁紙がダウンロード可能に first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Illustrator、InDesign、Lightroom ClassicがAppleシリコンMacにネイティブ対応]]></title>
+        <id>https://gori.me/?p=135410</id>
+        <link href="https://gori.me/apps/mac-app-news/135410"/>
+        <updated>2021-06-08T13:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Adobeは6月8日、Adobe Illustrator、InDesign、Lightroom Classicを最新バージョンにアップデート。AppleシリコンMac（M1）にネイティブ対応した。Intel Macと比べたパフォーマンスは、llustratorが65％、InDesignが59％向上す…
+The post Adobe Illustrator、InDesign、Lightroom ClassicがAppleシリコンMacにネイティブ対応 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
+        <updated>2021-06-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon、プライムデー2021に登場予定の商品第1弾を公開]]></title>
+        <id>https://gori.me/?p=135394</id>
+        <link href="https://gori.me/amazon/amazon-sale/135394"/>
+        <updated>2021-06-08T07:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが、プライムデーに登場予定の商品第1弾を公開した。プライムデーは、6月21日（月）から22日（火）の48時間開催。多数のトップブランドやカスタマーレビュー星4つ以上の人気商品を特別価格で販売する、プライム会員向けのビッグセールだ。 第1弾として、人気のAmazonデバイスやまとめ買い商品…
+The post Amazon、プライムデー2021に登場予定の商品第1弾を公開 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Music、空間オーディオ対応楽曲の提供を開始]]></title>
+        <id>https://gori.me/?p=135389</id>
+        <link href="https://gori.me/apple/apple-music/135389"/>
+        <updated>2021-06-08T07:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Apple Musicで、Dolby Atmosをサポートする空間オーディオに対応した楽曲の配信が開始された。空間オーディオ対応楽曲は、H1チップまたはW1チップを搭載するAirPodsおよびBeatsヘッドホンで利用可能。最新のiPhone、iPad、Macのスピーカーも対応する。 多数のプレイリ…
+The post Apple Music、空間オーディオ対応楽曲の提供を開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15、スキップ可能に　iOS 14のままセキュリティアップデートを受け取り可能]]></title>
+        <id>https://gori.me/?p=135387</id>
+        <link href="https://gori.me/ios/ios15/135387"/>
+        <updated>2021-06-08T02:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、iOS 14からアップデートせずにiOS 15向けに提供する最新のセキュリティアップデートを提供すると発表した。iPadOS 14とiPadOS 15でも同様の仕組みが提供される。 Appleは従来、iOSの最新アップデートを配信後に旧OSバージョンのSignature Hash（SH…
+The post iOS 15、スキップ可能に　iOS 14のままセキュリティアップデートを受け取り可能 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15、AirPods向け新機能多数　離れると警告する紛失防止機能など]]></title>
+        <id>https://gori.me/?p=135385</id>
+        <link href="https://gori.me/music-accessories/airpods/135385"/>
+        <updated>2021-06-08T01:43:39.000Z</updated>
+        <summary type="html"><![CDATA[iOS 15の新機能として、AirPods向けの新機能が多数発表された。「探す」アプリに完全対応し、落とした場合でも「探すネットワーク」を利用し場所の特定が可能になった。紛失を事前に防ぐため、ユーザーから離れると警告する機能も追加された。 聴覚が不自由な人向けに会話を強調する機能、通知の読み上げ機能…
+The post iOS 15、AirPods向け新機能多数　離れると警告する紛失防止機能など first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watchOS 8の新機能、意識的に使わなければ存在に気づかないレベル]]></title>
+        <id>https://gori.me/?p=135373</id>
+        <link href="https://gori.me/watchos/watchos8/135373"/>
+        <updated>2021-06-08T00:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月8日、WWDC 2021の基調講演でwatchOSの次期バージョン「watchOS 8」を正式に発表した。開発者向けのベータ版は本日提供開始、一般公開は今秋を予定している。 watchOS 8は、万人受けする新機能がない。ホームアプリとWalletの改良は、対応製品やデバイスがなけれ…
+The post watchOS 8の新機能、意識的に使わなければ存在に気づかないレベル first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Full Stack App with Supabase and Next.js]]></title>
         <id>60bbd28eacb62507dd1d99fb</id>
@@ -1914,42 +2122,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-10T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
