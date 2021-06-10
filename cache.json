@@ -76,6 +76,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340967",
+          "author": "Geoff Graham",
+          "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-cornucopia-of-container-queries/",
+          "publishedOn": "2021-06-09T20:37:00.000Z",
+          "wordCount": 1534,
+          "title": "A Cornucopia of Container Queries"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341916",
+          "author": "Chris Coyier",
+          "description": "Does that make your eye twitch a little bit? Like… it’s a typo. It should be target=\"_blank\" with an underscore to start the value. As in…\n<a target=\"_blank\" href=\"https://codepen.io\"Open CodePen in a New Tab\n</a\nWelp, that’s correct syntax!…\nThe post target=blank appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/targetblank/",
+          "publishedOn": "2021-06-09T14:37:31.000Z",
+          "wordCount": 802,
+          "title": "target=blank"
+        },
+        {
           "id": "https://css-tricks.com/?p=341982",
           "author": "Todd Libby",
           "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -361,6 +379,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
+          "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "publishedOn": "2021-06-09T10:30:00.000Z",
+          "wordCount": 2600,
+          "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -738,20 +770,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "author": "hello@smashingmagazine.com (Amanda Annandale)",
-          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?",
-          "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "publishedOn": "2021-05-11T10:00:00.000Z",
-          "wordCount": 1958,
-          "title": "The Conference Platform We Use For Our Online Events: Hopin",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cabbfe1a-8bcd-4ed3-9442-3ce8e51cc53e/hopin.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -760,6 +778,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b357ad11ffb70827ef9a90",
+          "author": null,
+          "description": "Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to",
+          "link": "https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/",
+          "publishedOn": "2021-06-09T21:55:16.000Z",
+          "wordCount": 3477,
+          "title": "From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey"
+        },
+        {
+          "id": "60c0ccbed3126007592d5781",
+          "author": null,
+          "description": "Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog",
+          "link": "https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/",
+          "publishedOn": "2021-06-09T19:45:20.000Z",
+          "wordCount": 1731,
+          "title": "The Skills You Need to Start Freelancing as a Developer"
+        },
+        {
+          "id": "60c10a1dd3126007592d5988",
+          "author": null,
+          "description": "Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.",
+          "link": "https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/",
+          "publishedOn": "2021-06-09T18:43:07.000Z",
+          "wordCount": 336,
+          "title": "Learn Bootstrap 5 and SASS by Building a Portfolio Website"
+        },
+        {
+          "id": "60bfa4d4d3126007592d5160",
+          "author": null,
+          "description": "Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/",
+          "publishedOn": "2021-06-08T23:47:43.000Z",
+          "wordCount": 9491,
+          "title": "How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud"
+        },
         {
           "id": "60bfd986d3126007592d53a1",
           "author": null,
@@ -1145,6 +1199,78 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135439",
+          "author": "g.O.R.i",
+          "description": "Appleは、ポッドキャスト配信者にメールを送付。Podcastアプリの有料定期購読サービス「Apple Podcastサブスクリプション」を6月15日にリリースすると明らかにした。 当初は5月より170カ国で提供開始する予定だったが、「クリエイターおよびリスナーにとって最高の体験の実現」を理由に延…\nThe post Apple Podcastのサブスク、6月15日にリリースへ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/135439",
+          "publishedOn": "2021-06-09T23:29:38.000Z",
+          "wordCount": 173,
+          "title": "Apple Podcastのサブスク、6月15日にリリースへ"
+        },
+        {
+          "id": "https://gori.me/?p=135438",
+          "author": "g.O.R.i",
+          "description": "国内のApple Store全店舗が、6月16日より短縮営業を終了し通常営業を再開する。計画が変更されなければ、1月以来となる。 Apple銀座、丸の内、新宿、渋谷、表参道、川崎、心斎橋、京都の8店舗は6月15日まで、開店と閉店時間をそれぞれ1時間早めた11時から20時までの短縮営業を実施。Appl…\nThe post 国内のApple Store、6月16日から通常営業へ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/135438",
+          "publishedOn": "2021-06-09T23:17:26.000Z",
+          "wordCount": 170,
+          "title": "国内のApple Store、6月16日から通常営業へ"
+        },
+        {
+          "id": "https://gori.me/?p=135430",
+          "author": "g.O.R.i",
+          "description": "Appleは、iOS 15とともにiCloudの新サービス「iCloud+」（アイクラウドプラス）を発表した。iCloud+は、プレミア機能が追加されたiCloudのサブスクリプションを意味しており、既存の契約者は今秋、自動的にアップグレードされる。 すべてのiCloud+プランは、同じファミリー共…\nThe post iCloud+とは？”VPNキラー”サービス、メルアド非公開機能など first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/135430",
+          "publishedOn": "2021-06-09T21:45:03.000Z",
+          "wordCount": 209,
+          "title": "iCloud+とは？”VPNキラー”サービス、メルアド非公開機能など"
+        },
+        {
+          "id": "https://gori.me/?p=135435",
+          "author": "g.O.R.i",
+          "description": "Appleは、WWDC 2021の基調講演でM1Xチップを搭載したMacBook Proの発表を計画していた可能性がある。基調講演をライブ配信したYouTube動画には、「m1x MacBook Pro」および「m1x」のタグが付いていることが判明した。 OK OK OK Everyone stay…\nThe post M1X MacBook Pro、WWDC 2021で発表する計画があった可能性 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/135435",
+          "publishedOn": "2021-06-09T15:02:46.000Z",
+          "wordCount": 263,
+          "title": "M1X MacBook Pro、WWDC 2021で発表する計画があった可能性"
+        },
+        {
+          "id": "https://gori.me/?p=135432",
+          "author": "g.O.R.i",
+          "description": "新型MacBook Proの発売は、ミニLEDパネル不足が原因で遅れている可能性がある。Digitimesによると、Appleは当初2021年第2四半期（4〜6月）に生産を開始する計画だったが、第3四半期に延期を余儀なくされたという。 新型MacBook Proは、フラットなデザインの採用、SDカー…\nThe post 新型MacBook Pro、ミニLEDパネル不足が原因で発売を延期か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/135432",
+          "publishedOn": "2021-06-09T12:51:44.000Z",
+          "wordCount": 219,
+          "title": "新型MacBook Pro、ミニLEDパネル不足が原因で発売を延期か"
+        },
+        {
+          "id": "https://gori.me/?p=135423",
+          "author": "g.O.R.i",
+          "description": "Amazonは6月9日、高音質な音楽ストリーミングサービス「Amazon Music HD」を、日本国内でAmazon Music Unlimitedに加入しているユーザーに追加料金なしで提供すると発表した。従来はアップグレードに月額1,000円の追加料金が必要だった。 Amazon Music H…\nThe post Amazon Music HD、日本でも追加料金なしで利用可能に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/amazon/amazon-news/135423",
+          "publishedOn": "2021-06-09T01:08:40.000Z",
+          "wordCount": 196,
+          "title": "Amazon Music HD、日本でも追加料金なしで利用可能に"
+        },
+        {
+          "id": "https://gori.me/?p=135422",
+          "author": "g.O.R.i",
+          "description": "Intel最新プロセッサを搭載した、新型Mac Proを示唆する記述が発見された。Xcode 13 Beta内から、Intelの第3世代Xeonスケーラブルプロセッサ（Ice Lake SP）をサポートするデバイスが確認されている。Xeonシリーズのプロセッサは、Mac Pro以外のMacに採用され…\nThe post Intel最新プロセッサを搭載した新型Mac Pro、Xcode 13 Betaから発見 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macpro/135422",
+          "publishedOn": "2021-06-09T00:51:15.000Z",
+          "wordCount": 202,
+          "title": "Intel最新プロセッサを搭載した新型Mac Pro、Xcode 13 Betaから発見"
+        },
+        {
+          "id": "https://gori.me/?p=135421",
+          "author": "g.O.R.i",
+          "description": "Apple Developerよりキャプチャ Appleが正式に発表していないApple Watch文字盤「World Timer」が、「What’s new in UIKit」のセッション映像内から発見された。watchOS 8用には新文字盤として「ポートレート」が追加されるが、「Wo…\nThe post 未発表のWorld Timer文字盤、WWDCのセッションで発見 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/watchos/watchos-news/135421",
+          "publishedOn": "2021-06-09T00:23:41.000Z",
+          "wordCount": 226,
+          "title": "未発表のWorld Timer文字盤、WWDCのセッションで発見"
+        },
         {
           "id": "https://gori.me/?p=135418",
           "author": "g.O.R.i",

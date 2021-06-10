@@ -2,10 +2,181 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T00:20:36.959Z</updated>
+    <updated>2021-06-10T00:18:58.894Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Podcastのサブスク、6月15日にリリースへ]]></title>
+        <id>https://gori.me/?p=135439</id>
+        <link href="https://gori.me/apple/apple-news/135439"/>
+        <updated>2021-06-09T23:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、ポッドキャスト配信者にメールを送付。Podcastアプリの有料定期購読サービス「Apple Podcastサブスクリプション」を6月15日にリリースすると明らかにした。 当初は5月より170カ国で提供開始する予定だったが、「クリエイターおよびリスナーにとって最高の体験の実現」を理由に延…
+The post Apple Podcastのサブスク、6月15日にリリースへ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内のApple Store、6月16日から通常営業へ]]></title>
+        <id>https://gori.me/?p=135438</id>
+        <link href="https://gori.me/apple/apple-news/135438"/>
+        <updated>2021-06-09T23:17:26.000Z</updated>
+        <summary type="html"><![CDATA[国内のApple Store全店舗が、6月16日より短縮営業を終了し通常営業を再開する。計画が変更されなければ、1月以来となる。 Apple銀座、丸の内、新宿、渋谷、表参道、川崎、心斎橋、京都の8店舗は6月15日まで、開店と閉店時間をそれぞれ1時間早めた11時から20時までの短縮営業を実施。Appl…
+The post 国内のApple Store、6月16日から通常営業へ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
+        <id>60b357ad11ffb70827ef9a90</id>
+        <link href="https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/"/>
+        <updated>2021-06-09T21:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iCloud+とは？”VPNキラー”サービス、メルアド非公開機能など]]></title>
+        <id>https://gori.me/?p=135430</id>
+        <link href="https://gori.me/apple/apple-news/135430"/>
+        <updated>2021-06-09T21:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、iOS 15とともにiCloudの新サービス「iCloud+」（アイクラウドプラス）を発表した。iCloud+は、プレミア機能が追加されたiCloudのサブスクリプションを意味しており、既存の契約者は今秋、自動的にアップグレードされる。 すべてのiCloud+プランは、同じファミリー共…
+The post iCloud+とは？”VPNキラー”サービス、メルアド非公開機能など first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
+        <id>https://css-tricks.com/?p=340967</id>
+        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
+        <updated>2021-06-09T20:37:00.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
+The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Skills You Need to Start Freelancing as a Developer]]></title>
+        <id>60c0ccbed3126007592d5781</id>
+        <link href="https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/"/>
+        <updated>2021-06-09T19:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Bootstrap 5 and SASS by Building a Portfolio Website]]></title>
+        <id>60c10a1dd3126007592d5988</id>
+        <link href="https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/"/>
+        <updated>2021-06-09T18:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1X MacBook Pro、WWDC 2021で発表する計画があった可能性]]></title>
+        <id>https://gori.me/?p=135435</id>
+        <link href="https://gori.me/macbookpro/135435"/>
+        <updated>2021-06-09T15:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、WWDC 2021の基調講演でM1Xチップを搭載したMacBook Proの発表を計画していた可能性がある。基調講演をライブ配信したYouTube動画には、「m1x MacBook Pro」および「m1x」のタグが付いていることが判明した。 OK OK OK Everyone stay…
+The post M1X MacBook Pro、WWDC 2021で発表する計画があった可能性 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[target=blank]]></title>
+        <id>https://css-tricks.com/?p=341916</id>
+        <link href="https://css-tricks.com/targetblank/"/>
+        <updated>2021-06-09T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
+<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
+</a
+Welp, that’s correct syntax!…
+The post target=blank appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型MacBook Pro、ミニLEDパネル不足が原因で発売を延期か]]></title>
+        <id>https://gori.me/?p=135432</id>
+        <link href="https://gori.me/macbookpro/135432"/>
+        <updated>2021-06-09T12:51:44.000Z</updated>
+        <summary type="html"><![CDATA[新型MacBook Proの発売は、ミニLEDパネル不足が原因で遅れている可能性がある。Digitimesによると、Appleは当初2021年第2四半期（4〜6月）に生産を開始する計画だったが、第3四半期に延期を余儀なくされたという。 新型MacBook Proは、フラットなデザインの採用、SDカー…
+The post 新型MacBook Pro、ミニLEDパネル不足が原因で発売を延期か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
+        <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
+        <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
+        <updated>2021-06-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Music HD、日本でも追加料金なしで利用可能に]]></title>
+        <id>https://gori.me/?p=135423</id>
+        <link href="https://gori.me/amazon/amazon-news/135423"/>
+        <updated>2021-06-09T01:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazonは6月9日、高音質な音楽ストリーミングサービス「Amazon Music HD」を、日本国内でAmazon Music Unlimitedに加入しているユーザーに追加料金なしで提供すると発表した。従来はアップグレードに月額1,000円の追加料金が必要だった。 Amazon Music H…
+The post Amazon Music HD、日本でも追加料金なしで利用可能に first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel最新プロセッサを搭載した新型Mac Pro、Xcode 13 Betaから発見]]></title>
+        <id>https://gori.me/?p=135422</id>
+        <link href="https://gori.me/macpro/135422"/>
+        <updated>2021-06-09T00:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Intel最新プロセッサを搭載した、新型Mac Proを示唆する記述が発見された。Xcode 13 Beta内から、Intelの第3世代Xeonスケーラブルプロセッサ（Ice Lake SP）をサポートするデバイスが確認されている。Xeonシリーズのプロセッサは、Mac Pro以外のMacに採用され…
+The post Intel最新プロセッサを搭載した新型Mac Pro、Xcode 13 Betaから発見 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未発表のWorld Timer文字盤、WWDCのセッションで発見]]></title>
+        <id>https://gori.me/?p=135421</id>
+        <link href="https://gori.me/watchos/watchos-news/135421"/>
+        <updated>2021-06-09T00:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Apple Developerよりキャプチャ Appleが正式に発表していないApple Watch文字盤「World Timer」が、「What’s new in UIKit」のセッション映像内から発見された。watchOS 8用には新文字盤として「ポートレート」が追加されるが、「Wo…
+The post 未発表のWorld Timer文字盤、WWDCのセッションで発見 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Musicの空間オーディオ楽曲、今秋にダイナミック・ヘッド・トラッキング対応へ]]></title>
         <id>https://gori.me/?p=135418</id>
@@ -17,6 +188,16 @@ The post Apple Musicの空間オーディオ楽曲、今秋にダイナミック
  【もっと読む】]]></summary>
         <author>
             <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud]]></title>
+        <id>60bfa4d4d3126007592d5160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/"/>
+        <updated>2021-06-08T23:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -2112,16 +2293,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
         </author>
     </entry>
 </feed>
