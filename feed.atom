@@ -2,10 +2,227 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T00:18:12.531Z</updated>
+    <updated>2021-06-12T00:15:13.678Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beats Studio Buds、7月21日に発表か]]></title>
+        <id>https://gori.me/?p=135481</id>
+        <link href="https://gori.me/music-accessories/earphones/135481"/>
+        <updated>2021-06-12T00:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、Beatsの新しい完全ワイヤレスイヤホン「Beats Studio Buds」を現地時間7月21日に発表する可能性がある。Appleのリーク情報を発信しているJon Prosser氏によると、プレスリリースを通じて発表されるという。 Jon Prosser氏の情報が正しければ、正式発表…
+The post Beats Studio Buds、7月21日に発表か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPad mini 6のレンダリング画像が公開　”小型化したiPad Air”か]]></title>
+        <id>https://gori.me/?p=135480</id>
+        <link href="https://gori.me/ipad/ipadmini/135480"/>
+        <updated>2021-06-11T23:46:07.000Z</updated>
+        <summary type="html"><![CDATA[新型iPad mini（iPad mini 6）は、2020年に発売されたiPad Air（第4世代）を小型化したようなデザインになる可能性がある。 Appleのリーク情報を発信しているJon Prosser氏が6月12日、FrontPageTech.comを更新。実機のCADファイルをもとに作成し…
+The post iPad mini 6のレンダリング画像が公開　”小型化したiPad Air”か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business]]></title>
+        <id>60b72d5facb62507dd1d777b</id>
+        <link href="https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/"/>
+        <updated>2021-06-11T22:56:56.000Z</updated>
+        <summary type="html"><![CDATA[If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadOS 15への落胆と、失われたM1 iPad Proの存在意義]]></title>
+        <id>https://gori.me/?p=135473</id>
+        <link href="https://gori.me/ipad/ipadpro/135473"/>
+        <updated>2021-06-11T21:45:25.000Z</updated>
+        <summary type="html"><![CDATA[iPadOS 15の発表を見て、落胆した人も多いだろう。手書き文字をテキスト化してくれる「Scribble」が日本語をサポートしたこと、iPadOS 14と変わらないデバイスのサポートは良い。しかしクイックメモは機能としては面白いが革新的ではなく、ウィジェットの自由配置とAppライブラリはiPhon…
+The post iPadOS 15への落胆と、失われたM1 iPad Proの存在意義 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!]]></title>
+        <id>https://css-tricks.com/?p=342429</id>
+        <link href="https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/"/>
+        <updated>2021-06-11T21:38:48.000Z</updated>
+        <summary type="html"><![CDATA[There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:
+Perhaps the most noticeable thing there …
+The post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Possibilities of Syndication]]></title>
+        <id>https://css-tricks.com/?p=342237</id>
+        <link href="https://css-tricks.com/the-possibilities-of-syndication/"/>
+        <updated>2021-06-11T21:25:56.000Z</updated>
+        <summary type="html"><![CDATA[That’s the one word that isn’t an adjective in the acronym RSS. 
+Really Simple Syndication.
+RSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …
+The post The Possibilities of Syndication appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Center Anything in CSS Using Flexbox and Grid ✨]]></title>
+        <id>6063b9189618b008528a9d81</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-objects-using-css/"/>
+        <updated>2021-06-11T20:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Keyboard Accessibility for Complex React Experiences]]></title>
+        <id>5f9c97e9740569d1a4ca1768</id>
+        <link href="https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/"/>
+        <updated>2021-06-11T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
+        <id>60bc0444acb62507dd1d9a31</id>
+        <link href="https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/"/>
+        <updated>2021-06-11T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
+        <id>60c24cf8d3126007592d61d5</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-conditionals/"/>
+        <updated>2021-06-11T16:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
+        <id>https://smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
+        <link href="https://smashingmagazine.com/2021/06/web-design-done-well-audio/"/>
+        <updated>2021-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
+        <id>https://css-tricks.com/?p=342164</id>
+        <link href="https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/"/>
+        <updated>2021-06-11T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Why would we need to apply shadows to SVG?
+Shadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) 
+…
+The post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13シリーズと見られるデバイス、EECのデータベースに登録]]></title>
+        <id>https://gori.me/?p=135470</id>
+        <link href="https://gori.me/iphone/iphone-news/135470"/>
+        <updated>2021-06-11T11:56:38.000Z</updated>
+        <summary type="html"><![CDATA[2021年の新型iPhone（iPhone 13）シリーズと見られるデバイスが、ユーラシア経済委員会（Eurasian Economic Commission = EEC）のデータベースに登録されたと判明した。登録デバイスのモデル番号は、「A2628」「A2630」「A2634」「A2635」「A2…
+The post iPhone 13シリーズと見られるデバイス、EECのデータベースに登録 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Pencilの整備済み商品が初登場！通常価格よりも19％オフ]]></title>
+        <id>https://gori.me/?p=135468</id>
+        <link href="https://gori.me/sale/apple-refurbished/135468"/>
+        <updated>2021-06-11T04:57:45.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報として、Apple Pencilが初めて登場した。 Apple Pencil（第1世代）は通常11,880円のところ、9,680円（19％オフ/2,200円オフ）。Apple Pencil（第2世代）は通常15,980円…
+The post Apple Pencilの整備済み商品が初登場！通常価格よりも19％オフ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マンガの大人買いが30％オフ！Kindleストア、「秋田書店まとめ買いキャンペーン」開催中]]></title>
+        <id>https://gori.me/?p=135466</id>
+        <link href="https://gori.me/sale/kindle-sale/135466"/>
+        <updated>2021-06-11T04:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Kindleストアが、対象作品1,000点以上が30％オフで購入できる「秋田書店　まとめ買いキャンペーン」を開催している。対象作品には、『範馬刃牙 (全37巻)』、『グラップラー刃牙 (全42巻)』、『BEASTARS (全22巻)』などが含まれている。 対象作品の一覧はこちらから。2万冊が最大70…
+The post マンガの大人買いが30％オフ！Kindleストア、「秋田書店まとめ買いキャンペーン」開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11インチiPad Proが約9万円！iPad整備済商品の最新情報（2021年6月11日更新）]]></title>
+        <id>https://gori.me/?p=135464</id>
+        <link href="https://gori.me/sale/apple-refurbished/135464"/>
+        <updated>2021-06-11T03:39:27.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はiPad（第6世代）が26,18…
+The post 11インチiPad Proが約9万円！iPad整備済商品の最新情報（2021年6月11日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1X MacBook Pro発表の噂を信じて事前売却したユーザー、リーカーに八つ当たり]]></title>
+        <id>https://gori.me/?p=135460</id>
+        <link href="https://gori.me/macbookpro/135460"/>
+        <updated>2021-06-11T02:18:47.000Z</updated>
+        <summary type="html"><![CDATA[新型MacBook ProはWWDC 2021で発表されなかった。発表の噂を信じ所有していたMacBook Proを売約してしまったユーザーが、「MacBook Proが発表されると確認できている」と発言していたリーカーのJon Prosser氏に怒りの矛先を向けている。 Naman氏は、ムンバイを…
+The post M1X MacBook Pro発表の噂を信じて事前売却したユーザー、リーカーに八つ当たり first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put a Background on Open Details Elements]]></title>
+        <id>https://css-tricks.com/?p=342050</id>
+        <link href="https://css-tricks.com/put-a-background-on-open-details-elements/"/>
+        <updated>2021-06-11T00:16:28.000Z</updated>
+        <summary type="html"><![CDATA[One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …
+The post Put a Background on Open Details Elements appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[僕のiPhoneライフが快適になりそうなiOS 15の新機能15選]]></title>
         <id>https://gori.me/?p=135433</id>
@@ -2396,16 +2613,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
