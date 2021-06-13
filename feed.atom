@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T00:15:13.678Z</updated>
+    <updated>2021-06-13T00:19:33.109Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[初代HomePod、販売終了から3カ月経っても「在庫あり」]]></title>
+        <id>https://gori.me/?p=135493</id>
+        <link href="https://gori.me/music-accessories/speakers/homepod/135493"/>
+        <updated>2021-06-13T00:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Appleは今年3月、初代HomePodを在庫限りで販売終了すると発表した。今後はHomePod miniの開発に注力計画だが、3カ月経った今でも在庫が残っている。Apple公式サイトでは「在庫あり」と表示されており、Apple表参道であれば当日受け取り可能だ。 在庫が減らない理由は、需要の低さと同…
+The post 初代HomePod、販売終了から3カ月経っても「在庫あり」 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、リトルマーメイドのパロディでiPad Proをアピール]]></title>
+        <id>https://gori.me/?p=135488</id>
+        <link href="https://gori.me/apple/apple-tvcm/135488"/>
+        <updated>2021-06-12T23:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Appleが6月13日、iPad Proの”自由”をアピールするプロモーション動画「Your next computer is not a computer」を公開。ディズニー作品「リトルマーメイド」から「パート・オブ・ユア・ワールド」のパロディとなっている。 「パート・オブ・ユア・ワールド」は、人…
+The post Apple、リトルマーメイドのパロディでiPad Proをアピール first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロセス名「oahd-helper」とは何か]]></title>
+        <id>https://gori.me/?p=135485</id>
+        <link href="https://gori.me/macosx/macos-tips/135485"/>
+        <updated>2021-06-12T21:30:14.000Z</updated>
+        <summary type="html"><![CDATA[M1 MacBook Proを使用していると、極稀にマシーン全体の動作が突然重くなることがある。アクティビティモニタには「oahd-helper」というプロセスのCPU使用率が高くなっていた。確認時の使用メモリは2.46GBだった。 Redditによると、「oahd-helper」はRosetta …
+The post プロセス名「oahd-helper」とは何か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beats Studio Buds、7月21日に発表か]]></title>
         <id>https://gori.me/?p=135481</id>
@@ -2603,16 +2642,6 @@ Chore: rendering logic refactoring. Adopting functional paradigm.
 Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
         </author>
     </entry>
 </feed>
