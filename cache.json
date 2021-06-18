@@ -49,6 +49,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341948",
+          "author": "Louis Hoebregts",
+          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
+          "publishedOn": "2021-06-17T14:45:57.000Z",
+          "wordCount": 1554,
+          "title": "Perfect Tooltips With CSS Clipping and Masking"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342257",
+          "author": "ImageEngine",
+          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/start-serving-optimized-images-in-vue/",
+          "publishedOn": "2021-06-17T14:38:42.000Z",
+          "wordCount": 1290,
+          "title": "Start Serving Optimized Images in Vue"
+        },
+        {
           "id": "https://css-tricks.com/?p=342358",
           "author": "Chris Coyier",
           "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -488,6 +506,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
+          "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
+          "publishedOn": "2021-06-17T10:30:00.000Z",
+          "wordCount": 1636,
+          "title": "Your Image Is Probably Not Decorative",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "author": "hello@smashingmagazine.com (Nic Chan)",
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
@@ -864,20 +896,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 5028,
-          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -886,6 +904,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c2aa56d3126007592d6226",
+          "author": null,
+          "description": "What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
+          "publishedOn": "2021-06-17T12:02:47.000Z",
+          "wordCount": 566,
+          "title": "Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course"
+        },
+        {
+          "id": "60c88bbc4dc1a607ed7b2ffa",
+          "author": null,
+          "description": "Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,",
+          "link": "https://www.freecodecamp.org/news/what-are-bookmarklets/",
+          "publishedOn": "2021-06-17T00:53:04.000Z",
+          "wordCount": 1966,
+          "title": "What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox"
+        },
         {
           "id": "60c088e5d3126007592d56f1",
           "author": null,
@@ -1514,6 +1550,78 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135651",
+          "author": "g.O.R.i",
+          "description": "Taotronicsのブランドトップページ 株式会社SUNVALLEY JAPANのオーディオ・家電ブランド「Taotronics」、IOTプロダクトを中心に展開する「VAVA」の2ブランドが、Amazonから取り下げられた。ワイヤレス充電器・モバイルバッテリーブランド「RAVPower」は昨日、同…\nThe post RAVPowerに続き、TaotronicsとVAVAもAmazonから”強制退場” first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/135651",
+          "publishedOn": "2021-06-18T00:10:36.000Z",
+          "wordCount": 212,
+          "title": "RAVPowerに続き、TaotronicsとVAVAもAmazonから”強制退場”"
+        },
+        {
+          "id": "https://gori.me/?p=135648",
+          "author": "g.O.R.i",
+          "description": "Amazonで、iPhone 12シリーズ用純正ケースおよび一部MagSafe製品が通常価格の10％オフかつ5％ポイント還元されるセールが開催されている。セールは6月27日まで開催される。 対象となっている純正ケースは、シリコーンケース、レザーケース、クリアケースの3種類。MagSafeアクセサリは…\nThe post iPhone 12純正ケースやMagSafe充電器、10％オフ＋5%ポイント還元セール中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/135648",
+          "publishedOn": "2021-06-17T23:20:02.000Z",
+          "wordCount": 266,
+          "title": "iPhone 12純正ケースやMagSafe充電器、10％オフ＋5%ポイント還元セール中"
+        },
+        {
+          "id": "https://gori.me/?p=135644",
+          "author": "g.O.R.i",
+          "description": "macOS Montereyは、ログイン画面にミー文字を指定できる機能（Memoji on login）を用意。設定している場合、マススカーソルの動きおよびパスワードの入力によってミー文字の動きや表情が変わる仕様になっている。 Appleによると、ミー文字はログイン・ログアウトの際には挨拶してくれる…\nThe post macOS Monterey：ログイン画面のミー文字、パスワードやカーソルの動きに反応する first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macosx/macosmonterey/135644",
+          "publishedOn": "2021-06-17T21:55:32.000Z",
+          "wordCount": 208,
+          "title": "macOS Monterey：ログイン画面のミー文字、パスワードやカーソルの動きに反応する"
+        },
+        {
+          "id": "https://gori.me/?p=135615",
+          "author": "g.O.R.i",
+          "description": "自宅以外で仕事をする機会が増えてきたため、外出時は作業効率を向上させる目的でMX Master 3を持ち歩くようになった。バックパックの中に放り込むのではなく、Aenllosi製のMX Master 3専用ハードケースを購入した。 MX Master 3専用設計、MX Master 2Sでも使用でき…\nThe post 【レビュー】MX Master 3用ハードケース：バッグの中に放り込んでも安心 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac-accessories/mac-prepherial/135615",
+          "publishedOn": "2021-06-17T21:45:40.000Z",
+          "wordCount": 230,
+          "title": "【レビュー】MX Master 3用ハードケース：バッグの中に放り込んでも安心"
+        },
+        {
+          "id": "https://gori.me/?p=135646",
+          "author": "g.O.R.i",
+          "description": "Satechiが、Bluetoothキーボード「Satechi スリム X1 Bluetoothキーボード」とUSB-C接続の有線キーボード「Satechi スリム W1 有線 バックライトキーボード」を発売した。いずれの製品もテンキーのないデザインで、Mac用およびiOSに最適化されたUS配列キー…\nThe post Satechi、Mac用US配列のテンキーなしワイヤレスキーボードを発売 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac-accessories/mac-keyboard/135646",
+          "publishedOn": "2021-06-17T15:01:05.000Z",
+          "wordCount": 209,
+          "title": "Satechi、Mac用US配列のテンキーなしワイヤレスキーボードを発売"
+        },
+        {
+          "id": "https://gori.me/?p=135625",
+          "author": "g.O.R.i",
+          "description": "Belkinが、7つの拡張ポートを搭載したUSB-Cハブ「USB-C 7-in-1マルチポートハブアダプター」を6月30日より発売する。価格は5,499円。 16インチMacBook Proをフルスピードで充電できる最大100W PD対応/85W出力可能なUSB-Cポート、3.5mmオーディオ入出力…\nThe post ベルキン、7つのポートに拡張できるUSB-Cハブを発表 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac-accessories/mac-usbc/135625",
+          "publishedOn": "2021-06-17T12:28:12.000Z",
+          "wordCount": 207,
+          "title": "ベルキン、7つのポートに拡張できるUSB-Cハブを発表"
+        },
+        {
+          "id": "https://gori.me/?p=135617",
+          "author": "g.O.R.i",
+          "description": "ソフトバンクは6月17日、ドイツの老舗カメラメーカー「ライカ」監修の5G対応スマートフォン「Leitz Phone 1」（読み方：ライツフォン ワン）を発表した。価格は税込187,920円、発売は7月以降を予定している。 1インチ型F1.9/19mm/7枚構成レンズを搭載、RAW撮影にも対応 Lei…\nThe post ライカ初の5Gスマホ「Leitz Phone 1」、ソフトバンクから発売 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mobile/smartphone/135617",
+          "publishedOn": "2021-06-17T05:50:41.000Z",
+          "wordCount": 220,
+          "title": "ライカ初の5Gスマホ「Leitz Phone 1」、ソフトバンクから発売"
+        },
+        {
+          "id": "https://gori.me/?p=135586",
+          "author": "g.O.R.i",
+          "description": "Ankerから、MagSafeに対応したiPhone 12シリーズ用ケース「Magnetic Silicone Case」が登場した。 MagSafeに対応するため、Belkin BOOST↑CHARGE PRO 3-in-1 Wireless Charger with MagSafeなどMagSa…\nThe post 【レビュー】Anker Magnetic Silicone Case：触り心地サラサラ、フィットゆるめ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/iphone-case/135586",
+          "publishedOn": "2021-06-17T01:00:45.000Z",
+          "wordCount": 298,
+          "title": "【レビュー】Anker Magnetic Silicone Case：触り心地サラサラ、フィットゆるめ"
+        },
         {
           "id": "https://gori.me/?p=135608",
           "author": "g.O.R.i",
