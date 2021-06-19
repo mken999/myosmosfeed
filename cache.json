@@ -49,6 +49,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341511",
+          "author": "Carter Li",
+          "description": "The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …\nThe post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/",
+          "publishedOn": "2021-06-18T20:38:59.000Z",
+          "wordCount": 974,
+          "title": "Using the `outline` Property as a Collapsable Border"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342326",
+          "author": "Chris Coyier",
+          "description": "I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the \n…\nThe post Links on Typography appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-typography-2/",
+          "publishedOn": "2021-06-18T13:44:17.000Z",
+          "wordCount": 784,
+          "title": "Links on Typography"
+        },
+        {
           "id": "https://css-tricks.com/?p=341948",
           "author": "Louis Hoebregts",
           "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -506,6 +524,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
+          "author": "hello@smashingmagazine.com (Ottomatias Peura)",
+          "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
+          "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
+          "publishedOn": "2021-06-18T15:00:00.000Z",
+          "wordCount": 3427,
+          "title": "An Alternative Voice UI To Voice Assistants",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
+          "author": "hello@smashingmagazine.com (Adebiyi Adedotun)",
+          "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
+          "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
+          "publishedOn": "2021-06-18T13:00:00.000Z",
+          "wordCount": 3957,
+          "title": "Client-Side Routing In Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
           "author": "hello@smashingmagazine.com (Eric Bailey)",
           "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
@@ -882,20 +928,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
-          "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
-          "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-          "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1970,
-          "title": "How To Implement Authentication In Next.js With Auth0",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -904,6 +936,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b46dbd11ffb70827ef9dea",
+          "author": null,
+          "description": "What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we",
+          "link": "https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/",
+          "publishedOn": "2021-06-18T15:45:00.000Z",
+          "wordCount": 1613,
+          "title": "TCP vs UDP – Which Protocol is Faster?"
+        },
+        {
+          "id": "60cc5a904dc1a607ed7b4c54",
+          "author": null,
+          "description": "Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,",
+          "link": "https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/",
+          "publishedOn": "2021-06-18T15:43:56.000Z",
+          "wordCount": 906,
+          "title": "Machine Learning Specialisation Courses for Advanced ML Practitioners"
+        },
+        {
+          "id": "60cca3294dc1a607ed7b4c76",
+          "author": null,
+          "description": "Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris",
+          "link": "https://www.freecodecamp.org/news/understanding-sorting-algorithms/",
+          "publishedOn": "2021-06-18T13:56:04.000Z",
+          "wordCount": 13842,
+          "title": "Understanding Sorting Algorithms"
+        },
         {
           "id": "60c2aa56d3126007592d6226",
           "author": null,
@@ -1550,6 +1609,96 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135641",
+          "author": "g.O.R.i",
+          "description": "Belkinから、完全ワイヤレスイヤホン「Belkin SOUNDFORAM Freedom」が登場した。サードパーティ製イヤホンとして、探すアプリに唯一対応している製品だ。（2021年6月時点） 探すアプリ対応のほか、Qualcomm aptXコーデックの対応、PEEK+TPUの二層構造ドライバ搭…\nThe post 【レビュー】Belkin SOUNDFORAM Freedom：探すアプリ対応の完全ワイヤレスイヤホン first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/music-accessories/earphones/135641",
+          "publishedOn": "2021-06-18T22:15:44.000Z",
+          "wordCount": 246,
+          "title": "【レビュー】Belkin SOUNDFORAM Freedom：探すアプリ対応の完全ワイヤレスイヤホン"
+        },
+        {
+          "id": "https://gori.me/?p=135560",
+          "author": "g.O.R.i",
+          "description": "iOS 15は、アプリ間のドラッグ・アンド・ドロップに対応する。iPadは2017年にリリースされたiOS 11から提供されているが、iPhoneは4年越しに解禁される。 従来は、元のアプリでコピーし別のアプリを開いてペーストする必要があった。iOS 15からは、アプリで移動したいファイルをホールド…\nThe post iOS 15：アプリ間のドラッグ・アンド・ドロップに対応 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios-tips/135560",
+          "publishedOn": "2021-06-18T22:05:06.000Z",
+          "wordCount": 202,
+          "title": "iOS 15：アプリ間のドラッグ・アンド・ドロップに対応"
+        },
+        {
+          "id": "https://gori.me/?p=135674",
+          "author": "g.O.R.i",
+          "description": "Appleが、Magic Keyboard、Magic Mouse 2、Magic Trackpad 2のスペースグレイモデルが販売終了した。スペースグレイモデルの商品ページは、シルバーモデルにリダイレクトされる。 3製品のスペースグレイモデルは今年5月、在庫限りで販売終了すると発表されていた。スペ…\nThe post Magic Keyboard・Mouse・Trackpadのスペースグレイモデル、正式に販売終了 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac-accessories/mac-prepherial/135674",
+          "publishedOn": "2021-06-18T21:56:03.000Z",
+          "wordCount": 175,
+          "title": "Magic Keyboard・Mouse・Trackpadのスペースグレイモデル、正式に販売終了"
+        },
+        {
+          "id": "https://gori.me/?p=135600",
+          "author": "g.O.R.i",
+          "description": "iOS 15では、カーソルを移動する際に虫眼鏡（ルーペ）が表示される仕様になった。iOS 13以降、虫眼鏡は非表示。カーソルの位置が指で隠れてしまっていたため不便だった。 So the fact that the magnifying glass is back on iOS 15 makes me…\nThe post iOS 15：カーソル移動時に出現する虫眼鏡が復活 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios-tips/135600",
+          "publishedOn": "2021-06-18T21:50:54.000Z",
+          "wordCount": 244,
+          "title": "iOS 15：カーソル移動時に出現する虫眼鏡が復活"
+        },
+        {
+          "id": "https://gori.me/?p=135568",
+          "author": "g.O.R.i",
+          "description": "iOS 14のタイムピッカー iOS 15では、iOS 14で”改悪”された時間ピッカーが、iOS 13以前に採用されていた”スロット風”UIとして復活する。 iOS 14は、カレンダーアプリやアラームなどで時間を入力する際に、数字をキーボードで入力する仕組みに変更された。iOS 13以前は上下にス…\nThe post iOS 15：時間ピッカー、グリグリ回転できる”スロット風”UIが復活 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios-tips/135568",
+          "publishedOn": "2021-06-18T21:35:04.000Z",
+          "wordCount": 268,
+          "title": "iOS 15：時間ピッカー、グリグリ回転できる”スロット風”UIが復活"
+        },
+        {
+          "id": "https://gori.me/?p=135570",
+          "author": "g.O.R.i",
+          "description": "iOS 14はEXIF情報の確認ができない iOS 15の写真アプリは、写真のEXIFメタデータが確認できる。撮影した写真の位置情報やキャプションに加え、iOS 15は、カメラ、レンズ、画素数、シャッタースピード、ファイルサイズ、ISO感度、画角、露出度が確認できる。また必要であれば、ユーザー自身で…\nThe post iOS 15：写真アプリでEXIFデータが確認可能に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios-tips/135570",
+          "publishedOn": "2021-06-18T21:30:47.000Z",
+          "wordCount": 233,
+          "title": "iOS 15：写真アプリでEXIFデータが確認可能に"
+        },
+        {
+          "id": "https://gori.me/?p=135672",
+          "author": "g.O.R.i",
+          "description": "ahamoよりキャプチャ ドコモの新料金プラン「ahamo」は、公式サイト上で機種変更が可能になる。2021年6月30日（水）10時より、受付を開始する。これまでは公式サイト上の機種変更は対応せず、ドコモオンラインショップでの手続きが必要だった。 購入できる端末は、iPhone 11、Xperia …\nThe post ahamo、公式サイトで機種変更に対応へ　6月30日スタート first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mobile/smartphone/135672",
+          "publishedOn": "2021-06-18T11:11:27.000Z",
+          "wordCount": 182,
+          "title": "ahamo、公式サイトで機種変更に対応へ　6月30日スタート"
+        },
+        {
+          "id": "https://gori.me/?p=135670",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、Apple Wa…\nThe post SEが2.7万円！Apple Watch整備済商品の最新情報（2021年6月18日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/135670",
+          "publishedOn": "2021-06-18T09:22:19.000Z",
+          "wordCount": 348,
+          "title": "SEが2.7万円！Apple Watch整備済商品の最新情報（2021年6月18日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=135668",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はiPadの各モデルが大量に復活！…\nThe post Apple Pencilがお買い得！iPad整備済商品の最新情報（2021年6月18日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/135668",
+          "publishedOn": "2021-06-18T09:07:35.000Z",
+          "wordCount": 389,
+          "title": "Apple Pencilがお買い得！iPad整備済商品の最新情報（2021年6月18日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=135666",
+          "author": "g.O.R.i",
+          "description": "Appleが、延長保証サービス「AppleCare+ for 13インチMacBook Pro（M1）」および「AppleCare+ for MacBook Air」を値下げした。価格が改定された理由は不明。保証内容に変更はない。 「AppleCare+ for 13インチMacBook Pro（M…\nThe post Apple Care+ for M1 MacBook Air/Pro、突然の値下げ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookair/135666",
+          "publishedOn": "2021-06-18T08:54:06.000Z",
+          "wordCount": 196,
+          "title": "Apple Care+ for M1 MacBook Air/Pro、突然の値下げ"
+        },
         {
           "id": "https://gori.me/?p=135651",
           "author": "g.O.R.i",
