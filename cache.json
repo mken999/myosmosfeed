@@ -488,33 +488,6 @@
           "publishedOn": "2021-05-24T13:57:21.000Z",
           "wordCount": 2872,
           "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340991",
-          "author": "Chris Coyier",
-          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
-          "publishedOn": "2021-05-21T23:22:54.000Z",
-          "wordCount": 1168,
-          "title": "Should DevTools teach the CSS cascade?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340825",
-          "author": "Adam Rackis",
-          "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
-          "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3658,
-          "title": "Svelte for the Experienced React Dev"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340919",
-          "author": "Chris Coyier",
-          "description": "Collection of common CSS mistakes, and how to fix them\nFrom Stefánia Péter. \nClever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …\nThe post CSS Hell appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://csshell.dev/",
-          "publishedOn": "2021-05-21T14:29:16.000Z",
-          "wordCount": 295,
-          "title": "CSS Hell"
         }
       ]
     },
@@ -1581,6 +1554,69 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135691",
+          "author": "g.O.R.i",
+          "description": "年に一度のプライム会員大感謝祭「プライムデー」にて、MagSafe対応製品が特価で販売されている。 おすすめは、Belkin製の3-in-1充電器と2-in-1充電器。サードパーティ製品として15WのMagSafe規格に準拠しているMFiライセンスを取得した唯一の製品となっており、安心して利用できる…\nThe post MagSafe対応製品がお買い得【プライムデー2021】 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/135691",
+          "publishedOn": "2021-06-20T23:52:31.000Z",
+          "wordCount": 400,
+          "title": "MagSafe対応製品がお買い得【プライムデー2021】"
+        },
+        {
+          "id": "https://gori.me/?p=135681",
+          "author": "g.O.R.i",
+          "description": "Ankerは予告していたとおり、Amazonの「プライムデー」に登場。合計170製品が最大50％オフになるセールを実施している。「Ankerのモバイルバッテリー、充電器などがお買い得」「Ankerのオーディオ関連機器、ロボット掃除機などがお買い得」で、人気製品がお買い得価格で販売中だ。 予告通り、A…\nThe post Anker、170製品が最大50％オフ【プライムデー2021】 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/135681",
+          "publishedOn": "2021-06-20T21:45:06.000Z",
+          "wordCount": 509,
+          "title": "Anker、170製品が最大50％オフ【プライムデー2021】"
+        },
+        {
+          "id": "https://gori.me/?p=135683",
+          "author": "g.O.R.i",
+          "description": "Satechi製品が、年に一度のプライム会員大感謝祭「プライムデー」に登場した。 USB-C端子に直接挿すApple Watch 充電ドックが30％オフ（参考：レビュー記事）、9-in-1 USB-Cハブが20％オフ（参考：レビュー記事）で購入できる。 以下に対象商品を一部ピックアップして紹介する。…\nThe post Satechi、一部商品が最大30％オフ【プライムデー2021】 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/135683",
+          "publishedOn": "2021-06-20T21:35:49.000Z",
+          "wordCount": 312,
+          "title": "Satechi、一部商品が最大30％オフ【プライムデー2021】"
+        },
+        {
+          "id": "https://gori.me/?p=135688",
+          "author": "g.O.R.i",
+          "description": "Echoシリーズのコンパクトモデル「Echo Dot（第3世代）」が、年に一度のプライム会員大感謝祭「プライムデー」に登場。70％オフとなる1,480円で購入できる。前モデルから音質が向上しており、Bluetoothや3.5mmステレオジャックでスピーカーやヘッドホンに接続も可能になった。Alexa…\nThe post Echo Dot、70％オフで投げ売り中【プライムデー2021】 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/135688",
+          "publishedOn": "2021-06-20T21:30:20.000Z",
+          "wordCount": 184,
+          "title": "Echo Dot、70％オフで投げ売り中【プライムデー2021】"
+        },
+        {
+          "id": "https://gori.me/?p=135679",
+          "author": "g.O.R.i",
+          "description": "年に一度のプライム会員大感謝祭「プライムデー」がスタートした。開催期間は、6月21日（月）0時から22日（火）23時59分まで。 最大10,000ポイント還元されるプライムデーポイントアップキャンペーン、最大50,000ポイントが当たるプライムデースタンプラリーなどが開催されており、同時にKindl…\nThe post プライムデー2021がスタート！お買い得商品・セールまとめ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/amazon/amazon-sale/135679",
+          "publishedOn": "2021-06-20T15:12:10.000Z",
+          "wordCount": 215,
+          "title": "プライムデー2021がスタート！お買い得商品・セールまとめ"
+        },
+        {
+          "id": "https://gori.me/?p=135684",
+          "author": "g.O.R.i",
+          "description": "Apple Watch Series 6とAirPods Proが、年に一度のAmazonプライム会員大感謝祭「プライムデー」に登場した。Apple Watch Series 6は42,380円から（16％オフ）、AirPods Proは24,154円（21％オフ）で購入できる。 AirPods 2…\nThe post Apple Watch Series 6、AirPods Proがセール【プライムデー2021】 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/135684",
+          "publishedOn": "2021-06-20T15:07:39.000Z",
+          "wordCount": 222,
+          "title": "Apple Watch Series 6、AirPods Proがセール【プライムデー2021】"
+        },
+        {
+          "id": "https://gori.me/?p=135685",
+          "author": "g.O.R.i",
+          "description": "年に一度のプライム会員大感謝祭「プライムデー」にて、Fire TV Stick 4Kが過去最安値となる43％オフで販売されている。 Fire TV Stick 4Kは、Fire TV Stickの4K対応モデル。外出自粛期間中は人気商品となり在庫切れが続いていた人気商品だ。1.7GHzで動作する新し…\nThe post 過去最安値！Fire TV Stick 4K、43％オフ【プライムデー2021】 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/135685",
+          "publishedOn": "2021-06-20T15:01:14.000Z",
+          "wordCount": 186,
+          "title": "過去最安値！Fire TV Stick 4K、43％オフ【プライムデー2021】"
+        },
         {
           "id": "https://gori.me/?p=135676",
           "author": "g.O.R.i",
