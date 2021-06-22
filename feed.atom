@@ -2,10 +2,205 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T00:18:58.199Z</updated>
+    <updated>2021-06-22T00:17:38.931Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13、発表イベントは例年通り9月開催か]]></title>
+        <id>https://gori.me/?p=135708</id>
+        <link href="https://gori.me/iphone/iphone-news/135708"/>
+        <updated>2021-06-21T23:57:57.000Z</updated>
+        <summary type="html"><![CDATA[2021年の新型iPhone（iPhone 13）は、センサーシフト光学式手ブレ補正の対応、5nm+プロセスで作られた「A15」チップの搭載、小型化されたノッチの採用が全機種共通の仕様になる可能性がある。台湾の市場調査企業TrendForceによると、Appleは「iPhone 13」シリーズ4機種…
+The post iPhone 13、発表イベントは例年通り9月開催か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Exit Vim – Vim Save and Quit Command Tutorial]]></title>
+        <id>60c81f774dc1a607ed7b2f66</id>
+        <link href="https://www.freecodecamp.org/news/how-to-exit-vim/"/>
+        <updated>2021-06-21T21:52:43.000Z</updated>
+        <summary type="html"><![CDATA[I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Amazonプライムデー で買ったものまとめ #primeday2021]]></title>
+        <id>https://gori.me/?p=135706</id>
+        <link href="https://gori.me/amazon/amazon-sale/135706"/>
+        <updated>2021-06-21T21:45:18.000Z</updated>
+        <summary type="html"><![CDATA[2021年のAmazonプライムデーは、ポイント還元率が通常よりも高く、商品そのものがセール対象でなかったとしてもプライムデー開催期間中に買ったほうがお得だ。 【関連】プライムデー2021がスタート！お買い得商品・セールまとめ すでに7万円近くの買い物をしているが、意外とガジェットは少なく、日用品や…
+The post #Amazonプライムデー で買ったものまとめ #primeday2021 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples]]></title>
+        <id>60bce157acb62507dd1d9f11</id>
+        <link href="https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/"/>
+        <updated>2021-06-21T21:25:11.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are we in a new era of web design? What do we call it?]]></title>
+        <id>https://css-tricks.com/?p=342887</id>
+        <link href="https://web.dev/new-responsive/"/>
+        <updated>2021-06-21T21:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …
+The post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Redux by Making a Counter Application]]></title>
+        <id>60cccd6e4dc1a607ed7b4f81</id>
+        <link href="https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/"/>
+        <updated>2021-06-21T21:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Portfolio Website with React]]></title>
+        <id>60d0d0ff6e1a1407b6b0a506</id>
+        <link href="https://www.freecodecamp.org/news/build-portfolio-website-react/"/>
+        <updated>2021-06-21T18:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Figma? A Design Crash Course [2021 Tutorial]]]></title>
+        <id>60cda7104dc1a607ed7b5588</id>
+        <link href="https://www.freecodecamp.org/news/figma-crash-course/"/>
+        <updated>2021-06-21T17:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Technical Guide to IPFS – the Decentralized Storage of Web3]]></title>
+        <id>60a55b37906c5207e3a7ea78</id>
+        <link href="https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/"/>
+        <updated>2021-06-21T16:38:36.000Z</updated>
+        <summary type="html"><![CDATA[But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the CSS Position Property Works – Explained with Code Examples]]></title>
+        <id>6063b9e19618b008528a9d9a</id>
+        <link href="https://www.freecodecamp.org/news/css-position-property-explained/"/>
+        <updated>2021-06-21T16:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Today we're gonna learn everything you need to know about the CSS position property along with examples. Let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji]]></title>
+        <id>https://css-tricks.com/?p=342448</id>
+        <link href="https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/"/>
+        <updated>2021-06-21T14:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …
+The post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image To Text Conversion With React And Tesseract.js (OCR)]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/"/>
+        <updated>2021-06-21T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ayobami Ogundiran)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1万円以下で購入できるノイキャン対応イヤホン・ヘッドホン【プライムデー2021】]]></title>
+        <id>https://gori.me/?p=135705</id>
+        <link href="https://gori.me/sale/peripheral-sale/135705"/>
+        <updated>2021-06-21T12:42:44.000Z</updated>
+        <summary type="html"><![CDATA[年に一度のプライム会員大感謝祭「プライムデー」では、ノイズキャンセリング機能に対応したイヤホンやヘッドホンが1万円以下で購入できる。 リモートワークや自宅勤務をする人が増えたことで、周りの音をシャットアウトできるノイズキャンセリング機能付きのイヤホンやヘッドホンの需要が伸びたと聞く。自宅内の一室で仕…
+The post 1万円以下で購入できるノイキャン対応イヤホン・ヘッドホン【プライムデー2021】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Pro、過去最安値を更新！7,638円オフ【プライムデー2021】]]></title>
+        <id>https://gori.me/?p=135700</id>
+        <link href="https://gori.me/sale/peripheral-sale/135700"/>
+        <updated>2021-06-21T08:44:13.000Z</updated>
+        <summary type="html"><![CDATA[プライムデーで特価販売されていたAirPods Proが、さらに値下げされ過去最安値を更新！7,638円オフ（25％オフ）にとなる、22,942円で購入できるようになった。 AirPods 2は引き続き21％オフで販売中。ワイヤレス充電対応モデルは19,820円、通常モデルは15,474円で購入でき…
+The post AirPods Pro、過去最安値を更新！7,638円オフ【プライムデー2021】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Pencil（第2世代）が安い！iPad整備済商品の最新情報（2021年6月21日更新）]]></title>
+        <id>https://gori.me/?p=135697</id>
+        <link href="https://gori.me/sale/apple-refurbished/135697"/>
+        <updated>2021-06-21T02:44:45.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はiPadの各モデルが大量に復活！…
+The post Apple Pencil（第2世代）が安い！iPad整備済商品の最新情報（2021年6月21日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinksysのWi-Fi 6ルーターで通信高速化【プライムデー2021】]]></title>
+        <id>https://gori.me/?p=135695</id>
+        <link href="https://gori.me/sale/peripheral-sale/135695"/>
+        <updated>2021-06-21T01:52:04.000Z</updated>
+        <summary type="html"><![CDATA[年に一度のプライム会員大感謝祭「プライムデー」にて、LinksysのWi-Fi 6対応ルーターが特価で販売されている。セール対象になっているWi-Fi 6対応ルーターはほかにもあるが、僕自身が使用しており自信をもっておすすめできるLinksys製品を紹介する。 特におすすめは、Velop AX420…
+The post LinksysのWi-Fi 6ルーターで通信高速化【プライムデー2021】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbolt 4製品がお買い得【プライムデー2021】]]></title>
+        <id>https://gori.me/?p=135693</id>
+        <link href="https://gori.me/sale/peripheral-sale/135693"/>
+        <updated>2021-06-21T00:55:45.000Z</updated>
+        <summary type="html"><![CDATA[年に一度のプライム会員大感謝祭「プライムデー」にて、Thunderbolt 4製品が特価で販売されている。 Thunderbolt 4とは、現在のMacBook AirやiMacの外部ポートに搭載されているThunderbolt 3の後継規格。Thunderbolt 3、Thunderbolt 4、…
+The post Thunderbolt 4製品がお買い得【プライムデー2021】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MagSafe対応製品がお買い得【プライムデー2021】]]></title>
         <id>https://gori.me/?p=135691</id>
@@ -3619,27 +3814,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.8.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
-        <updated>2021-05-23T05:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.8.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
-        <updated>2021-05-23T05:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
-Thank you: @LooperXX.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
