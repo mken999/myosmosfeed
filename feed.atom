@@ -2,10 +2,184 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T00:17:38.931Z</updated>
+    <updated>2021-06-23T00:17:59.872Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国内のApple Store、6月28日から短縮営業を緩和]]></title>
+        <id>https://gori.me/?p=135731</id>
+        <link href="https://gori.me/apple/apple-news/135731"/>
+        <updated>2021-06-22T23:09:44.000Z</updated>
+        <summary type="html"><![CDATA[国内のApple Store全店舗が、6月28日より短縮営業時間を緩和する。現在は11時〜20時までの営業時間となっているが、全店舗が10時オープンになる。 10時〜20時までの通常営業にに Apple銀座、丸の内、新宿、渋谷、表参道、川崎、心斎橋、京都の8店舗は6月27日まで、開店と閉店時間をそれ…
+The post 国内のApple Store、6月28日から短縮営業を緩和 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ノートPCの充電器に求める要素は「軽さ」＆「コンパクトさ」]]></title>
+        <id>https://gori.me/?p=135723</id>
+        <link href="https://gori.me/mac-accessories/mac-usbc/135723"/>
+        <updated>2021-06-22T21:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Ankerが、全国の20~50代の会社員男女1,094名を対象とした「コロナ禍における仕事環境の改善ニーズに関する調査」の結果を公開した。 コロナ禍で働き方が変化し、オフィス外で仕事をする機会が増えた人は全体の約4割。その中でリモートワーク中心の働き方にシフトした人に対し、「移動時の荷物を軽量・コン…
+The post ノートPCの充電器に求める要素は「軽さ」＆「コンパクトさ」 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[inherit, initial, unset, revert]]></title>
+        <id>https://css-tricks.com/?p=342930</id>
+        <link href="https://css-tricks.com/inherit-initial-unset-revert/"/>
+        <updated>2021-06-22T21:20:20.000Z</updated>
+        <summary type="html"><![CDATA[There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …
+The post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools]]></title>
+        <id>60d2323d6e1a1407b6b0ac4f</id>
+        <link href="https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/"/>
+        <updated>2021-06-22T21:11:53.000Z</updated>
+        <summary type="html"><![CDATA[Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Async/Await to Write Better JavaScript Code]]></title>
+        <id>60cac8ff4dc1a607ed7b4592</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/"/>
+        <updated>2021-06-22T16:24:37.000Z</updated>
+        <summary type="html"><![CDATA[There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot]]></title>
+        <id>60c13e71d3126007592d5be2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/"/>
+        <updated>2021-06-22T16:20:36.000Z</updated>
+        <summary type="html"><![CDATA[The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python to Create a Visual Novel Game in 10 Minutes]]></title>
+        <id>60cfff5a4dc1a607ed7b5e58</id>
+        <link href="https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/"/>
+        <updated>2021-06-22T16:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Custom Elements in Svelte]]></title>
+        <id>https://css-tricks.com/?p=342634</id>
+        <link href="https://css-tricks.com/using-custom-elements-in-svelte/"/>
+        <updated>2021-06-22T14:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …
+The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Rich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If we’re gonna criticize utility-class frameworks, let’s be fair about it]]></title>
+        <id>https://css-tricks.com/?p=342925</id>
+        <link href="https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/"/>
+        <updated>2021-06-22T14:33:41.000Z</updated>
+        <summary type="html"><![CDATA[I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …
+The post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天モバイル、楽天市場でiPhoneを販売開始　ポイント10倍還元も]]></title>
+        <id>https://gori.me/?p=135727</id>
+        <link href="https://gori.me/iphone/iphonese/135727"/>
+        <updated>2021-06-22T14:24:53.000Z</updated>
+        <summary type="html"><![CDATA[楽天モバイルは6月22日より、Apple Authorized Resellerとして「楽天モバイル公式 楽天市場店」でiPhone 12、iPhone 12 mini、iPhone 12 Pro、iPhone 12 Pro Max、iPhone SEの販売を開始した。楽天市場のスーパーポイントアッ…
+The post 楽天モバイル、楽天市場でiPhoneを販売開始　ポイント10倍還元も first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワイモバイル、iPhone 12/miniが最大21,600円オフになるタイムセール開催中]]></title>
+        <id>https://gori.me/?p=135725</id>
+        <link href="https://gori.me/iphone/iphone12/135725"/>
+        <updated>2021-06-22T13:37:27.000Z</updated>
+        <summary type="html"><![CDATA[「オンラインストア限定タイムセール」ページよりキャプチャ ワイモバイルが、iPhone 12およびiPhone 12 miniが最大21,600円オフになるタイムセールを開催している。セールは23日（水）午前9時まで。 新規または他社からの乗り換え（MNP）の場合、各ストレージモデルが21,600円…
+The post ワイモバイル、iPhone 12/miniが最大21,600円オフになるタイムセール開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
+        <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
+        <link href="https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/"/>
+        <updated>2021-06-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Amazonプライムデー でみんなが買ったものTOP20]]></title>
+        <id>https://gori.me/?p=135715</id>
+        <link href="https://gori.me/amazon/amazon-sale/135715"/>
+        <updated>2021-06-22T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonプライムデーは2日間にわたって開催されている。記事執筆時点でゴリミー経由で購入された商品のうち、購入件数が最も多かった上位20商品を紹介する。最終日のショッピング追い込みに向けて、参考にしてもらいたい。 【関連】プライムデー2021が最終日！お買い得商品・セールまとめ プライムデー202…
+The post #Amazonプライムデー でみんなが買ったものTOP20 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Storeと公式サイトでの買い物、分割手数料0％で購入可能に]]></title>
+        <id>https://gori.me/?p=135712</id>
+        <link href="https://gori.me/apple/apple-news/135712"/>
+        <updated>2021-06-22T01:35:10.000Z</updated>
+        <summary type="html"><![CDATA[ペイディ、「あと払いプランApple専用」提供開始を発表 株式会社Paidyは6月22日、Apple StoreやAppleのウェブサイトで利用できるApple専用の特別な支払い方法「あと払いプランApple専用」を提供開始した。学生・教職員向けストアでも利用可能。分割回数は、iPhoneとMacが…
+The post Apple Storeと公式サイトでの買い物、分割手数料0％で購入可能に first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 12 mini、売上不振で生産終了を前倒しか]]></title>
+        <id>https://gori.me/?p=135710</id>
+        <link href="https://gori.me/iphone/iphone-news/135710"/>
+        <updated>2021-06-22T00:39:26.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 12 miniの生産はすでに終了している可能性がある。TrendForceによると、売上不振により当初の計画から前倒し。2021年第2四半期中（4〜6月）に終了したという。 記事執筆時点では、Apple公式サイトにおけるiPhone 12 miniの在庫状況は変わらず、最短で配送は「明…
+The post iPhone 12 mini、売上不振で生産終了を前倒しか first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 13、発表イベントは例年通り9月開催か]]></title>
         <id>https://gori.me/?p=135708</id>
@@ -3804,16 +3978,6 @@ The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
-        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
-        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
-        <updated>2021-05-24T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>

@@ -31,6 +31,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342930",
+          "author": "Chris Coyier",
+          "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/inherit-initial-unset-revert/",
+          "publishedOn": "2021-06-22T21:20:20.000Z",
+          "wordCount": 687,
+          "title": "inherit, initial, unset, revert"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342634",
+          "author": "Geoff Rich",
+          "description": "Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …\nThe post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-custom-elements-in-svelte/",
+          "publishedOn": "2021-06-22T14:37:50.000Z",
+          "wordCount": 3090,
+          "title": "Using Custom Elements in Svelte"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342925",
+          "author": "Chris Coyier",
+          "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
+          "publishedOn": "2021-06-22T14:33:41.000Z",
+          "wordCount": 1961,
+          "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
+        },
+        {
           "id": "https://css-tricks.com/?p=342887",
           "author": "Chris Coyier",
           "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -497,6 +524,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.",
+          "link": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
+          "publishedOn": "2021-06-22T09:00:00.000Z",
+          "wordCount": 2886,
+          "title": "Designing With Code: A Modern Approach To Design (Development Challenges)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/08546e48-5034-466a-a29c-08ce3827416e/uxpin-ui.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "author": "hello@smashingmagazine.com (Ayobami Ogundiran)",
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
@@ -873,20 +914,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
-          "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
-          "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2707,
-          "title": "CSS Container Queries: Use-Cases And Migration Strategies",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -895,6 +922,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d2323d6e1a1407b6b0ac4f",
+          "author": null,
+          "description": "Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we",
+          "link": "https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/",
+          "publishedOn": "2021-06-22T21:11:53.000Z",
+          "wordCount": 2770,
+          "title": "Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools"
+        },
+        {
+          "id": "60cac8ff4dc1a607ed7b4592",
+          "author": null,
+          "description": "There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await\", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use",
+          "link": "https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/",
+          "publishedOn": "2021-06-22T16:24:37.000Z",
+          "wordCount": 1432,
+          "title": "How to Use Async/Await to Write Better JavaScript Code"
+        },
+        {
+          "id": "60c13e71d3126007592d5be2",
+          "author": null,
+          "description": "The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/",
+          "publishedOn": "2021-06-22T16:20:36.000Z",
+          "wordCount": 7385,
+          "title": "How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot"
+        },
+        {
+          "id": "60cfff5a4dc1a607ed7b5e58",
+          "author": null,
+          "description": "Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with",
+          "link": "https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/",
+          "publishedOn": "2021-06-22T16:18:29.000Z",
+          "wordCount": 1611,
+          "title": "How to Use Python to Create a Visual Novel Game in 10 Minutes"
+        },
         {
           "id": "60c81f774dc1a607ed7b2f66",
           "author": null,
@@ -1631,6 +1694,69 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135731",
+          "author": "g.O.R.i",
+          "description": "国内のApple Store全店舗が、6月28日より短縮営業時間を緩和する。現在は11時〜20時までの営業時間となっているが、全店舗が10時オープンになる。 10時〜20時までの通常営業にに Apple銀座、丸の内、新宿、渋谷、表参道、川崎、心斎橋、京都の8店舗は6月27日まで、開店と閉店時間をそれ…\nThe post 国内のApple Store、6月28日から短縮営業を緩和 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/135731",
+          "publishedOn": "2021-06-22T23:09:44.000Z",
+          "wordCount": 177,
+          "title": "国内のApple Store、6月28日から短縮営業を緩和"
+        },
+        {
+          "id": "https://gori.me/?p=135723",
+          "author": "g.O.R.i",
+          "description": "Ankerが、全国の20~50代の会社員男女1,094名を対象とした「コロナ禍における仕事環境の改善ニーズに関する調査」の結果を公開した。 コロナ禍で働き方が変化し、オフィス外で仕事をする機会が増えた人は全体の約4割。その中でリモートワーク中心の働き方にシフトした人に対し、「移動時の荷物を軽量・コン…\nThe post ノートPCの充電器に求める要素は「軽さ」＆「コンパクトさ」 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac-accessories/mac-usbc/135723",
+          "publishedOn": "2021-06-22T21:45:04.000Z",
+          "wordCount": 199,
+          "title": "ノートPCの充電器に求める要素は「軽さ」＆「コンパクトさ」"
+        },
+        {
+          "id": "https://gori.me/?p=135727",
+          "author": "g.O.R.i",
+          "description": "楽天モバイルは6月22日より、Apple Authorized Resellerとして「楽天モバイル公式 楽天市場店」でiPhone 12、iPhone 12 mini、iPhone 12 Pro、iPhone 12 Pro Max、iPhone SEの販売を開始した。楽天市場のスーパーポイントアッ…\nThe post 楽天モバイル、楽天市場でiPhoneを販売開始　ポイント10倍還元も first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphonese/135727",
+          "publishedOn": "2021-06-22T14:24:53.000Z",
+          "wordCount": 257,
+          "title": "楽天モバイル、楽天市場でiPhoneを販売開始　ポイント10倍還元も"
+        },
+        {
+          "id": "https://gori.me/?p=135725",
+          "author": "g.O.R.i",
+          "description": "「オンラインストア限定タイムセール」ページよりキャプチャ ワイモバイルが、iPhone 12およびiPhone 12 miniが最大21,600円オフになるタイムセールを開催している。セールは23日（水）午前9時まで。 新規または他社からの乗り換え（MNP）の場合、各ストレージモデルが21,600円…\nThe post ワイモバイル、iPhone 12/miniが最大21,600円オフになるタイムセール開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone12/135725",
+          "publishedOn": "2021-06-22T13:37:27.000Z",
+          "wordCount": 251,
+          "title": "ワイモバイル、iPhone 12/miniが最大21,600円オフになるタイムセール開催中"
+        },
+        {
+          "id": "https://gori.me/?p=135715",
+          "author": "g.O.R.i",
+          "description": "Amazonプライムデーは2日間にわたって開催されている。記事執筆時点でゴリミー経由で購入された商品のうち、購入件数が最も多かった上位20商品を紹介する。最終日のショッピング追い込みに向けて、参考にしてもらいたい。 【関連】プライムデー2021が最終日！お買い得商品・セールまとめ プライムデー202…\nThe post #Amazonプライムデー でみんなが買ったものTOP20 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/amazon/amazon-sale/135715",
+          "publishedOn": "2021-06-22T07:11:00.000Z",
+          "wordCount": 588,
+          "title": "#Amazonプライムデー でみんなが買ったものTOP20"
+        },
+        {
+          "id": "https://gori.me/?p=135712",
+          "author": "g.O.R.i",
+          "description": "ペイディ、「あと払いプランApple専用」提供開始を発表 株式会社Paidyは6月22日、Apple StoreやAppleのウェブサイトで利用できるApple専用の特別な支払い方法「あと払いプランApple専用」を提供開始した。学生・教職員向けストアでも利用可能。分割回数は、iPhoneとMacが…\nThe post Apple Storeと公式サイトでの買い物、分割手数料0％で購入可能に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/135712",
+          "publishedOn": "2021-06-22T01:35:10.000Z",
+          "wordCount": 174,
+          "title": "Apple Storeと公式サイトでの買い物、分割手数料0％で購入可能に"
+        },
+        {
+          "id": "https://gori.me/?p=135710",
+          "author": "g.O.R.i",
+          "description": "iPhone 12 miniの生産はすでに終了している可能性がある。TrendForceによると、売上不振により当初の計画から前倒し。2021年第2四半期中（4〜6月）に終了したという。 記事執筆時点では、Apple公式サイトにおけるiPhone 12 miniの在庫状況は変わらず、最短で配送は「明…\nThe post iPhone 12 mini、売上不振で生産終了を前倒しか first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/135710",
+          "publishedOn": "2021-06-22T00:39:26.000Z",
+          "wordCount": 305,
+          "title": "iPhone 12 mini、売上不振で生産終了を前倒しか"
+        },
         {
           "id": "https://gori.me/?p=135708",
           "author": "g.O.R.i",
