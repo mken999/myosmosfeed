@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-26T00:16:12.822Z</updated>
+    <updated>2021-06-27T00:18:57.454Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[子どもと梅雨を楽しむーー可愛い傘・長靴・レインコートで水溜りに全力でジャンプ！]]></title>
+        <id>https://gori.me/?p=135664</id>
+        <link href="https://gori.me/papa/fun-with-kids/135664"/>
+        <updated>2021-06-26T22:05:09.000Z</updated>
+        <summary type="html"><![CDATA[子どもにとって、「やりたいこと」と「天気」の関係性はあまりない。炎天下でも外で遊びたくなることもあれば、外が最高の気候でも家の中で絵の具をやりたいこともある。 梅雨の時期は「外に行きたいけど雨が降っていてどこも行けない」という問題に直面する。そこで娘に可愛い長靴と傘を購入し「雨の日はそれを着て散歩し…
+The post 子どもと梅雨を楽しむーー可愛い傘・長靴・レインコートで水溜りに全力でジャンプ！ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11、Internet Explorerはインストールされていない]]></title>
+        <id>https://gori.me/?p=135799</id>
+        <link href="https://gori.me/microsoft/windows/135799"/>
+        <updated>2021-06-26T21:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11の標準ブラウザは、ChromiumベースのMicrosoft Edgeだ。Windows 11は、年内に正式リリース予定。Internet Explorerは2022年6月15日に終了すると発表されているが、Windows 11には最初からインストールされていない。 Intern…
+The post Windows 11、Internet Explorerはインストールされていない first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kindleストアで高額書籍1,000点が最大50％オフセール開催中]]></title>
+        <id>https://gori.me/?p=135797</id>
+        <link href="https://gori.me/sale/kindle-sale/135797"/>
+        <updated>2021-06-26T05:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Kindleストアが、対象作品1,000点以上が最大50％オフで購入できる「高額書籍キャンペーン」を開催している。セールは2021年7月8日（木）まで。 対象作品には、『BRAIN DRIVEN　パフォーマンスが高まる脳の状態とは』、『コンサルを超える　問題解決と価値創造の全技法』、『図解 人材マネ…
+The post Kindleストアで高額書籍1,000点が最大50％オフセール開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS/iPadOS 15、アプリが使用可能なメモリの制限を緩和]]></title>
+        <id>https://gori.me/?p=135795</id>
+        <link href="https://gori.me/ios/ios15/135795"/>
+        <updated>2021-06-26T02:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、iOS 15およびiPadOS 15でアプリが使用可能なメモリ（RAM）の上限を緩和する技術仕様を発表した。現状は最大5GBまでのメモリしか使用できず、最大16GBのメモリを搭載するM1 iPad Proのハードウェアが活かせないと指摘されていた。 【関連】M1 iPad Pro、最大…
+The post iOS/iPadOS 15、アプリが使用可能なメモリの制限を緩和 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacはWindows 11 が利用不可　Intel Macでも公式にサポートしない理由]]></title>
+        <id>https://gori.me/?p=135792</id>
+        <link href="https://gori.me/microsoft/windows/135792"/>
+        <updated>2021-06-26T01:20:50.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftが年内に正式リリースするWindows 11は、Intel Macで公式にサポートされない可能性が高い。仮想化アプリケーションであれば使用できる可能性はあるが、Boot Campとしてインストールすることは難しいだろう。 Windows 11は無料アップデートとして配布されるが、ハ…
+The post MacはWindows 11 が利用不可　Intel Macでも公式にサポートしない理由 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11のウィンドウ整理整頓機能、Macアプリで再現できるよ！]]></title>
         <id>https://gori.me/?p=135785</id>
@@ -4095,111 +4160,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding A Commenting System To A WYSIWYG Editor]]></title>
-        <id>https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/</id>
-        <link href="https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/"/>
-        <updated>2021-05-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppleでワイモバイルSIM購入・契約がお得！最大7,000円キャッシュバック]]></title>
-        <id>https://gori.me/?p=135152</id>
-        <link href="https://gori.me/mobile/smartphone/135152"/>
-        <updated>2021-05-28T01:29:59.000Z</updated>
-        <summary type="html"><![CDATA[AppleでSIMフリーiPhoneを購入すると、無料のY!mobile SIMカード（ワイモバイルSIMスターターキット）が「おすすめ」に表示される。契約事務手数料（3,000円）が無料になる特典が利用できるが、期間限定で、最大7,000円のキャッシュバックが受けられるキャンペーンがスタートした。…
-The post AppleでワイモバイルSIM購入・契約がお得！最大7,000円キャッシュバック first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitterのサブスク、利用料金は月額350円　カラーテーマやカスタムアイコンも提供か]]></title>
-        <id>https://gori.me/?p=135145</id>
-        <link href="https://gori.me/twitter/twitter-news/135145"/>
-        <updated>2021-05-27T23:52:36.000Z</updated>
-        <summary type="html"><![CDATA[Twitterが準備中とされる有料サブスクリプションサービス「Twitter Blue」は、Twitter公式アプリのアプリ内課金として提供され、月額2.99ドルで利用できることが明らかになった。日本での価格は月額350円であると判明した。 大手SNSの未発表機能を多数発見しているJane Manc…
-The post Twitterのサブスク、利用料金は月額350円　カラーテーマやカスタムアイコンも提供か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
-        <id>https://css-tricks.com/?p=341298</id>
-        <link href="https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/"/>
-        <updated>2021-05-27T18:22:11.000Z</updated>
-        <summary type="html"><![CDATA[It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).
-Like this:
-$ brew install somepackage
-The point of that is that it …
-The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
-        <id>60af931811ffb70827ef85d3</id>
-        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
-        <updated>2021-05-27T17:55:23.000Z</updated>
-        <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
-        <id>60a325c6906c5207e3a7da25</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
-        <updated>2021-05-27T15:16:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Show Images on Click]]></title>
-        <id>https://css-tricks.com/?p=341020</id>
-        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
-        <updated>2021-05-27T14:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
-The post How to Show Images on Click appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
-        <id>https://css-tricks.com/?p=340910</id>
-        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
-        <updated>2021-05-27T14:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
-The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Michael Rispoli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
-        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
-        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
-        <updated>2021-05-27T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>

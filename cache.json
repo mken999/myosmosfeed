@@ -470,33 +470,6 @@
           "publishedOn": "2021-05-28T14:36:47.000Z",
           "wordCount": 1844,
           "title": "Dynamic Favicons for WordPress"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341298",
-          "author": "Chris Coyier",
-          "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
-          "publishedOn": "2021-05-27T18:22:11.000Z",
-          "wordCount": 1464,
-          "title": "To $ or Not to $: Displaying Terminal Code Snippets"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341020",
-          "author": "Robin Rendle",
-          "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-show-images-on-click/",
-          "publishedOn": "2021-05-27T14:25:29.000Z",
-          "wordCount": 1491,
-          "title": "How to Show Images on Click"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340910",
-          "author": "Michael Rispoli",
-          "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
-          "publishedOn": "2021-05-27T14:23:23.000Z",
-          "wordCount": 2452,
-          "title": "Rethinking Postgres in a Post-Server World"
         }
       ]
     },
@@ -879,34 +852,6 @@
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
-          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
-          "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
-          "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
-          "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10217,
-          "title": "Adding A Commenting System To A WYSIWYG Editor",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
-          "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
-          "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3741,
-          "title": "Useful VS Code Extensions For Front-End Developers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
             "length": "0",
             "type": "image/png"
           }
@@ -1664,24 +1609,6 @@
           "publishedOn": "2021-05-28T12:26:38.000Z",
           "wordCount": 368,
           "title": "Advanced Computer Vision with Python"
-        },
-        {
-          "id": "60af931811ffb70827ef85d3",
-          "author": null,
-          "description": "When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating",
-          "link": "https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/",
-          "publishedOn": "2021-05-27T17:55:23.000Z",
-          "wordCount": 1828,
-          "title": "How to Improve Machine Learning Model Performance by Combining Categorical Features"
-        },
-        {
-          "id": "60a325c6906c5207e3a7da25",
-          "author": null,
-          "description": "In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/",
-          "publishedOn": "2021-05-27T15:16:34.000Z",
-          "wordCount": 1399,
-          "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
         }
       ]
     },
@@ -1690,6 +1617,51 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135664",
+          "author": "g.O.R.i",
+          "description": "子どもにとって、「やりたいこと」と「天気」の関係性はあまりない。炎天下でも外で遊びたくなることもあれば、外が最高の気候でも家の中で絵の具をやりたいこともある。 梅雨の時期は「外に行きたいけど雨が降っていてどこも行けない」という問題に直面する。そこで娘に可愛い長靴と傘を購入し「雨の日はそれを着て散歩し…\nThe post 子どもと梅雨を楽しむーー可愛い傘・長靴・レインコートで水溜りに全力でジャンプ！ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/papa/fun-with-kids/135664",
+          "publishedOn": "2021-06-26T22:05:09.000Z",
+          "wordCount": 196,
+          "title": "子どもと梅雨を楽しむーー可愛い傘・長靴・レインコートで水溜りに全力でジャンプ！"
+        },
+        {
+          "id": "https://gori.me/?p=135799",
+          "author": "g.O.R.i",
+          "description": "Windows 11の標準ブラウザは、ChromiumベースのMicrosoft Edgeだ。Windows 11は、年内に正式リリース予定。Internet Explorerは2022年6月15日に終了すると発表されているが、Windows 11には最初からインストールされていない。 Intern…\nThe post Windows 11、Internet Explorerはインストールされていない first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/microsoft/windows/135799",
+          "publishedOn": "2021-06-26T21:45:09.000Z",
+          "wordCount": 179,
+          "title": "Windows 11、Internet Explorerはインストールされていない"
+        },
+        {
+          "id": "https://gori.me/?p=135797",
+          "author": "g.O.R.i",
+          "description": "Kindleストアが、対象作品1,000点以上が最大50％オフで購入できる「高額書籍キャンペーン」を開催している。セールは2021年7月8日（木）まで。 対象作品には、『BRAIN DRIVEN　パフォーマンスが高まる脳の状態とは』、『コンサルを超える　問題解決と価値創造の全技法』、『図解 人材マネ…\nThe post Kindleストアで高額書籍1,000点が最大50％オフセール開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/kindle-sale/135797",
+          "publishedOn": "2021-06-26T05:10:12.000Z",
+          "wordCount": 194,
+          "title": "Kindleストアで高額書籍1,000点が最大50％オフセール開催中"
+        },
+        {
+          "id": "https://gori.me/?p=135795",
+          "author": "g.O.R.i",
+          "description": "Appleは、iOS 15およびiPadOS 15でアプリが使用可能なメモリ（RAM）の上限を緩和する技術仕様を発表した。現状は最大5GBまでのメモリしか使用できず、最大16GBのメモリを搭載するM1 iPad Proのハードウェアが活かせないと指摘されていた。 【関連】M1 iPad Pro、最大…\nThe post iOS/iPadOS 15、アプリが使用可能なメモリの制限を緩和 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios15/135795",
+          "publishedOn": "2021-06-26T02:00:22.000Z",
+          "wordCount": 239,
+          "title": "iOS/iPadOS 15、アプリが使用可能なメモリの制限を緩和"
+        },
+        {
+          "id": "https://gori.me/?p=135792",
+          "author": "g.O.R.i",
+          "description": "Microsoftが年内に正式リリースするWindows 11は、Intel Macで公式にサポートされない可能性が高い。仮想化アプリケーションであれば使用できる可能性はあるが、Boot Campとしてインストールすることは難しいだろう。 Windows 11は無料アップデートとして配布されるが、ハ…\nThe post MacはWindows 11 が利用不可　Intel Macでも公式にサポートしない理由 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/microsoft/windows/135792",
+          "publishedOn": "2021-06-26T01:20:50.000Z",
+          "wordCount": 280,
+          "title": "MacはWindows 11 が利用不可　Intel Macでも公式にサポートしない理由"
+        },
         {
           "id": "https://gori.me/?p=135785",
           "author": "g.O.R.i",
@@ -3309,24 +3281,6 @@
           "publishedOn": "2021-05-28T14:56:20.000Z",
           "wordCount": 181,
           "title": "AirPods 3は年内登場、AirPods Proの新モデルは来年に延期か"
-        },
-        {
-          "id": "https://gori.me/?p=135152",
-          "author": "g.O.R.i",
-          "description": "AppleでSIMフリーiPhoneを購入すると、無料のY!mobile SIMカード（ワイモバイルSIMスターターキット）が「おすすめ」に表示される。契約事務手数料（3,000円）が無料になる特典が利用できるが、期間限定で、最大7,000円のキャッシュバックが受けられるキャンペーンがスタートした。…\nThe post AppleでワイモバイルSIM購入・契約がお得！最大7,000円キャッシュバック first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/mobile/smartphone/135152",
-          "publishedOn": "2021-05-28T01:29:59.000Z",
-          "wordCount": 152,
-          "title": "AppleでワイモバイルSIM購入・契約がお得！最大7,000円キャッシュバック"
-        },
-        {
-          "id": "https://gori.me/?p=135145",
-          "author": "g.O.R.i",
-          "description": "Twitterが準備中とされる有料サブスクリプションサービス「Twitter Blue」は、Twitter公式アプリのアプリ内課金として提供され、月額2.99ドルで利用できることが明らかになった。日本での価格は月額350円であると判明した。 大手SNSの未発表機能を多数発見しているJane Manc…\nThe post Twitterのサブスク、利用料金は月額350円　カラーテーマやカスタムアイコンも提供か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/twitter/twitter-news/135145",
-          "publishedOn": "2021-05-27T23:52:36.000Z",
-          "wordCount": 205,
-          "title": "Twitterのサブスク、利用料金は月額350円　カラーテーマやカスタムアイコンも提供か"
         }
       ]
     }
