@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T00:18:57.454Z</updated>
+    <updated>2021-06-28T00:18:48.644Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あれ、iPhone 13の画面内蔵Touch IDが復活する話ってどこいった？]]></title>
+        <id>https://gori.me/?p=135811</id>
+        <link href="https://gori.me/iphone/iphone-news/135811"/>
+        <updated>2021-06-27T21:45:04.000Z</updated>
+        <summary type="html"><![CDATA[2021年の新型iPhone（iPhone 13）は、Touch IDが画面に内蔵され復活する噂がある。著名リーカーや大手テック系メディアが報じており実現可能性は高いと見られていたが、正式発表3カ月前にして暗雲が漂っている。 iPhone 13に画面内蔵Touch ID搭載を示唆したメディアやリーカ…
+The post あれ、iPhone 13の画面内蔵Touch IDが復活する話ってどこいった？ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子どもと梅雨を楽しむーー可愛い傘・長靴・レインコートで水溜りに全力でジャンプ！]]></title>
         <id>https://gori.me/?p=135664</id>
@@ -4053,113 +4066,6 @@ The post Twitter、ツイート用リアクションボタンを準備中か fir
  【もっと読む】]]></summary>
         <author>
             <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Podcastのサブスク、リリースを6月に延期]]></title>
-        <id>https://gori.me/?p=135166</id>
-        <link href="https://gori.me/apple/apple-news/135166"/>
-        <updated>2021-05-29T02:17:29.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、Podcastアプリの有料定期購読サービス「Apple Podcastサブスクリプション」のリリースを6月に延期する。当初は5月より170カ国で提供開始する予定だったが、9to5Macによると、「クリエイターおよびリスナーにとって最高の体験にするため」遅らせるという。正確なリリース時期…
-The post Apple Podcastのサブスク、リリースを6月に延期 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1 iPad Pro、最大16GBのRAMを活かせず　アプリの使用可能RAMは5GBまで]]></title>
-        <id>https://gori.me/?p=135165</id>
-        <link href="https://gori.me/ipad/ipadpro/135165"/>
-        <updated>2021-05-29T00:57:47.000Z</updated>
-        <summary type="html"><![CDATA[iPad Proアプリが使用できるRAMは、最大5GBに制限されていると判明した。iPad専用のイラスト製作アプリ「Procreate」のフォーラムによると、5GB以上のRAMを使用した場合、アプリがクラッシュするという。 M1チップのiPad Pro（2021）は、128GB・256GB・512G…
-The post M1 iPad Pro、最大16GBのRAMを活かせず　アプリの使用可能RAMは5GBまで first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter、認証済みアカウントの申請受付を一時停止　近々再開へ]]></title>
-        <id>https://gori.me/?p=135163</id>
-        <link href="https://gori.me/twitter/twitter-news/135163"/>
-        <updated>2021-05-28T23:27:14.000Z</updated>
-        <summary type="html"><![CDATA[Twitterが、認証済みアカウントの申請受付を一時的に停止すると発表した。申請された認証済みアカウントの精査を行うためとしており、近日中の再開を約束している。 We’re rolling in verification requests. So we gotta hit pause on acce…
-The post Twitter、認証済みアカウントの申請受付を一時停止　近々再開へ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/"/>
-        <updated>2021-05-28T22:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know]]></title>
-        <id>60b08d8811ffb70827ef8c7b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-secure-your-android-app/"/>
-        <updated>2021-05-28T16:01:05.000Z</updated>
-        <summary type="html"><![CDATA[If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新しい完全ワイヤレスイヤホン「Beats Studio Buds」が発見される]]></title>
-        <id>https://gori.me/?p=134838</id>
-        <link href="https://gori.me/music-accessories/earphones/134838"/>
-        <updated>2021-05-28T15:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、新しい完全ワイヤレスイヤホン「Beats Studio Buds」を近日中に発売する可能性がある。MacRumorsによると、iOS 14.6およびtvOS 14.6のベータ版から発見されたという。 「Beats Studio Buds」は、Powerbeats Proのようなイヤーフ…
-The post 新しい完全ワイヤレスイヤホン「Beats Studio Buds」が発見される first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirPods 3は年内登場、AirPods Proの新モデルは来年に延期か]]></title>
-        <id>https://gori.me/?p=135161</id>
-        <link href="https://gori.me/music-accessories/airpods/135161"/>
-        <updated>2021-05-28T14:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、エントリーモデルの新型AirPods（AirPods 3）を年内に発表する可能性がある。Bloombergによると、「AirPods 3」は柄の部分が短くなった新デザインを採用しており、AirPods Proと似ているという。 また新型AirPods Proは2022年に発表予定。年内…
-The post AirPods 3は年内登場、AirPods Proの新モデルは来年に延期か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamic Favicons for WordPress]]></title>
-        <id>https://css-tricks.com/?p=341163</id>
-        <link href="https://css-tricks.com/dynamic-favicons-for-wordpress/"/>
-        <updated>2021-05-28T14:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …
-The post Dynamic Favicons for WordPress appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Thomas Park</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Computer Vision with Python]]></title>
-        <id>60b0de2211ffb70827ef8d7c</id>
-        <link href="https://www.freecodecamp.org/news/advanced-computer-vision-with-python/"/>
-        <updated>2021-05-28T12:26:38.000Z</updated>
-        <summary type="html"><![CDATA[More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
