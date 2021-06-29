@@ -31,6 +31,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343040",
+          "author": "Chris Coyier",
+          "description": "I think we’re all largely aware of named colors in CSS:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/system-things/",
+          "publishedOn": "2021-06-28T22:14:22.000Z",
+          "wordCount": 959,
+          "title": "System *Things"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343139",
+          "author": "Chris Coyier",
+          "description": "Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …\nThe post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
+          "publishedOn": "2021-06-28T21:17:26.000Z",
+          "wordCount": 937,
+          "title": "Working around the viewport-based fluid typography bug in Safari"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342971",
+          "author": "Ryan Mulligan",
+          "description": "Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.\nRecently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …\nThe post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
+          "publishedOn": "2021-06-28T14:25:33.000Z",
+          "wordCount": 2338,
+          "title": "Positioning Overlay Content with CSS Grid"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343072",
+          "author": "Chris Coyier",
+          "description": "To make some terminology clear here:\nCMS = Content Management System\nCRM = Customer Relationship Management\nBoth are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …\nThe post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/",
+          "publishedOn": "2021-06-28T13:29:00.000Z",
+          "wordCount": 738,
+          "title": "Scaling Organizations Should Consider Building a Website Backed by a CRM Platform"
+        },
+        {
           "id": "https://css-tricks.com/?p=342718",
           "author": "Chris Coyier",
           "description": "I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.\nThe post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -470,6 +506,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
+          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
+          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
+          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
+          "publishedOn": "2021-06-28T10:30:00.000Z",
+          "wordCount": 2474,
+          "title": "Creating Custom Emmet Snippets In VS Code",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "author": "hello@smashingmagazine.com (Dom Habersack)",
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
@@ -854,6 +904,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d61acc6e1a1407b6b0bd46",
+          "author": null,
+          "description": "In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and",
+          "link": "https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/",
+          "publishedOn": "2021-06-28T21:17:02.000Z",
+          "wordCount": 3681,
+          "title": "How to Securely Access Secret API keys using Netlify Functions in a React App"
+        },
+        {
+          "id": "60d9766b6e1a1407b6b0cb4f",
+          "author": null,
+          "description": "If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/",
+          "publishedOn": "2021-06-28T20:35:12.000Z",
+          "wordCount": 2818,
+          "title": "How to Deploy an NLP Model with FastAPI"
+        },
+        {
+          "id": "60d07b4578f45307fee80aef",
+          "author": null,
+          "description": "Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most",
+          "link": "https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/",
+          "publishedOn": "2021-06-28T20:04:28.000Z",
+          "wordCount": 2258,
+          "title": "What is an IDE in Programming? An IDE Definition for Developers"
+        },
+        {
+          "id": "60d675ac6e1a1407b6b0bea1",
+          "author": null,
+          "description": "In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to",
+          "link": "https://www.freecodecamp.org/news/javascript-closure-lexical-scope/",
+          "publishedOn": "2021-06-28T18:45:21.000Z",
+          "wordCount": 740,
+          "title": "JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS"
+        },
+        {
+          "id": "60d4d3d86e1a1407b6b0bb25",
+          "author": null,
+          "description": "A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/",
+          "publishedOn": "2021-06-28T13:50:35.000Z",
+          "wordCount": 67249,
+          "title": "Learn How to Create a Design System in Figma"
+        },
+        {
+          "id": "60d4ea756e1a1407b6b0bb71",
+          "author": null,
+          "description": "Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of",
+          "link": "https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/",
+          "publishedOn": "2021-06-28T13:44:39.000Z",
+          "wordCount": 806,
+          "title": "Why You Should Learn Data Analytics"
+        },
         {
           "id": "60d3ee396e1a1407b6b0b6ef",
           "author": null,
@@ -1581,6 +1685,96 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135833",
+          "author": "g.O.R.i",
+          "description": "Axon Body 2よりキャプチャ Appleは一部従業員に対し、米警察が使用するボディーカメラの装着を義務付けている可能性がある。FrontPageTech.comによると、リーク情報を阻止する対策として実施しているというが、「リークを阻止する対策がリークしてしまった」と皮肉っている。 装着の義…\nThe post Apple、一部従業員に米警察が使用するボディーカメラの装着を義務付けか first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/135833",
+          "publishedOn": "2021-06-29T00:14:55.000Z",
+          "wordCount": 185,
+          "title": "Apple、一部従業員に米警察が使用するボディーカメラの装着を義務付けか"
+        },
+        {
+          "id": "https://gori.me/?p=135830",
+          "author": "g.O.R.i",
+          "description": "Appleは6月25日、「macOS Monterey Beta 2」を開発者向けに配信開始した。ビルドナンバーは「21A5268h」。最新バージョンの新機能や変更点は、現時点では明らかになっていない。 macOS 12 ”Montery”は、2021年秋に一般公開を予定。新機能として、ユニバーサル…\nThe post macOS MontereyのBeta 2、開発者向けに配信開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macosx/macosmonterey/135830",
+          "publishedOn": "2021-06-28T21:54:30.000Z",
+          "wordCount": 192,
+          "title": "macOS MontereyのBeta 2、開発者向けに配信開始"
+        },
+        {
+          "id": "https://gori.me/?p=135827",
+          "author": "g.O.R.i",
+          "description": "2021年の新型Apple Watch（Apple Watch Series 7）は電池持ちが改良される可能性があると、MacRumorsが推察している。 「Apple Watch Series 7」は新デザインの採用、ディスプレイの大型化、内蔵チップ（S7）の性能向上、超広帯域無線（UWB）の対応…\nThe post Apple Watch Series 7、電池持ちを重視か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple-watch/watch-news/135827",
+          "publishedOn": "2021-06-28T21:30:43.000Z",
+          "wordCount": 294,
+          "title": "Apple Watch Series 7、電池持ちを重視か"
+        },
+        {
+          "id": "https://gori.me/?p=135826",
+          "author": "g.O.R.i",
+          "description": "Appleは6月25日、サポートドキュメント「医療機器への磁気干渉の可能性について」を公開した。特定の状況下において磁石や電磁場が医療機器に干渉する恐れがあるとして、磁石を内臓しているApple製品リストを記載している。 植え込み型のペースメーカーや除細動器に内蔵されているセンサーが、磁石や無線送信…\nThe post 医療機器に干渉する可能性があるApple製品一覧が公開 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/135826",
+          "publishedOn": "2021-06-28T12:13:18.000Z",
+          "wordCount": 262,
+          "title": "医療機器に干渉する可能性があるApple製品一覧が公開"
+        },
+        {
+          "id": "https://gori.me/?p=135825",
+          "author": "g.O.R.i",
+          "description": "2021年の新型iPhone（iPhone 13）のハイエンドモデル（iPhone 13 Pro）は、超広角カメラにオートフォーカスが追加される可能性がある。Apple情報に詳しいアナリストMing-Chi Kuo氏が最新レポートで明らかにした。 iPhone 12シリーズ以前の超広角レンズには、オ…\nThe post iPhone 13 Pro、超広角レンズがオートフォーカス対応か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/135825",
+          "publishedOn": "2021-06-28T07:51:20.000Z",
+          "wordCount": 316,
+          "title": "iPhone 13 Pro、超広角レンズがオートフォーカス対応か"
+        },
+        {
+          "id": "https://gori.me/?p=135823",
+          "author": "g.O.R.i",
+          "description": "Adobeが、「Adobe Summer Sale」として「Adobe Creative Cloudコンプリートプラン」が27％オフ、「Adobe Illustrator」が23％オフで購入できるセールを開催している。いずれも12カ月、24カ月、36カ月のオンラインコード版が対象となっている。 なお…\nThe post Adobe CCのコンプリート版とイラレ、最大27％オフセール開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/software-sale/135823",
+          "publishedOn": "2021-06-28T03:09:15.000Z",
+          "wordCount": 181,
+          "title": "Adobe CCのコンプリート版とイラレ、最大27％オフセール開催中"
+        },
+        {
+          "id": "https://gori.me/?p=135821",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日M1 Macがお買い得！M1 Mac …\nThe post M1 Mac miniやMacBook Airがお買い得！Mac整備済商品の最新情報（2021年6月28日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/135821",
+          "publishedOn": "2021-06-28T02:47:11.000Z",
+          "wordCount": 640,
+          "title": "M1 Mac miniやMacBook Airがお買い得！Mac整備済商品の最新情報（2021年6月28日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=135819",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は11インチiPad Proがお快…\nThe post 11インチiPad Proがお買い得！iPad整備済商品の最新情報（2021年6月28日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/135819",
+          "publishedOn": "2021-06-28T02:40:54.000Z",
+          "wordCount": 313,
+          "title": "11インチiPad Proがお買い得！iPad整備済商品の最新情報（2021年6月28日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=135817",
+          "author": "g.O.R.i",
+          "description": "Appleが、今後数週間以内に新製品を発表する可能性は低い。Appleに詳しいBloombergの名物記者Mark Gurman氏の最新ニュースレターによると、Appleの新製品に関するニュースは「控えめになる」という。 次に登場する新製品は2021年の新型iPhone（iPhone 13）およびA…\nThe post Apple、今後数週間以内は新製品の発表なし？ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-news/135817",
+          "publishedOn": "2021-06-28T01:24:41.000Z",
+          "wordCount": 186,
+          "title": "Apple、今後数週間以内は新製品の発表なし？"
+        },
+        {
+          "id": "https://gori.me/?p=135815",
+          "author": "g.O.R.i",
+          "description": "Appleは、現行モデルよりも大きいディスプレイを搭載したiPad Proを検討している可能性がある。Appleに詳しいBloombergの名物記者Mark Gurman氏が公開した最新のニュースレターによると、登場時期は「来年ではない」とし、製品化が実現するならば「数年後」になるという。 iPad…\nThe post iPad Proが”Max化”がを検討中？さらに大きいディスプレイを搭載か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipad/ipad-news/135815",
+          "publishedOn": "2021-06-28T00:35:39.000Z",
+          "wordCount": 193,
+          "title": "iPad Proが”Max化”がを検討中？さらに大きいディスプレイを搭載か"
+        },
         {
           "id": "https://gori.me/?p=135811",
           "author": "g.O.R.i",
@@ -3164,51 +3358,6 @@
           "publishedOn": "2021-05-30T23:20:24.000Z",
           "wordCount": 308,
           "title": "12.9インチiPad Pro 2021 レビュー：”ガチ勢”用マシーン"
-        },
-        {
-          "id": "https://gori.me/?p=135177",
-          "author": "g.O.R.i",
-          "description": "Amazonのオーディオブックサービス「Audible（オーディブル）」が、プライム会員を対象とした3か月無料体験キャンペーンを開催中だ。キャンペーンは2021年6月29日まで。 Audibleは俳優や声優、プロのナレーターによって読み上げられた本を音声で聴くことができるサービス。人気作家のベストセ…\nThe post Amazonのオーディオブックサービス「Audible」、3ヶ月無料体験キャンペーン中 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/amazon/amazon-sale/135177",
-          "publishedOn": "2021-05-30T08:29:06.000Z",
-          "wordCount": 140,
-          "title": "Amazonのオーディオブックサービス「Audible」、3ヶ月無料体験キャンペーン中"
-        },
-        {
-          "id": "https://gori.me/?p=135171",
-          "author": "g.O.R.i",
-          "description": "Appleの元CDO（Chief Design Officer＝最高デザイン責任者）だったJony Ive氏は、24インチiMac（2021）のデザインに関わっていたと判明した。Jony Ive氏は2019年11月にAppleを退社し、自身のデザインファーム「LoveFrom」を立ち上げ。引き続きA…\nThe post Jony Ive、24インチiMacのデザインに関わっていた first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/imac/135171",
-          "publishedOn": "2021-05-29T23:37:28.000Z",
-          "wordCount": 169,
-          "title": "Jony Ive、24インチiMacのデザインに関わっていた"
-        },
-        {
-          "id": "https://gori.me/?p=135169",
-          "author": "g.O.R.i",
-          "description": "SamsungとLGが、2021年の新型iPhone（iPhone 13）用のディスプレイパネルを生産開始した可能性がある。「iPhone 13」と「iPhone 13 mini」はLG Displayが担当。「iPhone 13 Pro」と「iPhone 13 Pro Max」はSamsungが担…\nThe post SamsungとLG、iPhone 13用のディスプレイパネルを生産開始か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone/iphone-news/135169",
-          "publishedOn": "2021-05-29T22:11:39.000Z",
-          "wordCount": 251,
-          "title": "SamsungとLG、iPhone 13用のディスプレイパネルを生産開始か"
-        },
-        {
-          "id": "https://gori.me/?p=135159",
-          "author": "g.O.R.i",
-          "description": "Apple Watch用プライドエディションブレイデッドソロループを購入した。ソロループはバックルなどの繋ぎ目が一切ないため、パソコン仕事をしている人にとって使い勝手が良い。 ブレイデッドソロループは手首にジャストフィットするため、購入前に正確なサイズを把握する必要がある。40mm用は「1」から「9…\nThe post 【レビュー】Apple Watch用プライドエディションブレイデッドソロループ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/watch-accessories/watch-band/135159",
-          "publishedOn": "2021-05-29T21:45:29.000Z",
-          "wordCount": 185,
-          "title": "【レビュー】Apple Watch用プライドエディションブレイデッドソロループ"
-        },
-        {
-          "id": "https://gori.me/?p=135168",
-          "author": "g.O.R.i",
-          "description": "Twitterは、ツイート用リアクションボタンを開発している可能性がある。大手SNSの未発表機能を多数発見しているJane Manchun Wong氏によると、「Like（いいね）」「Cheer（歓呼）」「Hmm（うーん）」「Sad（悲しい）」「Haha（笑）」などのボタンが検討されているという。 …\nThe post Twitter、ツイート用リアクションボタンを準備中か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/twitter/twitter-news/135168",
-          "publishedOn": "2021-05-29T13:31:36.000Z",
-          "wordCount": 185,
-          "title": "Twitter、ツイート用リアクションボタンを準備中か"
         }
       ]
     }
