@@ -31,6 +31,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343470",
+          "author": "Chris Coyier",
+          "description": "I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. \nhtml {\n  font: 110%/1.4 system-ui;\n}\n…\nThe post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/",
+          "publishedOn": "2021-06-29T22:43:50.000Z",
+          "wordCount": 672,
+          "title": "What does `font: 110%/1.4 system-ui` mean?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343260",
+          "author": "Chris Coyier",
+          "description": "Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?\nThe squiggly lines that indicate possible spelling or grammar errors \n…\nThe post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.azabani.com/2021/05/17/spelling-grammar.html",
+          "publishedOn": "2021-06-29T20:25:00.000Z",
+          "wordCount": 3316,
+          "title": "Chromium spelling and grammar features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342736",
+          "author": "Chris Coyier",
+          "description": "I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. \nThe answer, it …\nThe post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
+          "publishedOn": "2021-06-29T14:37:21.000Z",
+          "wordCount": 747,
+          "title": ":nth-child Between Two Fixed Indexes"
+        },
+        {
           "id": "https://css-tricks.com/?p=343040",
           "author": "Chris Coyier",
           "description": "I think we’re all largely aware of named colors in CSS:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -506,6 +533,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
+          "link": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
+          "publishedOn": "2021-06-29T11:00:00.000Z",
+          "wordCount": 2454,
+          "title": "Breaking Down Bulky Builds With Netlify And Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a11af025-97a1-4506-8cbe-a7786e5574c9/breaking-down-bulky-builds-netlify-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
+          "publishedOn": "2021-06-29T05:30:00.000Z",
+          "wordCount": 6617,
+          "title": "Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e981ad2c-0679-4935-b19f-39d1ca96823e/smashing-podcast-episode-40.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "author": "hello@smashingmagazine.com (Manuel Matuzović)",
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
@@ -882,20 +937,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
-          "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
-          "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2490,
-          "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -904,6 +945,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60db519527f80207bcdbb6fa",
+          "author": null,
+          "description": "Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!",
+          "link": "https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/",
+          "publishedOn": "2021-06-29T20:00:32.000Z",
+          "wordCount": 908,
+          "title": "Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need"
+        },
+        {
+          "id": "604b8c6ea7946308b7687683",
+          "author": null,
+          "description": "Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of",
+          "link": "https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/",
+          "publishedOn": "2021-06-29T19:47:13.000Z",
+          "wordCount": 1079,
+          "title": "Linux List Processes – How to Check Running Processes"
+        },
+        {
+          "id": "60daf29027f80207bcdbb3fe",
+          "author": null,
+          "description": "Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need",
+          "link": "https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/",
+          "publishedOn": "2021-06-29T18:25:52.000Z",
+          "wordCount": 926,
+          "title": "How to Use timedelta Objects in Python to Work with Dates"
+        },
+        {
+          "id": "60d76f6f6e1a1407b6b0c521",
+          "author": null,
+          "description": "What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of",
+          "link": "https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/",
+          "publishedOn": "2021-06-29T13:24:44.000Z",
+          "wordCount": 684,
+          "title": "Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course"
+        },
         {
           "id": "60d61acc6e1a1407b6b0bd46",
           "author": null,
@@ -1685,6 +1762,60 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135810",
+          "author": "g.O.R.i",
+          "description": "GREEN SPOONとの出会いは、母の日のプレゼント。孫たちの成長を見届けてもらえるように、健康を意識したプレゼンとして母親の好みやニーズを汲み取ったパーソナルスムージーを贈った。両家とも好評で美味しいと喜んでもらえた。 必要な野菜がカップに詰まって毎月自宅に届くパーソナルスムージーのサービスとし…\nThe post GREEEN SPOONのパーソナルスープは美味しくてヘルシー、しかもパッケージが可愛い first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/health/135810",
+          "publishedOn": "2021-06-29T22:15:13.000Z",
+          "wordCount": 213,
+          "title": "GREEEN SPOONのパーソナルスープは美味しくてヘルシー、しかもパッケージが可愛い"
+        },
+        {
+          "id": "https://gori.me/?p=135869",
+          "author": "g.O.R.i",
+          "description": "Appleは6月30日、「iOS 14.7 Beta 4」「iPadOS 14.7 Beta 4」「macOS Big Sur 11.5 Beta」「watchOS 7.6 Beta 4」「tvOS 14.7 Beta 4」を開発者向けに配信開始した。最新バージョンの新機能や変更点は、現時点では明ら…\nThe post iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 4、開発者向けに配信開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios14/135869",
+          "publishedOn": "2021-06-29T21:55:23.000Z",
+          "wordCount": 276,
+          "title": "iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 4、開発者向けに配信開始"
+        },
+        {
+          "id": "https://gori.me/?p=135841",
+          "author": "g.O.R.i",
+          "description": "Amazon Kids+よりキャプチャ 子供向けコンテンツが利用し放題のサブスクサービス「Amazon Kids+」が、83％オフで3カ月間利用できる「サマーディスカウントキャンペーン」を開催している。キャンペーンは7月17日（土）までの期間限定。Amazon Kids+に初めて登録する人だけではな…\nThe post Amazonの子供向けサブスク「Amazon Kids+」、3カ月480円で利用できるキャンペーンが開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/amazon/amazon-sale/135841",
+          "publishedOn": "2021-06-29T21:45:19.000Z",
+          "wordCount": 197,
+          "title": "Amazonの子供向けサブスク「Amazon Kids+」、3カ月480円で利用できるキャンペーンが開催中"
+        },
+        {
+          "id": "https://gori.me/?p=135844",
+          "author": "g.O.R.i",
+          "description": "Appleは6月29日、Apple Watchインターナショナルコレクションバンドと文字盤を発表した。22種類の限定版スポーツループバンドは、世界22か国を表したカラフルなデザインを特徴としており、それぞれに対応するストライプ文字盤もダウンロード可能。 用意されている国は、オーストラリア、ベルギー、…\nThe post Apple、日本を表現したApple Watchスポーツループバンドと文字盤を発表 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/watch-accessories/watch-band/135844",
+          "publishedOn": "2021-06-29T13:25:56.000Z",
+          "wordCount": 177,
+          "title": "Apple、日本を表現したApple Watchスポーツループバンドと文字盤を発表"
+        },
+        {
+          "id": "https://gori.me/?p=135838",
+          "author": "g.O.R.i",
+          "description": "Steve HemmerstofferのVoiceより Googleは、「Pixel 5a 5G」を8月に発表および発売する可能性が高い。Bloombergの名物記者Mark Gurman氏が、ニュースレターで明らかにした。 Googleは今年4月、「Pixel 5a」の発売中止を予測したリーク情報…\nThe post Pixel 5a 5G、8月に発表および発売か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/google/pixel-news/135838",
+          "publishedOn": "2021-06-29T11:47:16.000Z",
+          "wordCount": 211,
+          "title": "Pixel 5a 5G、8月に発表および発売か"
+        },
+        {
+          "id": "https://gori.me/?p=135837",
+          "author": "g.O.R.i",
+          "description": "@duanrui1205より 2021年の新型iPhone（iPhone 13）のダミーモデルとされる新しい写真が公開された。具体的なモデル名やサイズは明かされていないが、「iPhone 13 mini」と「iPhone 13 Pro Max」、「iPhone 13」と「iPhone 13 Pro」…\nThe post iPhone 13とiPhone 13 Proの新しいダミーモデル写真が公開 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/135837",
+          "publishedOn": "2021-06-29T11:16:25.000Z",
+          "wordCount": 284,
+          "title": "iPhone 13とiPhone 13 Proの新しいダミーモデル写真が公開"
+        },
         {
           "id": "https://gori.me/?p=135833",
           "author": "g.O.R.i",
@@ -3331,33 +3462,6 @@
           "publishedOn": "2021-05-31T21:45:49.000Z",
           "wordCount": 215,
           "title": "12.9インチiPad Proを2枚使って携帯可能なトリプルモニター環境を作ってみた"
-        },
-        {
-          "id": "https://gori.me/?p=135193",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 Apple Watch …\nThe post SEが2.7万円から！Apple Watch整備済商品の最新情報（2021年5月31日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135193",
-          "publishedOn": "2021-05-31T05:29:10.000Z",
-          "wordCount": 246,
-          "title": "SEが2.7万円から！Apple Watch整備済商品の最新情報（2021年5月31日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135191",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 Mac miniが67,980…\nThe post 6.7万円のM1 Mac miniが復活！Mac整備済商品の最新情報（2021年5月31日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135191",
-          "publishedOn": "2021-05-31T05:21:11.000Z",
-          "wordCount": 769,
-          "title": "6.7万円のM1 Mac miniが復活！Mac整備済商品の最新情報（2021年5月31日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135005",
-          "author": "g.O.R.i",
-          "description": "iPadを”画面の大きいiPhone”として活用しているような人でも、iPad Proを選ぶべき理由はあった。120Hzディスプレイの滑らかさ、iPhoneで慣れたFace IDの便利さ、ディスプレイの美しさ。「どうせなら一番良いやつを買っておこう」という気持ちもあった。 しかしiPad Pro（2…\nThe post 12.9インチiPad Pro 2021 レビュー：”ガチ勢”用マシーン first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ipad/ipadpro/135005",
-          "publishedOn": "2021-05-30T23:20:24.000Z",
-          "wordCount": 308,
-          "title": "12.9インチiPad Pro 2021 レビュー：”ガチ勢”用マシーン"
         }
       ]
     }

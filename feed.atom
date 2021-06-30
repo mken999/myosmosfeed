@@ -2,10 +2,188 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T00:18:42.006Z</updated>
+    <updated>2021-06-30T00:16:46.849Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
+        <id>https://css-tricks.com/?p=343470</id>
+        <link href="https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/"/>
+        <updated>2021-06-29T22:43:50.000Z</updated>
+        <summary type="html"><![CDATA[I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. 
+html {
+  font: 110%/1.4 system-ui;
+}
+…
+The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GREEEN SPOONのパーソナルスープは美味しくてヘルシー、しかもパッケージが可愛い]]></title>
+        <id>https://gori.me/?p=135810</id>
+        <link href="https://gori.me/health/135810"/>
+        <updated>2021-06-29T22:15:13.000Z</updated>
+        <summary type="html"><![CDATA[GREEN SPOONとの出会いは、母の日のプレゼント。孫たちの成長を見届けてもらえるように、健康を意識したプレゼンとして母親の好みやニーズを汲み取ったパーソナルスムージーを贈った。両家とも好評で美味しいと喜んでもらえた。 必要な野菜がカップに詰まって毎月自宅に届くパーソナルスムージーのサービスとし…
+The post GREEEN SPOONのパーソナルスープは美味しくてヘルシー、しかもパッケージが可愛い first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 4、開発者向けに配信開始]]></title>
+        <id>https://gori.me/?p=135869</id>
+        <link href="https://gori.me/ios/ios14/135869"/>
+        <updated>2021-06-29T21:55:23.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月30日、「iOS 14.7 Beta 4」「iPadOS 14.7 Beta 4」「macOS Big Sur 11.5 Beta」「watchOS 7.6 Beta 4」「tvOS 14.7 Beta 4」を開発者向けに配信開始した。最新バージョンの新機能や変更点は、現時点では明ら…
+The post iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 4、開発者向けに配信開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonの子供向けサブスク「Amazon Kids+」、3カ月480円で利用できるキャンペーンが開催中]]></title>
+        <id>https://gori.me/?p=135841</id>
+        <link href="https://gori.me/amazon/amazon-sale/135841"/>
+        <updated>2021-06-29T21:45:19.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Kids+よりキャプチャ 子供向けコンテンツが利用し放題のサブスクサービス「Amazon Kids+」が、83％オフで3カ月間利用できる「サマーディスカウントキャンペーン」を開催している。キャンペーンは7月17日（土）までの期間限定。Amazon Kids+に初めて登録する人だけではな…
+The post Amazonの子供向けサブスク「Amazon Kids+」、3カ月480円で利用できるキャンペーンが開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromium spelling and grammar features]]></title>
+        <id>https://css-tricks.com/?p=343260</id>
+        <link href="https://www.azabani.com/2021/05/17/spelling-grammar.html"/>
+        <updated>2021-06-29T20:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?
+The squiggly lines that indicate possible spelling or grammar errors 
+…
+The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
+        <id>60db519527f80207bcdbb6fa</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/"/>
+        <updated>2021-06-29T20:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux List Processes – How to Check Running Processes]]></title>
+        <id>604b8c6ea7946308b7687683</id>
+        <link href="https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/"/>
+        <updated>2021-06-29T19:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use timedelta Objects in Python to Work with Dates]]></title>
+        <id>60daf29027f80207bcdbb3fe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/"/>
+        <updated>2021-06-29T18:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
+        <id>https://css-tricks.com/?p=342736</id>
+        <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
+        <updated>2021-06-29T14:37:21.000Z</updated>
+        <summary type="html"><![CDATA[I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. 
+The answer, it …
+The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、日本を表現したApple Watchスポーツループバンドと文字盤を発表]]></title>
+        <id>https://gori.me/?p=135844</id>
+        <link href="https://gori.me/watch-accessories/watch-band/135844"/>
+        <updated>2021-06-29T13:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Appleは6月29日、Apple Watchインターナショナルコレクションバンドと文字盤を発表した。22種類の限定版スポーツループバンドは、世界22か国を表したカラフルなデザインを特徴としており、それぞれに対応するストライプ文字盤もダウンロード可能。 用意されている国は、オーストラリア、ベルギー、…
+The post Apple、日本を表現したApple Watchスポーツループバンドと文字盤を発表 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course]]></title>
+        <id>60d76f6f6e1a1407b6b0c521</id>
+        <link href="https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/"/>
+        <updated>2021-06-29T13:24:44.000Z</updated>
+        <summary type="html"><![CDATA[What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel 5a 5G、8月に発表および発売か]]></title>
+        <id>https://gori.me/?p=135838</id>
+        <link href="https://gori.me/google/pixel-news/135838"/>
+        <updated>2021-06-29T11:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Steve HemmerstofferのVoiceより Googleは、「Pixel 5a 5G」を8月に発表および発売する可能性が高い。Bloombergの名物記者Mark Gurman氏が、ニュースレターで明らかにした。 Googleは今年4月、「Pixel 5a」の発売中止を予測したリーク情報…
+The post Pixel 5a 5G、8月に発表および発売か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13とiPhone 13 Proの新しいダミーモデル写真が公開]]></title>
+        <id>https://gori.me/?p=135837</id>
+        <link href="https://gori.me/iphone/iphone-news/135837"/>
+        <updated>2021-06-29T11:16:25.000Z</updated>
+        <summary type="html"><![CDATA[@duanrui1205より 2021年の新型iPhone（iPhone 13）のダミーモデルとされる新しい写真が公開された。具体的なモデル名やサイズは明かされていないが、「iPhone 13 mini」と「iPhone 13 Pro Max」、「iPhone 13」と「iPhone 13 Pro」…
+The post iPhone 13とiPhone 13 Proの新しいダミーモデル写真が公開 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
+        <updated>2021-06-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
+        <updated>2021-06-29T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple、一部従業員に米警察が使用するボディーカメラの装着を義務付けか]]></title>
         <id>https://gori.me/?p=135833</id>
@@ -4204,55 +4382,6 @@ The post Local: Always Getting Better appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
-        <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
-        <updated>2021-05-31T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEが2.7万円から！Apple Watch整備済商品の最新情報（2021年5月31日更新）]]></title>
-        <id>https://gori.me/?p=135193</id>
-        <link href="https://gori.me/sale/apple-refurbished/135193"/>
-        <updated>2021-05-31T05:29:10.000Z</updated>
-        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 Apple Watch …
-The post SEが2.7万円から！Apple Watch整備済商品の最新情報（2021年5月31日更新） first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6.7万円のM1 Mac miniが復活！Mac整備済商品の最新情報（2021年5月31日更新）]]></title>
-        <id>https://gori.me/?p=135191</id>
-        <link href="https://gori.me/sale/apple-refurbished/135191"/>
-        <updated>2021-05-31T05:21:11.000Z</updated>
-        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 Mac miniが67,980…
-The post 6.7万円のM1 Mac miniが復活！Mac整備済商品の最新情報（2021年5月31日更新） first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12.9インチiPad Pro 2021 レビュー：”ガチ勢”用マシーン]]></title>
-        <id>https://gori.me/?p=135005</id>
-        <link href="https://gori.me/ipad/ipadpro/135005"/>
-        <updated>2021-05-30T23:20:24.000Z</updated>
-        <summary type="html"><![CDATA[iPadを”画面の大きいiPhone”として活用しているような人でも、iPad Proを選ぶべき理由はあった。120Hzディスプレイの滑らかさ、iPhoneで慣れたFace IDの便利さ、ディスプレイの美しさ。「どうせなら一番良いやつを買っておこう」という気持ちもあった。 しかしiPad Pro（2…
-The post 12.9インチiPad Pro 2021 レビュー：”ガチ勢”用マシーン first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
         </author>
     </entry>
 </feed>
