@@ -22,6 +22,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343637",
+          "author": "Chris Coyier",
+          "description": "The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …\nThe post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/css-web-vitals/",
+          "publishedOn": "2021-07-01T18:54:45.000Z",
+          "wordCount": 1639,
+          "title": "CSS for Web Vitals"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342591",
+          "author": "Chris Coyier",
+          "description": "This is new stuff from DO.\nApp Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …\nThe post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/app-platform-on-digital-ocean/",
+          "publishedOn": "2021-07-01T18:54:12.000Z",
+          "wordCount": 934,
+          "title": "App Platform on Digital Ocean"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343092",
+          "author": "Cassidy Williams",
+          "description": "If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.\n\nClicking the button above lets me (or you!) instantly …\nThe post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/",
+          "publishedOn": "2021-07-01T14:40:14.000Z",
+          "wordCount": 1576,
+          "title": "Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator"
+        },
+        {
           "id": "https://css-tricks.com/?p=343224",
           "author": "Chris Coyier",
           "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -497,33 +524,6 @@
           "publishedOn": "2021-06-02T13:35:40.000Z",
           "wordCount": 1058,
           "title": "Are Custom Properties a “Menu of What Will Change”?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341720",
-          "author": "Chris Coyier",
-          "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://ped.ro/blog/code-blocks-but-better",
-          "publishedOn": "2021-06-01T22:08:48.000Z",
-          "wordCount": 3202,
-          "title": "Code blocks, but better"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341342",
-          "author": "Evgeny Klimenchenko",
-          "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
-          "publishedOn": "2021-06-01T14:17:43.000Z",
-          "wordCount": 3850,
-          "title": "Front-End Testing is For Everyone"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341296",
-          "author": "Geoff Graham",
-          "description": "Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…\nThe post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/",
-          "publishedOn": "2021-06-01T14:16:55.000Z",
-          "wordCount": 926,
-          "title": "Jetpack Boost Handles Critical CSS For You"
         }
       ]
     },
@@ -532,6 +532,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
+          "author": "hello@smashingmagazine.com (Ramona Schwering)",
+          "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. In sum, they can lead to lousy maintainability, slow execution time, and — in the worst case — tests you cannot trust. But it doesn’t have to be that way. In this article, I will talk about common mistakes developers make, at least in my experience, and, of course, how to avoid them. Testing doesn’t need to be painful, after all.",
+          "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
+          "publishedOn": "2021-07-01T12:30:00.000Z",
+          "wordCount": 4767,
+          "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "author": "hello@smashingmagazine.com (Surma)",
@@ -923,34 +937,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
-          "author": "hello@smashingmagazine.com (Jennifer Brehm)",
-          "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
-          "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
-          "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5387,
-          "title": "Improving The Performance Of An Online Store (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
-          "publishedOn": "2021-06-01T14:00:00.000Z",
-          "wordCount": 7115,
-          "title": "Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6db8029d-7039-4beb-b787-f3a0df852f12/smashing-podcast-episode-38.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -959,6 +945,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60dc72b527f80207bcdbbd8f",
+          "author": null,
+          "description": "In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What",
+          "link": "https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/",
+          "publishedOn": "2021-07-01T18:19:21.000Z",
+          "wordCount": 3084,
+          "title": "What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site"
+        },
+        {
+          "id": "60c0897ad3126007592d5701",
+          "author": null,
+          "description": "Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways",
+          "link": "https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/",
+          "publishedOn": "2021-07-01T18:02:56.000Z",
+          "wordCount": 1769,
+          "title": "HTML List – How to Use Bullet Points, Ordered, and Unordered Lists"
+        },
+        {
+          "id": "60d5e7ae6e1a1407b6b0bc5a",
+          "author": null,
+          "description": "The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for",
+          "link": "https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/",
+          "publishedOn": "2021-07-01T16:51:30.000Z",
+          "wordCount": 79275,
+          "title": "Backend Web Development with Python - Full Course"
+        },
+        {
+          "id": "60dc78e927f80207bcdbbddc",
+          "author": null,
+          "description": "Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled",
+          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey/",
+          "publishedOn": "2021-07-01T04:36:31.000Z",
+          "wordCount": 942,
+          "title": "The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It"
+        },
         {
           "id": "6063b8d69618b008528a9d79",
           "author": null,
@@ -1741,51 +1763,6 @@
           "publishedOn": "2021-06-02T14:45:18.000Z",
           "wordCount": 3302,
           "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
-        },
-        {
-          "id": "60b5025111ffb70827ef9ebe",
-          "author": null,
-          "description": "Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.",
-          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
-          "publishedOn": "2021-06-01T23:47:33.000Z",
-          "wordCount": 1861,
-          "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
-        },
-        {
-          "id": "60b1eed311ffb70827ef9504",
-          "author": null,
-          "description": "A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the",
-          "link": "https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/",
-          "publishedOn": "2021-06-01T20:47:43.000Z",
-          "wordCount": 1416,
-          "title": "Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe"
-        },
-        {
-          "id": "60b668c0acb62507dd1d710b",
-          "author": null,
-          "description": "Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed",
-          "link": "https://www.freecodecamp.org/news/learn-next-js/",
-          "publishedOn": "2021-06-01T17:43:56.000Z",
-          "wordCount": 407,
-          "title": "Learn Next.js and Make React Development Simpler"
-        },
-        {
-          "id": "60acf28e11ffb70827ef6dd9",
-          "author": null,
-          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how",
-          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/",
-          "publishedOn": "2021-06-01T16:35:00.000Z",
-          "wordCount": 2823,
-          "title": "My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source"
-        },
-        {
-          "id": "60aff2d711ffb70827ef8829",
-          "author": null,
-          "description": "This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/",
-          "publishedOn": "2021-06-01T16:34:00.000Z",
-          "wordCount": 2137,
-          "title": "How to Get a Cybersecurity Job in 2021"
         }
       ]
     },
@@ -1794,6 +1771,78 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135909",
+          "author": "g.O.R.i",
+          "description": "Spotifyは現地時間7月1日、AppleシリコンMac（M1）をサポートしたデスクトップアプリのベータ版を公開した。M1 Macとの互換性や最適化の改良が行われているという。 M1 Macに対応したベータ版アプリは、The Spotify Communityの投稿にある「You can down…\nThe post Spotify Beta、M1 Macをサポート first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apps/mac-app-news/135909",
+          "publishedOn": "2021-07-01T23:39:20.000Z",
+          "wordCount": 185,
+          "title": "Spotify Beta、M1 Macをサポート"
+        },
+        {
+          "id": "https://gori.me/?p=135907",
+          "author": "g.O.R.i",
+          "description": "Apple Beta Software Programより Appleは7月2日、「macOS Monterey」のPublic Beta版を、パブリックベータプログラム登録者向けに配信開始した。 ▶ macOS Montereyの新機能・最新情報 Public Betaは、パブリックベータプログラ…\nThe post macOS Montereyのパブリックベータ版が公開　間違ってもメインマシーンに入れないように！ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macosx/macosmonterey/135907",
+          "publishedOn": "2021-07-01T22:02:36.000Z",
+          "wordCount": 199,
+          "title": "macOS Montereyのパブリックベータ版が公開　間違ってもメインマシーンに入れないように！"
+        },
+        {
+          "id": "https://gori.me/?p=135903",
+          "author": "g.O.R.i",
+          "description": "iPod Classicを完全再現したウェブアプリに続き、Mac OS XのiTunesウィジェットを再現したmacOSアプリが登場した。2005年当時は”最先端”だったダッシュボード・ウィジェットの1つを、2021年に楽しめる。 残念ながらmacOS Big Surから導入されたウィジェットの1つ…\nThe post Mac OS XのiTunesウィジェットを再現したmacOSアプリが登場 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/itunes/135903",
+          "publishedOn": "2021-07-01T21:45:20.000Z",
+          "wordCount": 217,
+          "title": "Mac OS XのiTunesウィジェットを再現したmacOSアプリが登場"
+        },
+        {
+          "id": "https://gori.me/?p=135906",
+          "author": "g.O.R.i",
+          "description": "Amazonは7月1日、子どもたちが好きなものを選んで楽しむことを大切にしたキッズウェアを提案するBEAMS miniとの共同ブランドとなる「LOOK by BEAMS mini」の立ち上げを発表。90~130㎝のキッズ（ボーイズ・ガールズ）を中心に、70~80cmのベビー服も展開する。 Amazo…\nThe post AmazonとBEAMS mini、キッズ・ベビーアパレルブランド「LOOK by BEAMS mini」を始動 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/papa/childcare/135906",
+          "publishedOn": "2021-07-01T21:30:38.000Z",
+          "wordCount": 175,
+          "title": "AmazonとBEAMS mini、キッズ・ベビーアパレルブランド「LOOK by BEAMS mini」を始動"
+        },
+        {
+          "id": "https://gori.me/?p=135900",
+          "author": "g.O.R.i",
+          "description": "Microsoftより Parallels Desktopは、Windows 11のMac対応に向けて動いていると明らかにした。 iMoreによると、最新OSの全機能を確認するためWindows 11 Insider Previewの公式ビルドを待っている状態だという。現地時間6月28日に公開された…\nThe post Parallels Desktop、Windows 11のMac対応は開発中と明言 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/microsoft/windows/135900",
+          "publishedOn": "2021-07-01T13:25:10.000Z",
+          "wordCount": 214,
+          "title": "Parallels Desktop、Windows 11のMac対応は開発中と明言"
+        },
+        {
+          "id": "https://gori.me/?p=135898",
+          "author": "g.O.R.i",
+          "description": "@RendersbyIanより Appleは、新型MacBook Proを2021年第3四半期（7〜9月）に発表する可能性がある。Digitimesによると、出荷のピークは10月頃を迎えるという。 Appleに詳しいBloombergの名物記者Mark Gurman氏は年内に新型MacBook Pr…\nThe post 14インチ/16インチMacBook Pro、9月に発表かーーDigitimes報道 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/135898",
+          "publishedOn": "2021-07-01T12:42:05.000Z",
+          "wordCount": 226,
+          "title": "14インチ/16インチMacBook Pro、9月に発表かーーDigitimes報道"
+        },
+        {
+          "id": "https://gori.me/?p=135896",
+          "author": "g.O.R.i",
+          "description": "Appleが、OS X LionおよびOS X Mountain Lionを無料で提供開始した。従来は19.99ドル（2,440円）で提供されていた。無料化された理由は明らかになっていない。 OS X Lionは2011年、OS X Mountain Lionは2012年にリリース。有料OSとして最…\nThe post 有料だったMac OS X LionとMountain Lion、突然の無料化 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macosx/macosx-news/135896",
+          "publishedOn": "2021-07-01T00:57:34.000Z",
+          "wordCount": 263,
+          "title": "有料だったMac OS X LionとMountain Lion、突然の無料化"
+        },
+        {
+          "id": "https://gori.me/?p=135894",
+          "author": "g.O.R.i",
+          "description": "Appleは現地時間6月30日、「MacBook (Retina, 12-inch, Early 2015)」のサポートを終了した。MacRumorsによると、Appleは同モデルを「ビンテージ製品とオブソリート製品」として正式に追加したという。 サポート終了後は直営店でもサービス受付が不可に 12…\nThe post 初代の12インチMacBook Retina、サポート終了 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbook/135894",
+          "publishedOn": "2021-07-01T00:41:09.000Z",
+          "wordCount": 165,
+          "title": "初代の12インチMacBook Retina、サポート終了"
+        },
         {
           "id": "https://gori.me/?p=135892",
           "author": "g.O.R.i",
@@ -3485,78 +3534,6 @@
           "publishedOn": "2021-06-02T12:39:11.000Z",
           "wordCount": 172,
           "title": "【97％オフ】読み放題「Kindle Unlimited」、3カ月99円キャンペーン開催中"
-        },
-        {
-          "id": "https://gori.me/?p=135246",
-          "author": "g.O.R.i",
-          "description": "Amazonは、年に一度のプライム会員大感謝祭「プライムデー」を開催する。開催期間は、6月21日（月）0時から22日23時59分。Apple、BEAMS, iRobot、ル・クルーゼ、LG、シャープ、 snidel、ティファールなど多数のトップブランドやカスタマーレビュー星4つ以上の人気商品を特別価…\nThe post Amazon、大感謝祭「プライムデー」を6月21日より開催へ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/amazon/amazon-sale/135246",
-          "publishedOn": "2021-06-02T07:31:10.000Z",
-          "wordCount": 163,
-          "title": "Amazon、大感謝祭「プライムデー」を6月21日より開催へ"
-        },
-        {
-          "id": "https://gori.me/?p=135243",
-          "author": "g.O.R.i",
-          "description": "Amazon Music Unlimitedよりキャプチャ Amazonが6月21日より開催するプライムデーに先立ち、音楽ストリーミングサービス「Amazon Music Unlimited」を全く利用したことがないプライム会員を対象に、4ヶ月間無料で利用できるキャンペーンをスタートした。通常は3,…\nThe post Amazon Music Unlimited、4ヶ月無料キャンペーンを開始 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/amazon/amazon-sale/135243",
-          "publishedOn": "2021-06-02T06:55:41.000Z",
-          "wordCount": 172,
-          "title": "Amazon Music Unlimited、4ヶ月無料キャンペーンを開始"
-        },
-        {
-          "id": "https://gori.me/?p=135241",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 Apple Watch …\nThe post SE/44mmが3万円台！Apple Watch整備済商品の最新情報（2021年6月2日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135241",
-          "publishedOn": "2021-06-02T04:16:12.000Z",
-          "wordCount": 195,
-          "title": "SE/44mmが3万円台！Apple Watch整備済商品の最新情報（2021年6月2日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135239",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は12.9インチiPad Pro（…\nThe post 12.9インチiPad Proがお買い得！iPad整備済商品の最新情報（2021年6月2日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135239",
-          "publishedOn": "2021-06-02T04:10:09.000Z",
-          "wordCount": 193,
-          "title": "12.9インチiPad Proがお買い得！iPad整備済商品の最新情報（2021年6月2日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135237",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 Mac mini、M1 Mac…\nThe post M1 Macが多数復活！Mac整備済商品の最新情報（2021年6月2日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135237",
-          "publishedOn": "2021-06-02T04:05:48.000Z",
-          "wordCount": 1802,
-          "title": "M1 Macが多数復活！Mac整備済商品の最新情報（2021年6月2日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135209",
-          "author": "g.O.R.i",
-          "description": "iPadをほとんど使いこなしていない僕でも、iPad mini 5は毎日手にとっている。特に読書熱が増してからは自宅外にも持ち運び、隙間時間を見ては読み進める生活を続けている。本を読んでいないときはYouTubeを見ていることが多い。 カレンダー、天気、パスワード管理アプリ、メール、タスク管理ツール…\nThe post iPad mini 5が好きな理由、新モデルに期待すること first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ipad/ipadmini/135209",
-          "publishedOn": "2021-06-01T21:45:30.000Z",
-          "wordCount": 259,
-          "title": "iPad mini 5が好きな理由、新モデルに期待すること"
-        },
-        {
-          "id": "https://gori.me/?p=135222",
-          "author": "g.O.R.i",
-          "description": "2021年の新型iPhone（iPhone 13）に内蔵されるバッテリーは、iPhone 12シリーズと比べて容量が増加している可能性がある。Weiboに投稿された中国認証機関の申請情報と見られるスクリーンショットによると、iPhone 12シリーズと比べてバッテリー容量が8〜18％増加するという。…\nThe post iPhone 13、バッテリー容量は最大18％増加か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone/iphone-news/135222",
-          "publishedOn": "2021-06-01T15:09:02.000Z",
-          "wordCount": 281,
-          "title": "iPhone 13、バッテリー容量は最大18％増加か"
-        },
-        {
-          "id": "https://gori.me/?p=135220",
-          "author": "g.O.R.i",
-          "description": "ジャストシステムは6月1日、日本語入力システム「ATOK for Mac」を最新バージョン（Tech Ver.32.1）にアップデート。AppleシリコンMacを正式にサポートした。これまではRosetta 2での動作となっていた。 「ATOK Passport／ATOK定額制サービス」で「ATOK…\nThe post ATOK for Mac、AppleシリコンMacを正式サポート first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apps/mac-app-news/135220",
-          "publishedOn": "2021-06-01T12:43:38.000Z",
-          "wordCount": 170,
-          "title": "ATOK for Mac、AppleシリコンMacを正式サポート"
         }
       ]
     }
