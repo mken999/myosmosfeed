@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T00:17:00.134Z</updated>
+    <updated>2021-07-03T00:18:19.540Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zero-Width Space]]></title>
+        <id>https://css-tricks.com/?p=343435</id>
+        <link href="https://css-tricks.com/zero-width-space/"/>
+        <updated>2021-07-02T20:39:04.000Z</updated>
+        <summary type="html"><![CDATA[The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…
+The post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Meetings]]></title>
+        <id>https://css-tricks.com/?p=342995</id>
+        <link href="https://css-tricks.com/good-meetings/"/>
+        <updated>2021-07-02T14:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Like it or not, meetings are essential to a good working environment and communication. Therefore, it’s crucial that we work on making them as productive as possible. Today we’ll explore myriad ways to keep meetings coordinated, well documented, and talk …
+The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sarah Drasner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年の新型iPad Proは3nmチップ、新型iPhoneは4nmチップ搭載か]]></title>
+        <id>https://gori.me/?p=135917</id>
+        <link href="https://gori.me/iphone/iphone-news/135917"/>
+        <updated>2021-07-02T14:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、2022年の新型iPad Proに3nmプロセスを採用した最先端のチップを搭載する可能性がある。Nikkei Asiaによると、2022年の新型iPhone（iPhone 14）はスケジュールの都合で最先端チップの搭載は見送られ、4nmプロセスを採用したチップになるという。 パフォーマ…
+The post 2022年の新型iPad Proは3nmチップ、新型iPhoneは4nmチップ搭載か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleのショッピングローン、無期限で24回払いまで分割金利0％に]]></title>
+        <id>https://gori.me/?p=135915</id>
+        <link href="https://gori.me/apple/apple-news/135915"/>
+        <updated>2021-07-02T13:19:22.000Z</updated>
+        <summary type="html"><![CDATA[「Apple ショッピングローンについて」よりキャプチャ Apple StoreおよびApple公式サイトで提供しているオリコのショッピングローンが、無期限で最大24回払いまで金利0％で買い物が可能になった。 従来は期間限定キャンペーンとして18〜24回の分割払いが金利0％で提供されていたが、App…
+The post Appleのショッピングローン、無期限で24回払いまで分割金利0％に first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email Testing Flow As It Should Be]]></title>
+        <id>https://smashingmagazine.com/2021/07/email-testing-flow/</id>
+        <link href="https://smashingmagazine.com/2021/07/email-testing-flow/"/>
+        <updated>2021-07-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
+        <id>60de3cf127f80207bcdbc9af</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/"/>
+        <updated>2021-07-02T04:55:18.000Z</updated>
+        <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11、”死のブルースクリーン”がブラックに]]></title>
+        <id>https://gori.me/?p=135912</id>
+        <link href="https://gori.me/microsoft/windows/135912"/>
+        <updated>2021-07-02T00:17:18.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11では、”死のブルースクリーン”がブラックに変更される。 Windowsでは、ハードウェアまたはソフトウェアで重大な問題が発生するとSTOPエラーが発生しシステム全体が凍結。「PCに問題が発生し、再起動する必要があります」と書かれた青い画面が表示される。海外では「Blue Scre…
+The post Windows 11、”死のブルースクリーン”がブラックに first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes.]]></title>
+        <id>https://css-tricks.com/?p=342994</id>
+        <link href="https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/"/>
+        <updated>2021-07-02T00:02:51.000Z</updated>
+        <summary type="html"><![CDATA[This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.
+The setup is that you can use WooCommerce to sell things on a WordPress …
+The post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spotify Beta、M1 Macをサポート]]></title>
         <id>https://gori.me/?p=135909</id>
@@ -4244,240 +4337,6 @@ The post 新型MacBook Pro、WWDCで発表が濃厚かーーWedbushアナリス�
  【もっと読む】]]></summary>
         <author>
             <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Shared State In Vue 3]]></title>
-        <id>https://smashingmagazine.com/2021/06/managing-shared-state-vue3/</id>
-        <link href="https://smashingmagazine.com/2021/06/managing-shared-state-vue3/"/>
-        <updated>2021-06-03T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15インチMacBook Air、2008年に発表が検討されていた]]></title>
-        <id>https://gori.me/?p=135264</id>
-        <link href="https://gori.me/macbookair/135264"/>
-        <updated>2021-06-03T01:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、15インチMacBook Airを2008年前半に発表する計画があった。当時AppleのCEOだったSteve Jobs氏が2007年、役員に送ったメモから判明した。 封筒から取り出すという、衝撃的な初披露で世間を驚かせた初代MacBook Airは2008年1月に登場。13.3インチ…
-The post 15インチMacBook Air、2008年に発表が検討されていた first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spigen、カラビナ風フック付きAirTagホルダーを国内で販売開始]]></title>
-        <id>https://gori.me/?p=135262</id>
-        <link href="https://gori.me/iphone-accessories/iphone-prepherial/135262"/>
-        <updated>2021-06-03T00:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Spigenが、カラビナ風フック付きのAirTagホルダー「Spigen AirTag Case Rugged Armor」を国内で販売開始した。 Spigen AirTag Case Rugged Armorは、AirTagを収納するホルダー部分に着脱可能なカラビナ風フックを用意。付属のキーリング…
-The post Spigen、カラビナ風フック付きAirTagホルダーを国内で販売開始 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 2、開発者向けに配信開始]]></title>
-        <id>https://gori.me/?p=135258</id>
-        <link href="https://gori.me/ios/ios14/135258"/>
-        <updated>2021-06-02T23:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Appleは6月3日、「iOS 14.7 Beta 2」「iPadOS 14.7 Beta 2」「macOS Big Sur 11.5 Beta」「watchOS 7.6 Beta 2」「tvOS 14.7 Beta 2」を開発者向けに配信開始した。最新バージョンの新機能や変更点は、現時点では明らか…
-The post iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 2、開発者向けに配信開始 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
-        <id>60afce3011ffb70827ef869c</id>
-        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
-        <updated>2021-06-02T23:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
-        <id>60b3a25211ffb70827ef9b39</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
-        <updated>2021-06-02T22:54:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhoneのテザリング、ケーブルで繋いだほうが速いって知ってた？]]></title>
-        <id>https://gori.me/?p=135235</id>
-        <link href="https://gori.me/iphone/iphone-tips/135235"/>
-        <updated>2021-06-02T21:45:27.000Z</updated>
-        <summary type="html"><![CDATA[iPhoneのインターネット共有（テザリング）機能は便利だ。特にiPhoneをポケットやバッグに入れたままテザリングできるInstant Hotspotは便利。Macの場合、Wi-FI設定の「インターネット共有」から自分のiPhoneをクリックするだけでテザリングが開始される。 Instant Ho…
-The post iPhoneのテザリング、ケーブルで繋いだほうが速いって知ってた？ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design Your Own Learning Plan for Any Tech Stack]]></title>
-        <id>60b3ccee11ffb70827ef9bc0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/"/>
-        <updated>2021-06-02T21:18:15.000Z</updated>
-        <summary type="html"><![CDATA[One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging iOS Safari]]></title>
-        <id>https://css-tricks.com/?p=341724</id>
-        <link href="https://css-tricks.com/debugging-ios-safari/"/>
-        <updated>2021-06-02T21:15:28.000Z</updated>
-        <summary type="html"><![CDATA[How do I debug Safari on iOS?
-These are my general steps, starting with not even using iOS Safari.
-1. Is this just a small-screen problem?
-Lemme just use the device mode in Chrome quick.
-Note that this does a …
-The post Debugging iOS Safari appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel 6シリーズのサードパーティケース画像が流出　レンダリング画像と一致]]></title>
-        <id>https://gori.me/?p=135252</id>
-        <link href="https://gori.me/google/pixel-news/135252"/>
-        <updated>2021-06-02T21:00:17.000Z</updated>
-        <summary type="html"><![CDATA[/LEAKSより Googleの2021年フラッグシップスマートフォン「Pixel 6」用とされる、サードパーティ製のケース画像が公開された。「Pixel 6」シリーズは、カメラレンズおよびLEDフラッシュが端末上部に横並びに配置されており、ケース画像は突起に合わせて作られている。 #Google …
-The post Pixel 6シリーズのサードパーティケース画像が流出　レンダリング画像と一致 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More]]></title>
-        <id>60a699b0906c5207e3a7f5ab</id>
-        <link href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"/>
-        <updated>2021-06-02T20:44:22.000Z</updated>
-        <summary type="html"><![CDATA[Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fetch API – How to Make a GET Request and POST Request in JavaScript]]></title>
-        <id>60b0f11411ffb70827ef8dbc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/"/>
-        <updated>2021-06-02T19:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project]]></title>
-        <id>60b4ff4711ffb70827ef9eb2</id>
-        <link href="https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/"/>
-        <updated>2021-06-02T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、WWDCで「homeOS」を発表か　採用情報に記載]]></title>
-        <id>https://gori.me/?p=135254</id>
-        <link href="https://gori.me/apple/apple-news/135254"/>
-        <updated>2021-06-02T15:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Appleの採用情報に「homeOS」の記載が発見され、話題になっている。Apple MusicにおけるシニアiOSエンジニアの募集要項の中で、AppleはhomeOSについて言及。 iOS、watchOS、tvOSのOSと並んでおり、homeOSを「モバイルプラットフォーム」と説明している。 Ap…
-The post Apple、WWDCで「homeOS」を発表か　採用情報に記載 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#WWDC21 のイベント用ハッシュタグが登場]]></title>
-        <id>https://gori.me/?p=135256</id>
-        <link href="https://gori.me/apple/wwdc/135256"/>
-        <updated>2021-06-02T15:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Appleは現地時間6月1日、WWDC 2021のイベント用ハッシュタグを提供開始した。「#WWDC21」と入力すると吹き出しに”いいね”アイコンが表示された絵文字が追加される。 WWDC 2021では次期OSのメジャーアップデートが発表される見通し。絵文字の意味は不明だが、iOS/iPadOSの次…
-The post #WWDC21 のイベント用ハッシュタグが登場 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
-        <id>60b51f6e11ffb70827ef9f7c</id>
-        <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
-        <updated>2021-06-02T14:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
-        <id>https://css-tricks.com/?p=341442</id>
-        <link href="https://css-tricks.com/a-crash-course-in-wordpress-block-filters/"/>
-        <updated>2021-06-02T13:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …
-The post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Dmitry Mayorov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Custom Properties a “Menu of What Will Change”?]]></title>
-        <id>https://css-tricks.com/?p=341572</id>
-        <link href="https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/"/>
-        <updated>2021-06-02T13:35:40.000Z</updated>
-        <summary type="html"><![CDATA[PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …
-The post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【97％オフ】読み放題「Kindle Unlimited」、3カ月99円キャンペーン開催中]]></title>
-        <id>https://gori.me/?p=135250</id>
-        <link href="https://gori.me/sale/kindle-sale/135250"/>
-        <updated>2021-06-02T12:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Kindleの読み放題サービス「Kindle Unlimited」が、プライム会員を対象に3カ月間99円で利用できるキャンペーンを開催している。キャンペーン開催期間中に登録すれば、本来は980円 × 3カ月で2,940円のところ、99円で利用できる。 キャンペーン開催期間は2021年6月22日（火）…
-The post 【97％オフ】読み放題「Kindle Unlimited」、3カ月99円キャンペーン開催中 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
-        <id>https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</id>
-        <link href="https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/"/>
-        <updated>2021-06-02T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
         </author>
     </entry>
 </feed>
