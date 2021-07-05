@@ -22,6 +22,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343496",
+          "author": "Chris Coyier",
+          "description": "It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. \nI’m writing this just days after my current home state of Oregon has …\nThe post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-fourteenth-fourth/",
+          "publishedOn": "2021-07-04T13:29:01.000Z",
+          "wordCount": 1842,
+          "title": "The Fourteenth Fourth"
+        },
+        {
           "id": "https://css-tricks.com/?p=343435",
           "author": "Chris Coyier",
           "description": "The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…\nThe post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -488,24 +497,6 @@
           "publishedOn": "2021-06-07T14:13:50.000Z",
           "wordCount": 1453,
           "title": "VS Code Extensions for HTML"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341793",
-          "author": "Chris Coyier",
-          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
-          "publishedOn": "2021-06-04T20:36:46.000Z",
-          "wordCount": 1039,
-          "title": "Principles for user-centered front-end development"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341968",
-          "author": "Chris Coyier",
-          "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://bkardell.com/blog/canihas.html",
-          "publishedOn": "2021-06-04T14:37:59.000Z",
-          "wordCount": 1327,
-          "title": "Can I :has()"
         }
       ]
     },
@@ -1564,42 +1555,6 @@
           "publishedOn": "2021-06-07T15:01:26.000Z",
           "wordCount": 1547,
           "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
-        },
-        {
-          "id": "60b3480c11ffb70827ef9a88",
-          "author": null,
-          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
-          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
-          "publishedOn": "2021-06-04T21:34:33.000Z",
-          "wordCount": 2174,
-          "title": "How to Search and Filter Components in React"
-        },
-        {
-          "id": "60ba33d7acb62507dd1d9050",
-          "author": null,
-          "description": "Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for",
-          "link": "https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/",
-          "publishedOn": "2021-06-04T20:58:07.000Z",
-          "wordCount": 1544,
-          "title": "Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know"
-        },
-        {
-          "id": "60b8f5c7acb62507dd1d8500",
-          "author": null,
-          "description": "I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.",
-          "link": "https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/",
-          "publishedOn": "2021-06-04T20:41:29.000Z",
-          "wordCount": 2163,
-          "title": "How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server"
-        },
-        {
-          "id": "60b2a4c611ffb70827ef9842",
-          "author": null,
-          "description": "TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the",
-          "link": "https://www.freecodecamp.org/news/learn-typescript-basics/",
-          "publishedOn": "2021-06-04T18:01:00.000Z",
-          "wordCount": 2225,
-          "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
         }
       ]
     },
@@ -1608,6 +1563,24 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135936",
+          "author": "g.O.R.i",
+          "description": "EverythingAppleProより 2021年の新型iPhone（iPhone 13）は、内蔵されているMagSafe用の充電コイルが大型化する可能性がある。YouTubeチャンネル「EverythingApplePro」が7月4日、最新動画を公開。XDA Developersのライターを務め…\nThe post iPhone 13、MagSafe充電コイルが大型化か　磁力の強化、出力アップの可能性も first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/135936",
+          "publishedOn": "2021-07-04T21:30:20.000Z",
+          "wordCount": 252,
+          "title": "iPhone 13、MagSafe充電コイルが大型化か　磁力の強化、出力アップの可能性も"
+        },
+        {
+          "id": "https://gori.me/?p=135934",
+          "author": "g.O.R.i",
+          "description": "Ankerは7月2日、「Anker USB-C PowerExpand 2-in-1 SD 4.0 カードリーダー」を発売した。 UHS-IIに対応し、最大312MB/sの高速データ転送が可能。標準サイズのSDスロットとmicroSDスロットを搭載しているため、microSDXC、microSDHC…\nThe post Anker、UHS-II対応のUSB-C接続SD 4.0カードリーダーを発売 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac-accessories/mac-usbc/135934",
+          "publishedOn": "2021-07-04T00:45:06.000Z",
+          "wordCount": 223,
+          "title": "Anker、UHS-II対応のUSB-C接続SD 4.0カードリーダーを発売"
+        },
         {
           "id": "https://gori.me/?p=135930",
           "author": "g.O.R.i",
@@ -3263,33 +3236,6 @@
           "publishedOn": "2021-06-05T21:45:30.000Z",
           "wordCount": 238,
           "title": "M2 MacBook Air、軽さと性能を兼ね揃えた最強マシーンになる予感"
-        },
-        {
-          "id": "https://gori.me/?p=135291",
-          "author": "g.O.R.i",
-          "description": "WWDC21よりキャプチャ Appleは6月7日より開催するWWDC 2021で、Safari、ヘルスケア、マップ、iMessageに関する大規模なアップデート内容を発表する可能性がある。The Wall Street Journalに務めAppleとの関係性が近いジャーナリストJoanna Ste…\nThe post Apple、Safari・ヘルスケア・マップ・iMessageに大規模なアップデートが計画中か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/wwdc/135291",
-          "publishedOn": "2021-06-05T00:14:23.000Z",
-          "wordCount": 203,
-          "title": "Apple、Safari・ヘルスケア・マップ・iMessageに大規模なアップデートが計画中か"
-        },
-        {
-          "id": "https://gori.me/?p=135289",
-          "author": "g.O.R.i",
-          "description": "Appleは6月5日、開発者向けのサポートページを更新。2021年6月3日時点でApp StoreにアクセスしたiOSデバイスをもとに集計した、iOSバージョン別のシェアを公開した。 前回測定時よりiOS 14は5％増、iPadOS 14は9％増 過去4年間に発売されたデバイスのうち、iOS 14が…\nThe post iOS/iPadOSバージョン別シェア、iOS 14は90％、iPadOS 14は91％ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios14/135289",
-          "publishedOn": "2021-06-04T23:31:44.000Z",
-          "wordCount": 203,
-          "title": "iOS/iPadOSバージョン別シェア、iOS 14は90％、iPadOS 14は91％"
-        },
-        {
-          "id": "https://gori.me/?p=135286",
-          "author": "g.O.R.i",
-          "description": "新型MacBook Pro（2021）が、早ければWWDC 2021で正式に発表される可能性がある。14インチと16インチが用意され、フラットなデザインの採用、SDカードスロットとHDMIポート、充電用MagSafeの搭載、Touch Barの廃止などが特徴。10コアのCPU、16コア/32コアのG…\nThe post 14インチMacBook Pro、「欲しい」と「要らない」の狭間 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/macbookpro/135286",
-          "publishedOn": "2021-06-04T21:45:42.000Z",
-          "wordCount": 276,
-          "title": "14インチMacBook Pro、「欲しい」と「要らない」の狭間"
         }
       ]
     }

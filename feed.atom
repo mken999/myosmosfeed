@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T00:17:08.034Z</updated>
+    <updated>2021-07-05T00:16:53.973Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13、MagSafe充電コイルが大型化か　磁力の強化、出力アップの可能性も]]></title>
+        <id>https://gori.me/?p=135936</id>
+        <link href="https://gori.me/iphone/iphone-news/135936"/>
+        <updated>2021-07-04T21:30:20.000Z</updated>
+        <summary type="html"><![CDATA[EverythingAppleProより 2021年の新型iPhone（iPhone 13）は、内蔵されているMagSafe用の充電コイルが大型化する可能性がある。YouTubeチャンネル「EverythingApplePro」が7月4日、最新動画を公開。XDA Developersのライターを務め…
+The post iPhone 13、MagSafe充電コイルが大型化か　磁力の強化、出力アップの可能性も first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fourteenth Fourth]]></title>
+        <id>https://css-tricks.com/?p=343496</id>
+        <link href="https://css-tricks.com/the-fourteenth-fourth/"/>
+        <updated>2021-07-04T13:29:01.000Z</updated>
+        <summary type="html"><![CDATA[It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. 
+I’m writing this just days after my current home state of Oregon has …
+The post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anker、UHS-II対応のUSB-C接続SD 4.0カードリーダーを発売]]></title>
+        <id>https://gori.me/?p=135934</id>
+        <link href="https://gori.me/mac-accessories/mac-usbc/135934"/>
+        <updated>2021-07-04T00:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Ankerは7月2日、「Anker USB-C PowerExpand 2-in-1 SD 4.0 カードリーダー」を発売した。 UHS-IIに対応し、最大312MB/sの高速データ転送が可能。標準サイズのSDスロットとmicroSDスロットを搭載しているため、microSDXC、microSDHC…
+The post Anker、UHS-II対応のUSB-C接続SD 4.0カードリーダーを発売 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【レビュー】amBand Apple Watchバンド：白いG-SHOCK化するケース一体型バンド]]></title>
         <id>https://gori.me/?p=135930</id>
@@ -4074,112 +4112,6 @@ The post M2 MacBook Air、軽さと性能を兼ね揃えた最強マシーンに
  【もっと読む】]]></summary>
         <author>
             <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、Safari・ヘルスケア・マップ・iMessageに大規模なアップデートが計画中か]]></title>
-        <id>https://gori.me/?p=135291</id>
-        <link href="https://gori.me/apple/wwdc/135291"/>
-        <updated>2021-06-05T00:14:23.000Z</updated>
-        <summary type="html"><![CDATA[WWDC21よりキャプチャ Appleは6月7日より開催するWWDC 2021で、Safari、ヘルスケア、マップ、iMessageに関する大規模なアップデート内容を発表する可能性がある。The Wall Street Journalに務めAppleとの関係性が近いジャーナリストJoanna Ste…
-The post Apple、Safari・ヘルスケア・マップ・iMessageに大規模なアップデートが計画中か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS/iPadOSバージョン別シェア、iOS 14は90％、iPadOS 14は91％]]></title>
-        <id>https://gori.me/?p=135289</id>
-        <link href="https://gori.me/ios/ios14/135289"/>
-        <updated>2021-06-04T23:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Appleは6月5日、開発者向けのサポートページを更新。2021年6月3日時点でApp StoreにアクセスしたiOSデバイスをもとに集計した、iOSバージョン別のシェアを公開した。 前回測定時よりiOS 14は5％増、iPadOS 14は9％増 過去4年間に発売されたデバイスのうち、iOS 14が…
-The post iOS/iPadOSバージョン別シェア、iOS 14は90％、iPadOS 14は91％ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14インチMacBook Pro、「欲しい」と「要らない」の狭間]]></title>
-        <id>https://gori.me/?p=135286</id>
-        <link href="https://gori.me/macbookpro/135286"/>
-        <updated>2021-06-04T21:45:42.000Z</updated>
-        <summary type="html"><![CDATA[新型MacBook Pro（2021）が、早ければWWDC 2021で正式に発表される可能性がある。14インチと16インチが用意され、フラットなデザインの採用、SDカードスロットとHDMIポート、充電用MagSafeの搭載、Touch Barの廃止などが特徴。10コアのCPU、16コア/32コアのG…
-The post 14インチMacBook Pro、「欲しい」と「要らない」の狭間 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
-        <id>60b3480c11ffb70827ef9a88</id>
-        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
-        <updated>2021-06-04T21:34:33.000Z</updated>
-        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
-        <id>60ba33d7acb62507dd1d9050</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
-        <updated>2021-06-04T20:58:07.000Z</updated>
-        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
-        <id>60b8f5c7acb62507dd1d8500</id>
-        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
-        <updated>2021-06-04T20:41:29.000Z</updated>
-        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
-        <id>https://css-tricks.com/?p=341793</id>
-        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
-        <updated>2021-06-04T20:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Colin Oakley:
-• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
-• Agnostic — Build 
-…
-The post Principles for user-centered front-end development appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
-        <id>60b2a4c611ffb70827ef9842</id>
-        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
-        <updated>2021-06-04T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I :has()]]></title>
-        <id>https://css-tricks.com/?p=341968</id>
-        <link href="https://bkardell.com/blog/canihas.html"/>
-        <updated>2021-06-04T14:37:59.000Z</updated>
-        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
-The post Can I :has() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
