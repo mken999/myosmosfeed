@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T00:16:53.973Z</updated>
+    <updated>2021-07-06T00:18:27.018Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「このApple IDの利用可能デバイスの上限に達しました」と表示されたときの対処法]]></title>
+        <id>https://gori.me/?p=135945</id>
+        <link href="https://gori.me/mac/mac-tips/135945"/>
+        <updated>2021-07-05T21:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Macのミュージックアプリで音楽を再生しようとしたところ、「このApple IDの利用可能デバイスの上限に達しました」と表示され、プレリストの曲が延々と再生失敗を繰り返す状態になる問題に遭遇した。iTunes Matchのサブスクリプションに登録できていないような警告だが、実際は「デバイスの関連付け…
+The post 「このApple IDの利用可能デバイスの上限に達しました」と表示されたときの対処法 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shimoda Explorer v2がKickstarterに登場！E30を支援、選んだ理由]]></title>
+        <id>https://gori.me/?p=135956</id>
+        <link href="https://gori.me/bag/135956"/>
+        <updated>2021-07-05T21:30:42.000Z</updated>
+        <summary type="html"><![CDATA[バックパックブランドのShimodaが、最新バックパック「Explorer v2」のクラウドファンディングプロジェクトを「Kickstarter」で開始した。記事執筆時点で残り25日となっており、すでに目標金額は達成済み。製品の開発および生産は済んでおり、すでに出荷拠点に配送されているため、安心して…
+The post Shimoda Explorer v2がKickstarterに登場！E30を支援、選んだ理由 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Explained Simply: Containers, Pods and Images]]></title>
+        <id>https://css-tricks.com/?p=343166</id>
+        <link href="https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/"/>
+        <updated>2021-07-05T14:17:33.000Z</updated>
+        <summary type="html"><![CDATA[If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!
+As a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …
+The post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Lari Maza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trigonometry in CSS and JavaScript: Beyond Triangles]]></title>
+        <id>https://css-tricks.com/?p=343671</id>
+        <link href="https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/"/>
+        <updated>2021-07-05T14:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …
+The post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型iPhoneの正式名は「iPhone 13」で決定？”mini”の名称廃止か]]></title>
+        <id>https://gori.me/?p=135960</id>
+        <link href="https://gori.me/iphone/iphone-news/135960"/>
+        <updated>2021-07-05T12:17:56.000Z</updated>
+        <summary type="html"><![CDATA[2021年の新型iPhoneの名称は、「iPhone 13」シリーズになる可能性がある。サプライチェーンの情報筋によると、「iPhone 13」シリーズはiPhone 12シリーズと同じ4機種展開。5.4インチが1機種、6.1インチが2機種、6.7インチが1機種であることは変わりないが、5.4インチ…
+The post 新型iPhoneの正式名は「iPhone 13」で決定？”mini”の名称廃止か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
+        <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
+        <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
+        <updated>2021-07-05T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1 MacBook Airを安く買おう！Mac整備済商品の最新情報（2021年7月5日更新）]]></title>
+        <id>https://gori.me/?p=135949</id>
+        <link href="https://gori.me/sale/apple-refurbished/135949"/>
+        <updated>2021-07-05T04:57:22.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 MacBook Airの在庫が…
+The post M1 MacBook Airを安く買おう！Mac整備済商品の最新情報（2021年7月5日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Pencil（第2世代）やiPad（第6世代）がお買い得！iPad整備済商品の最新情報（2021年7月5日更新）]]></title>
+        <id>https://gori.me/?p=135947</id>
+        <link href="https://gori.me/sale/apple-refurbished/135947"/>
+        <updated>2021-07-05T04:52:50.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はApple Pencil（第2世…
+The post Apple Pencil（第2世代）やiPad（第6世代）がお買い得！iPad整備済商品の最新情報（2021年7月5日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 13、MagSafe充電コイルが大型化か　磁力の強化、出力アップの可能性も]]></title>
         <id>https://gori.me/?p=135936</id>
@@ -4082,32 +4180,6 @@ The post WWDC 2021、基調講演のライブ配信を見る方法（日本時�
         <updated>2021-06-06T12:36:21.000Z</updated>
         <summary type="html"><![CDATA[Appleは、WWDC 2021の基調講演を終えた直後に、空間オーディオに関するスペシャルイベントを開催する。Apple Musicのラジオ番組として予告されており、アートワークには「Tune in at 12 p.m. PT on June 7 to watch this special even…
 The post Apple Music空間オーディオの発表イベント、WWDC基調講演の直後に開催へ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、メンタルヘルス関連の新機能を発表か]]></title>
-        <id>https://gori.me/?p=135302</id>
-        <link href="https://gori.me/apple/wwdc/135302"/>
-        <updated>2021-06-06T02:01:59.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、新しい「Mind」アプリを準備している可能性がある。App Storeのマニフェストファイルから、アプリバンドル識別子「com.Apple.Mind」が発見された。 Looks like someone deployed the new profile for App Store to…
-The post Apple、メンタルヘルス関連の新機能を発表か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M2 MacBook Air、軽さと性能を兼ね揃えた最強マシーンになる予感]]></title>
-        <id>https://gori.me/?p=135292</id>
-        <link href="https://gori.me/macbookair/135292"/>
-        <updated>2021-06-05T21:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Appleが次に発表するMacBookシリーズは、ハイエンド機種と位置付けられるMacBook Proシリーズだ。内蔵される「M1X」チップは、M1を凌駕する性能が期待されている。 僕はメインマシーンとしてM1 MacBook Proを使っており、満足度は非常に高い。仕事柄、14インチMacBook…
-The post M2 MacBook Air、軽さと性能を兼ね揃えた最強マシーンになる予感 first appeared on ゴリミー.
 
  【もっと読む】]]></summary>
         <author>
