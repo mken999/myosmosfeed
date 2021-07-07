@@ -22,6 +22,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343438",
+          "author": "Chris Coyier",
+          "description": "I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:\nIt’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.\n<body onclick=\"this.classList.toggle(\"active\");\"\nCould …\nThe post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/body-toggle/",
+          "publishedOn": "2021-07-06T20:55:45.000Z",
+          "wordCount": 385,
+          "title": "Body Toggle"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343560",
+          "author": "Chris Coyier",
+          "description": "And maybe an optional follow-up if you’re up for it.\nAutomattic, the makers of Jetpack and many other WordPress-y things, have sponsored my site (me = Chris Coyier; site = CSS-Tricks) for quite a while. I use Jetpack myself, …\nThe post I’ve got one question about Jetpack for you. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/ive-got-one-question-about-jetpack-for-you/",
+          "publishedOn": "2021-07-06T20:00:30.000Z",
+          "wordCount": 391,
+          "title": "I’ve got one question about Jetpack for you."
+        },
+        {
+          "id": "https://css-tricks.com/?p=343149",
+          "author": "Martin Lexelius",
+          "description": "Normally, a project will have a set of pre-determined font sizes, usually as variables named in such a way that seeks some semblance of order and consistency. Any project of considerable size can use something like that. There are always …\nThe post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-dilemma-of-naming-font-size-variables/",
+          "publishedOn": "2021-07-06T14:41:22.000Z",
+          "wordCount": 3012,
+          "title": "The Dilemma of Naming Font Size Variables"
+        },
+        {
           "id": "https://css-tricks.com/?p=343166",
           "author": "Lari Maza",
           "description": "If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!\nAs a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …\nThe post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -524,6 +551,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
+          "author": "hello@smashingmagazine.com (Emmanuel Tissera)",
+          "description": "There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.",
+          "link": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
+          "publishedOn": "2021-07-06T10:30:00.000Z",
+          "wordCount": 4121,
+          "title": "How To Choose A Headless CMS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fa37a67-9079-4b4d-9489-fcd87c7c3807/how-to-choose-a-headless-cms.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
           "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
           "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
@@ -900,20 +941,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-          "author": "hello@smashingmagazine.com (Prince Chukwudire)",
-          "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
-          "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-          "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2206,
-          "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -922,6 +949,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e16e1b134ad707be00d6bc",
+          "author": null,
+          "description": "In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use",
+          "link": "https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/",
+          "publishedOn": "2021-07-06T21:08:39.000Z",
+          "wordCount": 2504,
+          "title": "How to Automatically Upload an Android App Bundle to the Play Store"
+        },
+        {
+          "id": "60b22e9611ffb70827ef9547",
+          "author": null,
+          "description": "In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good",
+          "link": "https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/",
+          "publishedOn": "2021-07-06T16:02:13.000Z",
+          "wordCount": 2286,
+          "title": "How to Authenticate Users and Implement CORS in Node.js Apps"
+        },
+        {
+          "id": "60df35f027f80207bcdbccea",
+          "author": null,
+          "description": "Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of",
+          "link": "https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/",
+          "publishedOn": "2021-07-06T15:12:00.000Z",
+          "wordCount": 1570,
+          "title": "5 JavaScript Tips to Improve Your React Code"
+        },
+        {
+          "id": "60aa196411ffb70827ef5f43",
+          "author": null,
+          "description": "In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and",
+          "link": "https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/",
+          "publishedOn": "2021-07-06T14:27:26.000Z",
+          "wordCount": 2989,
+          "title": "How to Schedule a Job in Node Using node-cron"
+        },
         {
           "id": "60de3cf127f80207bcdbc9af",
           "author": null,
@@ -1595,6 +1658,51 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=135979",
+          "author": "g.O.R.i",
+          "description": "Ankerは7月6日、「Anker PowerLine III Flow USB-C & USB-C ケーブル」を発売した。先行して登場していたLightning to USB-CケーブルのUSB-C版だ。 【関連】【レビュー】Anker PowerLine lll Flow USB-C …\nThe post Anker、シリコン素材採用の絡まないUSB-Cケーブルを発売 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac-accessories/mac-usbc/135979",
+          "publishedOn": "2021-07-06T14:34:43.000Z",
+          "wordCount": 214,
+          "title": "Anker、シリコン素材採用の絡まないUSB-Cケーブルを発売"
+        },
+        {
+          "id": "https://gori.me/?p=135975",
+          "author": "g.O.R.i",
+          "description": "2021年の新型iPhone（iPhone 13）は、カメラ性能の向上に伴うカメラユニットの大型化が特徴になると見られている。iPhone 12 Pro Maxを「iPhone 13 Pro Max」用とされるケースに入れた写真が、Weiboで投稿されている。iPhone 12 Pro Maxのカメ…\nThe post iPhone 13 Pro Maxの巨大化したカメラのサイズ感が分かる写真が公開 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/135975",
+          "publishedOn": "2021-07-06T08:01:58.000Z",
+          "wordCount": 326,
+          "title": "iPhone 13 Pro Maxの巨大化したカメラのサイズ感が分かる写真が公開"
+        },
+        {
+          "id": "https://gori.me/?p=135973",
+          "author": "g.O.R.i",
+          "description": "ワイモバイルは7月9日より、iPhone 11をワイモバイルのiPhone取扱店およびオンラインショップで販売する。 カラバリは、パープル、グリーン、イエロー、ブラック、ホワイトそして PRODUCT(RED)の6色を取り扱うが、ストレージ容量は64GBモデルのみ。機種代金は69,840円だがオンラ…\nThe post ワイモバイル、iPhone 11を7月9日より発売へ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone11/135973",
+          "publishedOn": "2021-07-06T03:35:16.000Z",
+          "wordCount": 234,
+          "title": "ワイモバイル、iPhone 11を7月9日より発売へ"
+        },
+        {
+          "id": "https://gori.me/?p=135972",
+          "author": "g.O.R.i",
+          "description": "Appleは、「M2」チップを搭載した新型MacBook Airを2022年前半に発表する可能性がある。M1 iMac、M1 iPad Proの仕様を正確に予測した実績を持つ、iOSデベロッパーのDylan氏によると、搭載されるのは「M1X」チップではないという。 M1X搭載のMacBook Pro…\nThe post M2チップ搭載のMacBook Air、M1 iMacと同じカラバリで2022年前半に発表か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookair/135972",
+          "publishedOn": "2021-07-06T03:07:53.000Z",
+          "wordCount": 226,
+          "title": "M2チップ搭載のMacBook Air、M1 iMacと同じカラバリで2022年前半に発表か"
+        },
+        {
+          "id": "https://gori.me/?p=135969",
+          "author": "g.O.R.i",
+          "description": "Googleより Googleは7月5日より、東京駅や渋谷駅などJR東日本の主要駅や商業施設における屋内ナビゲーションを実現するGoogleマップ（Android / iOS）の新機能「インドアライブビュー」を順次提供している。 屋内施設でもスムーズな屋内ナビゲーションが可能に インドアライブビュー…\nThe post Googleマップ、屋内ナビ機能「インドアライブビュー」を提供開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/google/google-news/135969",
+          "publishedOn": "2021-07-06T00:18:51.000Z",
+          "wordCount": 185,
+          "title": "Googleマップ、屋内ナビ機能「インドアライブビュー」を提供開始"
+        },
         {
           "id": "https://gori.me/?p=135945",
           "author": "g.O.R.i",
@@ -3241,60 +3349,6 @@
           "publishedOn": "2021-06-07T19:45:18.000Z",
           "wordCount": 200,
           "title": "macOS Montereyの（数少ない）注目の新機能をピックアップ"
-        },
-        {
-          "id": "https://gori.me/?p=135310",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 MacBook Airが97,…\nThe post 9万円台でM1 Macが買えるMac整備済商品の最新情報（2021年6月7日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135310",
-          "publishedOn": "2021-06-07T04:02:58.000Z",
-          "wordCount": 569,
-          "title": "9万円台でM1 Macが買えるMac整備済商品の最新情報（2021年6月7日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135308",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、Apple Wa…\nThe post SEが2.7万円から！Apple Watch整備済商品の最新情報（2021年6月7日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135308",
-          "publishedOn": "2021-06-07T03:59:58.000Z",
-          "wordCount": 252,
-          "title": "SEが2.7万円から！Apple Watch整備済商品の最新情報（2021年6月7日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135306",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、12.9インチiPad Pro…\nThe post iPad（第6世代）が3.4万円から！iPad整備済商品の最新情報（2021年6月7日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135306",
-          "publishedOn": "2021-06-07T03:56:32.000Z",
-          "wordCount": 285,
-          "title": "iPad（第6世代）が3.4万円から！iPad整備済商品の最新情報（2021年6月7日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135300",
-          "author": "g.O.R.i",
-          "description": "WWDC 2021の基調講演は、日本時間6月8日午前2時からスタートする。iOS、iPadOS、macOS、watchOS、tvOSの次期メジャーアップデートが正式に発表されるだろう。リリースは、いずれも今秋以降になると見られる。 【関連】WWDC 2021、基調講演のライブ配信を見る方法（日本時間…\nThe post WWDC 2021の発表予想まとめ：iOS/iPadOS 15、新型MacBook Proなど first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/wwdc/135300",
-          "publishedOn": "2021-06-06T21:55:51.000Z",
-          "wordCount": 229,
-          "title": "WWDC 2021の発表予想まとめ：iOS/iPadOS 15、新型MacBook Proなど"
-        },
-        {
-          "id": "https://gori.me/?p=135299",
-          "author": "g.O.R.i",
-          "description": "WWDC 2021は、スペシャルイベント基調講演とともにスタート。日本時間6月8日（火）午前2時から約2時間行われる。秋に正式リリースされる次期iOS、iPadOS、macOS、watchOS、tvOSなどのアップデート内容が披露される。ハードウェアは例年発表されないが、今年は新型MacBook P…\nThe post WWDC 2021、基調講演のライブ配信を見る方法（日本時間6月8日午前2時から） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/wwdc/135299",
-          "publishedOn": "2021-06-06T21:45:22.000Z",
-          "wordCount": 213,
-          "title": "WWDC 2021、基調講演のライブ配信を見る方法（日本時間6月8日午前2時から）"
-        },
-        {
-          "id": "https://gori.me/?p=135304",
-          "author": "g.O.R.i",
-          "description": "Appleは、WWDC 2021の基調講演を終えた直後に、空間オーディオに関するスペシャルイベントを開催する。Apple Musicのラジオ番組として予告されており、アートワークには「Tune in at 12 p.m. PT on June 7 to watch this special even…\nThe post Apple Music空間オーディオの発表イベント、WWDC基調講演の直後に開催へ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/special-event/135304",
-          "publishedOn": "2021-06-06T12:36:21.000Z",
-          "wordCount": 181,
-          "title": "Apple Music空間オーディオの発表イベント、WWDC基調講演の直後に開催へ"
         }
       ]
     }
