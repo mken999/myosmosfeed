@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343495",
+          "author": "Chris Coyier",
+          "description": "Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …\nThe post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-look-at-building-with-astro/",
+          "publishedOn": "2021-07-07T21:06:35.000Z",
+          "wordCount": 2391,
+          "title": "A Look at Building with Astro"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343388",
+          "author": "Robin Rendle",
+          "description": "There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…\nThe post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-webs-worst-default/",
+          "publishedOn": "2021-07-07T14:30:34.000Z",
+          "wordCount": 881,
+          "title": "The Web’s Worst Default"
+        },
+        {
           "id": "https://css-tricks.com/?p=343438",
           "author": "Chris Coyier",
           "description": "I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:\nIt’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.\n<body onclick=\"this.classList.toggle(\"active\");\"\nCould …\nThe post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -524,24 +542,6 @@
           "publishedOn": "2021-06-08T14:16:07.000Z",
           "wordCount": 708,
           "title": "CSS-Trickz: An Experiment with Netlify’s On-Demand Builders"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341805",
-          "author": "Chris Coyier",
-          "description": "Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type=\"password\"> accessibility. For one thing, being able to toggle it to type=\"text\" should be possible, while announcing, politely, the change. But also, put the password hints \n…\nThe post Links on Accessibility appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-accessibility/",
-          "publishedOn": "2021-06-07T19:52:26.000Z",
-          "wordCount": 599,
-          "title": "Links on Accessibility"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340390",
-          "author": "Chris Coyier",
-          "description": "Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …\nThe post VS Code Extensions for HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/vs-code-extensions-for-html/",
-          "publishedOn": "2021-06-07T14:13:50.000Z",
-          "wordCount": 1453,
-          "title": "VS Code Extensions for HTML"
         }
       ]
     },
@@ -550,6 +550,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
+          "author": "hello@smashingmagazine.com (Emiliano Cicero)",
+          "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
+          "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
+          "publishedOn": "2021-07-07T11:00:00.000Z",
+          "wordCount": 4003,
+          "title": "An Introduction To Figma Interactive Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
           "author": "hello@smashingmagazine.com (Emmanuel Tissera)",
@@ -927,20 +941,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
-          "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
-          "publishedOn": "2021-06-08T12:00:00.000Z",
-          "wordCount": 2102,
-          "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -949,6 +949,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e521aa134ad707be00e41d",
+          "author": null,
+          "description": "Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now",
+          "link": "https://www.freecodecamp.org/news/what-is-a-javascript-object/",
+          "publishedOn": "2021-07-07T22:04:00.000Z",
+          "wordCount": 761,
+          "title": "What is a JavaScript Object? Key Value Pairs and Dot Notation Explained"
+        },
+        {
+          "id": "60ccd1794dc1a607ed7b4feb",
+          "author": null,
+          "description": "A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/",
+          "publishedOn": "2021-07-07T17:28:00.000Z",
+          "wordCount": 5411,
+          "title": "How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way"
+        },
+        {
+          "id": "60e25e17134ad707be00d947",
+          "author": null,
+          "description": "List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square",
+          "link": "https://www.freecodecamp.org/news/list-comprehension-in-python/",
+          "publishedOn": "2021-07-07T17:25:39.000Z",
+          "wordCount": 1592,
+          "title": "List Comprehension in Python Explained for Beginners"
+        },
+        {
+          "id": "60c38e76d3126007592d66cd",
+          "author": null,
+          "description": "I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the",
+          "link": "https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/",
+          "publishedOn": "2021-07-07T15:43:17.000Z",
+          "wordCount": 4364,
+          "title": "JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts"
+        },
+        {
+          "id": "60d5ec446e1a1407b6b0bcae",
+          "author": null,
+          "description": "Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but",
+          "link": "https://www.freecodecamp.org/news/what-is-binary-search/",
+          "publishedOn": "2021-07-07T13:57:56.000Z",
+          "wordCount": 13488,
+          "title": "What is Binary Search?"
+        },
         {
           "id": "60e16e1b134ad707be00d6bc",
           "author": null,
@@ -984,6 +1029,15 @@
           "publishedOn": "2021-07-06T14:27:26.000Z",
           "wordCount": 2989,
           "title": "How to Schedule a Job in Node Using node-cron"
+        },
+        {
+          "id": "60df6dd827f80207bcdbcf06",
+          "author": null,
+          "description": "Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/",
+          "publishedOn": "2021-07-06T13:55:00.000Z",
+          "wordCount": 109640,
+          "title": "Get Ready to Pass CISSP Exam"
         },
         {
           "id": "60de3cf127f80207bcdbc9af",
@@ -1614,42 +1668,6 @@
           "publishedOn": "2021-06-08T16:02:45.000Z",
           "wordCount": 2548,
           "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
-        },
-        {
-          "id": "60bbd28eacb62507dd1d99fb",
-          "author": null,
-          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
-          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
-          "publishedOn": "2021-06-07T23:33:30.000Z",
-          "wordCount": 3567,
-          "title": "How to Build a Full Stack App with Supabase and Next.js"
-        },
-        {
-          "id": "60be863cd3126007592d4c36",
-          "author": null,
-          "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
-          "link": "https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/",
-          "publishedOn": "2021-06-07T20:54:41.000Z",
-          "wordCount": 439,
-          "title": "How to Use OpenCV and Python for Computer Vision and AI"
-        },
-        {
-          "id": "5ff625967af2371468bb8645",
-          "author": null,
-          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
-          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
-          "publishedOn": "2021-06-07T18:18:01.000Z",
-          "wordCount": 1597,
-          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
-        },
-        {
-          "id": "60b136d911ffb70827ef912b",
-          "author": null,
-          "description": "ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in",
-          "link": "https://www.freecodecamp.org/news/angular-ngclass-example/",
-          "publishedOn": "2021-06-07T15:01:26.000Z",
-          "wordCount": 1547,
-          "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
         }
       ]
     },
@@ -1658,6 +1676,60 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=136017",
+          "author": "g.O.R.i",
+          "description": "ChoetechのAmazonページよりキャプチャ Shenzhen Dak TechnologyのガジェットブランドChoetechの製品が、Amazonから取り下げられた。Amazonは今年5〜6月にかけて、株式会社SUNVALLEY JAPANが国内で展開するブランドRAVPowerと関連ブラ…\nThe post Amazonから”強制退場”、次はChoetech first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/136017",
+          "publishedOn": "2021-07-07T23:47:43.000Z",
+          "wordCount": 199,
+          "title": "Amazonから”強制退場”、次はChoetech"
+        },
+        {
+          "id": "https://gori.me/?p=136011",
+          "author": "g.O.R.i",
+          "description": "娘たちは、パパとママが奮発したオシャレな木製手押し車よりも、3COINS（スリコ）で購入した330円のドールバギーのほうが遊んでくれている。 価格差に絶望したが、大事なのは子どもたちが喜んでくれること。特に次女はママにべったりで自分で歩こうとしてくれなかったが、ドールバギーを与えると自分で歩く機会が…\nThe post 【レビュー】3COINSのドールバギー：子供にとって価格は関係ない first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/papa/childcare-gadgets/136011",
+          "publishedOn": "2021-07-07T21:30:44.000Z",
+          "wordCount": 174,
+          "title": "【レビュー】3COINSのドールバギー：子供にとって価格は関係ない"
+        },
+        {
+          "id": "https://gori.me/?p=135999",
+          "author": "g.O.R.i",
+          "description": "娘たちは手押し車が好きだ。スーパーに行けばカートを押したがり、外に行けばベビーカーを押したがる。自宅でも、牛乳パックで工作した椅子をあっちらこっちら手押ししている。 次女が近々2歳の誕生日を迎えることで、ooh nooの手押し車「Toy Pram」を購入した。組み立ては必要だが、同梱されている六角レ…\nThe post 【レビュー】ooh noo Toy Pram：インテリアとしても美しい木製手押し車 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/papa/childcare-gadgets/135999",
+          "publishedOn": "2021-07-07T21:30:24.000Z",
+          "wordCount": 182,
+          "title": "【レビュー】ooh noo Toy Pram：インテリアとしても美しい木製手押し車"
+        },
+        {
+          "id": "https://gori.me/?p=135989",
+          "author": "g.O.R.i",
+          "description": "体温発電を活用することで24時間365日体調を記録できる、健康管理ブレスレット「MOTHER」が発表された。クラウドファンディングサイト「Makuake」にてプロジェクトを開始し、支援を募っている。 Apple Watchの「電池持ち」という致命的な欠点を補うアイテム Apple Watchはリリー…\nThe post 体温発電で充電不要！健康管理ブレスレット「MOTHER」が登場 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/gadget/135989",
+          "publishedOn": "2021-07-07T05:00:40.000Z",
+          "wordCount": 167,
+          "title": "体温発電で充電不要！健康管理ブレスレット「MOTHER」が登場"
+        },
+        {
+          "id": "https://gori.me/?p=135992",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は67,980円で購入できるM1 Ma…\nThe post M1 Mac miniの在庫が復活！Mac整備済商品の最新情報（2021年7月7日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/135992",
+          "publishedOn": "2021-07-07T03:31:57.000Z",
+          "wordCount": 718,
+          "title": "M1 Mac miniの在庫が復活！Mac整備済商品の最新情報（2021年7月7日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=135986",
+          "author": "g.O.R.i",
+          "description": "Macのミュージックアプリ（またはPCのiTunes for Windowsアプリ）で音楽を再生しようとしたとき、「コンピュータは5台までしか認証できません」と表示されたときの対処法を解説する。認証されたコンピュータは、音楽、映画、その他のコンテンツにアクセスできるようになる。 Appleは、1つの…\nThe post Macで「コンピュータは5台までしか認証できません」と表示されたときの対処法 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac/mac-tips/135986",
+          "publishedOn": "2021-07-07T01:58:37.000Z",
+          "wordCount": 172,
+          "title": "Macで「コンピュータは5台までしか認証できません」と表示されたときの対処法"
+        },
         {
           "id": "https://gori.me/?p=135979",
           "author": "g.O.R.i",
@@ -3232,123 +3304,6 @@
           "publishedOn": "2021-06-08T13:58:56.000Z",
           "wordCount": 197,
           "title": "Adobe Illustrator、InDesign、Lightroom ClassicがAppleシリコンMacにネイティブ対応"
-        },
-        {
-          "id": "https://gori.me/?p=135394",
-          "author": "g.O.R.i",
-          "description": "Amazonが、プライムデーに登場予定の商品第1弾を公開した。プライムデーは、6月21日（月）から22日（火）の48時間開催。多数のトップブランドやカスタマーレビュー星4つ以上の人気商品を特別価格で販売する、プライム会員向けのビッグセールだ。 第1弾として、人気のAmazonデバイスやまとめ買い商品…\nThe post Amazon、プライムデー2021に登場予定の商品第1弾を公開 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/amazon/amazon-sale/135394",
-          "publishedOn": "2021-06-08T07:50:06.000Z",
-          "wordCount": 180,
-          "title": "Amazon、プライムデー2021に登場予定の商品第1弾を公開"
-        },
-        {
-          "id": "https://gori.me/?p=135389",
-          "author": "g.O.R.i",
-          "description": "Apple Musicで、Dolby Atmosをサポートする空間オーディオに対応した楽曲の配信が開始された。空間オーディオ対応楽曲は、H1チップまたはW1チップを搭載するAirPodsおよびBeatsヘッドホンで利用可能。最新のiPhone、iPad、Macのスピーカーも対応する。 多数のプレイリ…\nThe post Apple Music、空間オーディオ対応楽曲の提供を開始 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/apple-music/135389",
-          "publishedOn": "2021-06-08T07:25:32.000Z",
-          "wordCount": 190,
-          "title": "Apple Music、空間オーディオ対応楽曲の提供を開始"
-        },
-        {
-          "id": "https://gori.me/?p=135387",
-          "author": "g.O.R.i",
-          "description": "Appleは、iOS 14からアップデートせずにiOS 15向けに提供する最新のセキュリティアップデートを提供すると発表した。iPadOS 14とiPadOS 15でも同様の仕組みが提供される。 Appleは従来、iOSの最新アップデートを配信後に旧OSバージョンのSignature Hash（SH…\nThe post iOS 15、スキップ可能に　iOS 14のままセキュリティアップデートを受け取り可能 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios15/135387",
-          "publishedOn": "2021-06-08T02:06:22.000Z",
-          "wordCount": 199,
-          "title": "iOS 15、スキップ可能に　iOS 14のままセキュリティアップデートを受け取り可能"
-        },
-        {
-          "id": "https://gori.me/?p=135385",
-          "author": "g.O.R.i",
-          "description": "iOS 15の新機能として、AirPods向けの新機能が多数発表された。「探す」アプリに完全対応し、落とした場合でも「探すネットワーク」を利用し場所の特定が可能になった。紛失を事前に防ぐため、ユーザーから離れると警告する機能も追加された。 聴覚が不自由な人向けに会話を強調する機能、通知の読み上げ機能…\nThe post iOS 15、AirPods向け新機能多数　離れると警告する紛失防止機能など first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/music-accessories/airpods/135385",
-          "publishedOn": "2021-06-08T01:43:39.000Z",
-          "wordCount": 193,
-          "title": "iOS 15、AirPods向け新機能多数　離れると警告する紛失防止機能など"
-        },
-        {
-          "id": "https://gori.me/?p=135373",
-          "author": "g.O.R.i",
-          "description": "Appleは6月8日、WWDC 2021の基調講演でwatchOSの次期バージョン「watchOS 8」を正式に発表した。開発者向けのベータ版は本日提供開始、一般公開は今秋を予定している。 watchOS 8は、万人受けする新機能がない。ホームアプリとWalletの改良は、対応製品やデバイスがなけれ…\nThe post watchOS 8の新機能、意識的に使わなければ存在に気づかないレベル first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/watchos/watchos8/135373",
-          "publishedOn": "2021-06-08T00:49:10.000Z",
-          "wordCount": 188,
-          "title": "watchOS 8の新機能、意識的に使わなければ存在に気づかないレベル"
-        },
-        {
-          "id": "https://gori.me/?p=135366",
-          "author": "g.O.R.i",
-          "description": "Appleは6月8日、WWDC 2021の基調講演でiPadOSの次期バージョン「iPadOS 15」を正式に発表した。開発者向けのベータ版は本日提供開始、一般公開は今秋を予定している。 iPadOS 15の発表では、Final Cut Proなどのプロ向けアプリもなければ、革新的な新機能もなかった…\nThe post iPadOS 15のiPadならではの新機能をピックアップ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ipados/ipados15/135366",
-          "publishedOn": "2021-06-07T22:35:15.000Z",
-          "wordCount": 185,
-          "title": "iPadOS 15のiPadならではの新機能をピックアップ"
-        },
-        {
-          "id": "https://gori.me/?p=135353",
-          "author": "g.O.R.i",
-          "description": "Appleは6月8日、WWDC 2021の基調講演でiOSの次期バージョン「iOS 15」を正式に発表した。開発者向けのベータ版は本日提供開始、一般公開は今秋を予定している。 iOS 15には、椅子から転げ落ちるような驚きのある新機能はなかったが、iPhoneの使い勝手が向上する機能が多数追加される…\nThe post iPhoneがちょっと便利になる、iOS 15の新機能をピックアップ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios15/135353",
-          "publishedOn": "2021-06-07T21:46:34.000Z",
-          "wordCount": 204,
-          "title": "iPhoneがちょっと便利になる、iOS 15の新機能をピックアップ"
-        },
-        {
-          "id": "https://gori.me/?p=135333",
-          "author": "g.O.R.i",
-          "description": "watchOS 8をサポートするApple Watchは、watchOS 7と同じ。Apple Watch Series 3以降のモデルに限定される。Apple Watch Series 2以下のモデルはwatchOS 7にアップデートできない。 またiOS 14が動作するiPhone（iPhone…\nThe post watchOS 8の対応機種、watchOS 7と同じ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/watchos/watchos8/135333",
-          "publishedOn": "2021-06-07T20:34:31.000Z",
-          "wordCount": 188,
-          "title": "watchOS 8の対応機種、watchOS 7と同じ"
-        },
-        {
-          "id": "https://gori.me/?p=135331",
-          "author": "g.O.R.i",
-          "description": "iPadOS 15は、Apple Pencilで手書き入力した文字を即座にテキスト化してくれる「スクリブル」の日本語入力をサポートしている。iPadOS 14の新機能として提供されていたが、提供当初は英語と中国語に限定されていた。 スクリブルはアプリ内だけではなく、文字入力欄であればどこでも使用でき…\nThe post iPadOS 15、手書き文字をテキスト化してくれる「Scribble」が日本語をサポート first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ipados/ipados15/135331",
-          "publishedOn": "2021-06-07T20:23:22.000Z",
-          "wordCount": 158,
-          "title": "iPadOS 15、手書き文字をテキスト化してくれる「Scribble」が日本語をサポート"
-        },
-        {
-          "id": "https://gori.me/?p=135329",
-          "author": "g.O.R.i",
-          "description": "iPadOS 15をサポートするiPadは、iPadOS 14と同じだ。iPad Airシリーズは「iPad Air 2」以降、iPad miniは「iPad mini 4」以降、iPadは第5世代モデル以降、iPad Proはすべてのモデルがサポートされている。 iPad Pro 12.9-inc…\nThe post iPadOS 15の対応機種、iPadOS 14と同じ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ipados/ipados15/135329",
-          "publishedOn": "2021-06-07T20:13:14.000Z",
-          "wordCount": 217,
-          "title": "iPadOS 15の対応機種、iPadOS 14と同じ"
-        },
-        {
-          "id": "https://gori.me/?p=135327",
-          "author": "g.O.R.i",
-          "description": "macOS MontereyをサポートするMacは、macOS Big Surと比べて基準が引き上げられている。サポートするMacは以下のとおり。具体的にはMacBook、MacBook Air、MacBook Pro、iMacの一部モデルが対象外となっている。 MacBook (2016年モデル以…\nThe post macOS Montereyの対応機種、2015年以降のMacに引き上げ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/macosx/macosmonterey/135327",
-          "publishedOn": "2021-06-07T20:04:39.000Z",
-          "wordCount": 201,
-          "title": "macOS Montereyの対応機種、2015年以降のMacに引き上げ"
-        },
-        {
-          "id": "https://gori.me/?p=135325",
-          "author": "g.O.R.i",
-          "description": "iOS 15をサポートするiPhoneおよびiPodは、「iPhone 6s」および「iPhone SE」以降と発表された。サポート対象機種はiOS 13およびiOS 14と同じ。iPod touchは第7世代モデルのみ、アップデートできる。 iPhone 12 iPhone 12 mini iPh…\nThe post iPhone 6sユーザー、命拾い！iOS 15の対応機種はiOS 14と同じ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios15/135325",
-          "publishedOn": "2021-06-07T19:55:52.000Z",
-          "wordCount": 241,
-          "title": "iPhone 6sユーザー、命拾い！iOS 15の対応機種はiOS 14と同じ"
-        },
-        {
-          "id": "https://gori.me/?p=135323",
-          "author": "g.O.R.i",
-          "description": "Appleは6月8日、WWDC 2021の基調講演でmacOSの次期バージョン「macOS 12 Monterey」（読み方：モントレー）を正式に発表した。開発者向けのベータ版は本日提供開始、一般公開は今秋を予定している。 本記事では、数少ないmacOS Monterey注目の新機能をピックアップし…\nThe post macOS Montereyの（数少ない）注目の新機能をピックアップ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/macosx/macosmonterey/135323",
-          "publishedOn": "2021-06-07T19:45:18.000Z",
-          "wordCount": 200,
-          "title": "macOS Montereyの（数少ない）注目の新機能をピックアップ"
         }
       ]
     }

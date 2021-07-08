@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-07T00:17:41.442Z</updated>
+    <updated>2021-07-08T00:16:17.548Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazonから”強制退場”、次はChoetech]]></title>
+        <id>https://gori.me/?p=136017</id>
+        <link href="https://gori.me/iphone-accessories/136017"/>
+        <updated>2021-07-07T23:47:43.000Z</updated>
+        <summary type="html"><![CDATA[ChoetechのAmazonページよりキャプチャ Shenzhen Dak TechnologyのガジェットブランドChoetechの製品が、Amazonから取り下げられた。Amazonは今年5〜6月にかけて、株式会社SUNVALLEY JAPANが国内で展開するブランドRAVPowerと関連ブラ…
+The post Amazonから”強制退場”、次はChoetech first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a JavaScript Object? Key Value Pairs and Dot Notation Explained]]></title>
+        <id>60e521aa134ad707be00e41d</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-javascript-object/"/>
+        <updated>2021-07-07T22:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【レビュー】3COINSのドールバギー：子供にとって価格は関係ない]]></title>
+        <id>https://gori.me/?p=136011</id>
+        <link href="https://gori.me/papa/childcare-gadgets/136011"/>
+        <updated>2021-07-07T21:30:44.000Z</updated>
+        <summary type="html"><![CDATA[娘たちは、パパとママが奮発したオシャレな木製手押し車よりも、3COINS（スリコ）で購入した330円のドールバギーのほうが遊んでくれている。 価格差に絶望したが、大事なのは子どもたちが喜んでくれること。特に次女はママにべったりで自分で歩こうとしてくれなかったが、ドールバギーを与えると自分で歩く機会が…
+The post 【レビュー】3COINSのドールバギー：子供にとって価格は関係ない first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【レビュー】ooh noo Toy Pram：インテリアとしても美しい木製手押し車]]></title>
+        <id>https://gori.me/?p=135999</id>
+        <link href="https://gori.me/papa/childcare-gadgets/135999"/>
+        <updated>2021-07-07T21:30:24.000Z</updated>
+        <summary type="html"><![CDATA[娘たちは手押し車が好きだ。スーパーに行けばカートを押したがり、外に行けばベビーカーを押したがる。自宅でも、牛乳パックで工作した椅子をあっちらこっちら手押ししている。 次女が近々2歳の誕生日を迎えることで、ooh nooの手押し車「Toy Pram」を購入した。組み立ては必要だが、同梱されている六角レ…
+The post 【レビュー】ooh noo Toy Pram：インテリアとしても美しい木製手押し車 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Look at Building with Astro]]></title>
+        <id>https://css-tricks.com/?p=343495</id>
+        <link href="https://css-tricks.com/a-look-at-building-with-astro/"/>
+        <updated>2021-07-07T21:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …
+The post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way]]></title>
+        <id>60ccd1794dc1a607ed7b4feb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/"/>
+        <updated>2021-07-07T17:28:00.000Z</updated>
+        <summary type="html"><![CDATA[A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Comprehension in Python Explained for Beginners]]></title>
+        <id>60e25e17134ad707be00d947</id>
+        <link href="https://www.freecodecamp.org/news/list-comprehension-in-python/"/>
+        <updated>2021-07-07T17:25:39.000Z</updated>
+        <summary type="html"><![CDATA[List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts]]></title>
+        <id>60c38e76d3126007592d66cd</id>
+        <link href="https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/"/>
+        <updated>2021-07-07T15:43:17.000Z</updated>
+        <summary type="html"><![CDATA[I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Web’s Worst Default]]></title>
+        <id>https://css-tricks.com/?p=343388</id>
+        <link href="https://css-tricks.com/the-webs-worst-default/"/>
+        <updated>2021-07-07T14:30:34.000Z</updated>
+        <summary type="html"><![CDATA[There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…
+The post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Binary Search?]]></title>
+        <id>60d5ec446e1a1407b6b0bcae</id>
+        <link href="https://www.freecodecamp.org/news/what-is-binary-search/"/>
+        <updated>2021-07-07T13:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To Figma Interactive Components]]></title>
+        <id>https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/</id>
+        <link href="https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/"/>
+        <updated>2021-07-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Emiliano Cicero)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体温発電で充電不要！健康管理ブレスレット「MOTHER」が登場]]></title>
+        <id>https://gori.me/?p=135989</id>
+        <link href="https://gori.me/gadget/135989"/>
+        <updated>2021-07-07T05:00:40.000Z</updated>
+        <summary type="html"><![CDATA[体温発電を活用することで24時間365日体調を記録できる、健康管理ブレスレット「MOTHER」が発表された。クラウドファンディングサイト「Makuake」にてプロジェクトを開始し、支援を募っている。 Apple Watchの「電池持ち」という致命的な欠点を補うアイテム Apple Watchはリリー…
+The post 体温発電で充電不要！健康管理ブレスレット「MOTHER」が登場 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1 Mac miniの在庫が復活！Mac整備済商品の最新情報（2021年7月7日更新）]]></title>
+        <id>https://gori.me/?p=135992</id>
+        <link href="https://gori.me/sale/apple-refurbished/135992"/>
+        <updated>2021-07-07T03:31:57.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は67,980円で購入できるM1 Ma…
+The post M1 Mac miniの在庫が復活！Mac整備済商品の最新情報（2021年7月7日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Macで「コンピュータは5台までしか認証できません」と表示されたときの対処法]]></title>
+        <id>https://gori.me/?p=135986</id>
+        <link href="https://gori.me/mac/mac-tips/135986"/>
+        <updated>2021-07-07T01:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Macのミュージックアプリ（またはPCのiTunes for Windowsアプリ）で音楽を再生しようとしたとき、「コンピュータは5台までしか認証できません」と表示されたときの対処法を解説する。認証されたコンピュータは、音楽、映画、その他のコンテンツにアクセスできるようになる。 Appleは、1つの…
+The post Macで「コンピュータは5台までしか認証できません」と表示されたときの対処法 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automatically Upload an Android App Bundle to the Play Store]]></title>
         <id>60e16e1b134ad707be00d6bc</id>
@@ -92,6 +252,16 @@ The post Anker、シリコン素材採用の絡まないUSB-Cケーブルを発�
         <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
         <updated>2021-07-06T14:27:26.000Z</updated>
         <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Ready to Pass CISSP Exam]]></title>
+        <id>60df6dd827f80207bcdbcf06</id>
+        <link href="https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/"/>
+        <updated>2021-07-06T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -4004,250 +4174,6 @@ The post Adobe Illustrator、InDesign、Lightroom ClassicがAppleシリコンMac
  【もっと読む】]]></summary>
         <author>
             <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
-        <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
-        <updated>2021-06-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon、プライムデー2021に登場予定の商品第1弾を公開]]></title>
-        <id>https://gori.me/?p=135394</id>
-        <link href="https://gori.me/amazon/amazon-sale/135394"/>
-        <updated>2021-06-08T07:50:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazonが、プライムデーに登場予定の商品第1弾を公開した。プライムデーは、6月21日（月）から22日（火）の48時間開催。多数のトップブランドやカスタマーレビュー星4つ以上の人気商品を特別価格で販売する、プライム会員向けのビッグセールだ。 第1弾として、人気のAmazonデバイスやまとめ買い商品…
-The post Amazon、プライムデー2021に登場予定の商品第1弾を公開 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Music、空間オーディオ対応楽曲の提供を開始]]></title>
-        <id>https://gori.me/?p=135389</id>
-        <link href="https://gori.me/apple/apple-music/135389"/>
-        <updated>2021-06-08T07:25:32.000Z</updated>
-        <summary type="html"><![CDATA[Apple Musicで、Dolby Atmosをサポートする空間オーディオに対応した楽曲の配信が開始された。空間オーディオ対応楽曲は、H1チップまたはW1チップを搭載するAirPodsおよびBeatsヘッドホンで利用可能。最新のiPhone、iPad、Macのスピーカーも対応する。 多数のプレイリ…
-The post Apple Music、空間オーディオ対応楽曲の提供を開始 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 15、スキップ可能に　iOS 14のままセキュリティアップデートを受け取り可能]]></title>
-        <id>https://gori.me/?p=135387</id>
-        <link href="https://gori.me/ios/ios15/135387"/>
-        <updated>2021-06-08T02:06:22.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、iOS 14からアップデートせずにiOS 15向けに提供する最新のセキュリティアップデートを提供すると発表した。iPadOS 14とiPadOS 15でも同様の仕組みが提供される。 Appleは従来、iOSの最新アップデートを配信後に旧OSバージョンのSignature Hash（SH…
-The post iOS 15、スキップ可能に　iOS 14のままセキュリティアップデートを受け取り可能 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 15、AirPods向け新機能多数　離れると警告する紛失防止機能など]]></title>
-        <id>https://gori.me/?p=135385</id>
-        <link href="https://gori.me/music-accessories/airpods/135385"/>
-        <updated>2021-06-08T01:43:39.000Z</updated>
-        <summary type="html"><![CDATA[iOS 15の新機能として、AirPods向けの新機能が多数発表された。「探す」アプリに完全対応し、落とした場合でも「探すネットワーク」を利用し場所の特定が可能になった。紛失を事前に防ぐため、ユーザーから離れると警告する機能も追加された。 聴覚が不自由な人向けに会話を強調する機能、通知の読み上げ機能…
-The post iOS 15、AirPods向け新機能多数　離れると警告する紛失防止機能など first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[watchOS 8の新機能、意識的に使わなければ存在に気づかないレベル]]></title>
-        <id>https://gori.me/?p=135373</id>
-        <link href="https://gori.me/watchos/watchos8/135373"/>
-        <updated>2021-06-08T00:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Appleは6月8日、WWDC 2021の基調講演でwatchOSの次期バージョン「watchOS 8」を正式に発表した。開発者向けのベータ版は本日提供開始、一般公開は今秋を予定している。 watchOS 8は、万人受けする新機能がない。ホームアプリとWalletの改良は、対応製品やデバイスがなけれ…
-The post watchOS 8の新機能、意識的に使わなければ存在に気づかないレベル first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Full Stack App with Supabase and Next.js]]></title>
-        <id>60bbd28eacb62507dd1d99fb</id>
-        <link href="https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/"/>
-        <updated>2021-06-07T23:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build full stack serverless apps with Supabase and Next.js.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPadOS 15のiPadならではの新機能をピックアップ]]></title>
-        <id>https://gori.me/?p=135366</id>
-        <link href="https://gori.me/ipados/ipados15/135366"/>
-        <updated>2021-06-07T22:35:15.000Z</updated>
-        <summary type="html"><![CDATA[Appleは6月8日、WWDC 2021の基調講演でiPadOSの次期バージョン「iPadOS 15」を正式に発表した。開発者向けのベータ版は本日提供開始、一般公開は今秋を予定している。 iPadOS 15の発表では、Final Cut Proなどのプロ向けアプリもなければ、革新的な新機能もなかった…
-The post iPadOS 15のiPadならではの新機能をピックアップ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhoneがちょっと便利になる、iOS 15の新機能をピックアップ]]></title>
-        <id>https://gori.me/?p=135353</id>
-        <link href="https://gori.me/ios/ios15/135353"/>
-        <updated>2021-06-07T21:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Appleは6月8日、WWDC 2021の基調講演でiOSの次期バージョン「iOS 15」を正式に発表した。開発者向けのベータ版は本日提供開始、一般公開は今秋を予定している。 iOS 15には、椅子から転げ落ちるような驚きのある新機能はなかったが、iPhoneの使い勝手が向上する機能が多数追加される…
-The post iPhoneがちょっと便利になる、iOS 15の新機能をピックアップ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use OpenCV and Python for Computer Vision and AI]]></title>
-        <id>60be863cd3126007592d4c36</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/"/>
-        <updated>2021-06-07T20:54:41.000Z</updated>
-        <summary type="html"><![CDATA[OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[watchOS 8の対応機種、watchOS 7と同じ]]></title>
-        <id>https://gori.me/?p=135333</id>
-        <link href="https://gori.me/watchos/watchos8/135333"/>
-        <updated>2021-06-07T20:34:31.000Z</updated>
-        <summary type="html"><![CDATA[watchOS 8をサポートするApple Watchは、watchOS 7と同じ。Apple Watch Series 3以降のモデルに限定される。Apple Watch Series 2以下のモデルはwatchOS 7にアップデートできない。 またiOS 14が動作するiPhone（iPhone…
-The post watchOS 8の対応機種、watchOS 7と同じ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPadOS 15、手書き文字をテキスト化してくれる「Scribble」が日本語をサポート]]></title>
-        <id>https://gori.me/?p=135331</id>
-        <link href="https://gori.me/ipados/ipados15/135331"/>
-        <updated>2021-06-07T20:23:22.000Z</updated>
-        <summary type="html"><![CDATA[iPadOS 15は、Apple Pencilで手書き入力した文字を即座にテキスト化してくれる「スクリブル」の日本語入力をサポートしている。iPadOS 14の新機能として提供されていたが、提供当初は英語と中国語に限定されていた。 スクリブルはアプリ内だけではなく、文字入力欄であればどこでも使用でき…
-The post iPadOS 15、手書き文字をテキスト化してくれる「Scribble」が日本語をサポート first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPadOS 15の対応機種、iPadOS 14と同じ]]></title>
-        <id>https://gori.me/?p=135329</id>
-        <link href="https://gori.me/ipados/ipados15/135329"/>
-        <updated>2021-06-07T20:13:14.000Z</updated>
-        <summary type="html"><![CDATA[iPadOS 15をサポートするiPadは、iPadOS 14と同じだ。iPad Airシリーズは「iPad Air 2」以降、iPad miniは「iPad mini 4」以降、iPadは第5世代モデル以降、iPad Proはすべてのモデルがサポートされている。 iPad Pro 12.9-inc…
-The post iPadOS 15の対応機種、iPadOS 14と同じ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Montereyの対応機種、2015年以降のMacに引き上げ]]></title>
-        <id>https://gori.me/?p=135327</id>
-        <link href="https://gori.me/macosx/macosmonterey/135327"/>
-        <updated>2021-06-07T20:04:39.000Z</updated>
-        <summary type="html"><![CDATA[macOS MontereyをサポートするMacは、macOS Big Surと比べて基準が引き上げられている。サポートするMacは以下のとおり。具体的にはMacBook、MacBook Air、MacBook Pro、iMacの一部モデルが対象外となっている。 MacBook (2016年モデル以…
-The post macOS Montereyの対応機種、2015年以降のMacに引き上げ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 6sユーザー、命拾い！iOS 15の対応機種はiOS 14と同じ]]></title>
-        <id>https://gori.me/?p=135325</id>
-        <link href="https://gori.me/ios/ios15/135325"/>
-        <updated>2021-06-07T19:55:52.000Z</updated>
-        <summary type="html"><![CDATA[iOS 15をサポートするiPhoneおよびiPodは、「iPhone 6s」および「iPhone SE」以降と発表された。サポート対象機種はiOS 13およびiOS 14と同じ。iPod touchは第7世代モデルのみ、アップデートできる。 iPhone 12 iPhone 12 mini iPh…
-The post iPhone 6sユーザー、命拾い！iOS 15の対応機種はiOS 14と同じ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Accessibility]]></title>
-        <id>https://css-tricks.com/?p=341805</id>
-        <link href="https://css-tricks.com/links-on-accessibility/"/>
-        <updated>2021-06-07T19:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type="password"> accessibility. For one thing, being able to toggle it to type="text" should be possible, while announcing, politely, the change. But also, put the password hints 
-…
-The post Links on Accessibility appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Montereyの（数少ない）注目の新機能をピックアップ]]></title>
-        <id>https://gori.me/?p=135323</id>
-        <link href="https://gori.me/macosx/macosmonterey/135323"/>
-        <updated>2021-06-07T19:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Appleは6月8日、WWDC 2021の基調講演でmacOSの次期バージョン「macOS 12 Monterey」（読み方：モントレー）を正式に発表した。開発者向けのベータ版は本日提供開始、一般公開は今秋を予定している。 本記事では、数少ないmacOS Monterey注目の新機能をピックアップし…
-The post macOS Montereyの（数少ない）注目の新機能をピックアップ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Closures in JavaScript – A Beginner&#x27;s Guide]]></title>
-        <id>5ff625967af2371468bb8645</id>
-        <link href="https://www.freecodecamp.org/news/closures-in-javascript/"/>
-        <updated>2021-06-07T18:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular NgClass Example – How to Add Conditional CSS Classes]]></title>
-        <id>60b136d911ffb70827ef912b</id>
-        <link href="https://www.freecodecamp.org/news/angular-ngclass-example/"/>
-        <updated>2021-06-07T15:01:26.000Z</updated>
-        <summary type="html"><![CDATA[ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code Extensions for HTML]]></title>
-        <id>https://css-tricks.com/?p=340390</id>
-        <link href="https://css-tricks.com/vs-code-extensions-for-html/"/>
-        <updated>2021-06-07T14:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …
-The post VS Code Extensions for HTML appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
