@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344334",
+          "author": "Chris Coyier",
+          "description": "This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …\nThe post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/",
+          "publishedOn": "2021-07-09T18:53:51.000Z",
+          "wordCount": 1281,
+          "title": ":focus-visible in WebKit"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343598",
+          "author": "Philippe Bernard",
+          "description": "Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?\nThe task is more non-trivial than you might think. As we will see in this …\nThe post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svg-favicons-in-action/",
+          "publishedOn": "2021-07-09T14:31:57.000Z",
+          "wordCount": 2068,
+          "title": "SVG Favicons in Action"
+        },
+        {
           "id": "https://css-tricks.com/?p=344024",
           "author": "Chris Coyier",
           "description": "Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …\nThe post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -533,24 +551,6 @@
           "publishedOn": "2021-06-10T14:26:47.000Z",
           "wordCount": 2892,
           "title": "Building a Headless CMS with Fauna and Vercel Functions"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340967",
-          "author": "Geoff Graham",
-          "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-cornucopia-of-container-queries/",
-          "publishedOn": "2021-06-09T20:37:00.000Z",
-          "wordCount": 1534,
-          "title": "A Cornucopia of Container Queries"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341916",
-          "author": "Chris Coyier",
-          "description": "Does that make your eye twitch a little bit? Like… it’s a typo. It should be target=\"_blank\" with an underscore to start the value. As in…\n<a target=\"_blank\" href=\"https://codepen.io\"Open CodePen in a New Tab\n</a\nWelp, that’s correct syntax!…\nThe post target=blank appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/targetblank/",
-          "publishedOn": "2021-06-09T14:37:31.000Z",
-          "wordCount": 802,
-          "title": "target=blank"
         }
       ]
     },
@@ -559,6 +559,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
+          "author": "hello@smashingmagazine.com (Todd Libby)",
+          "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
+          "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
+          "publishedOn": "2021-07-09T10:30:00.000Z",
+          "wordCount": 2939,
+          "title": "Making A Strong Case For Accessibility",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
           "author": "hello@smashingmagazine.com (Uma Victor)",
@@ -936,20 +950,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
-          "author": "hello@smashingmagazine.com (Stefan Judis)",
-          "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
-          "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
-          "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 747,
-          "title": "Three Front-End Auditing Tools I Discovered Recently",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -958,6 +958,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e8864de8ee9b08300ecc3f",
+          "author": null,
+          "description": "There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus",
+          "link": "https://www.freecodecamp.org/news/5-react-libraries-every-project-needs/",
+          "publishedOn": "2021-07-09T20:06:31.000Z",
+          "wordCount": 1729,
+          "title": "5 React Libraries Every Project Should Use in 2021"
+        },
+        {
+          "id": "60e81c50134ad707be00f79f",
+          "author": null,
+          "description": "Hey everyone! In this article, I'm going to show you what's new in the latest of version of React – React 18 – in under 8 minutes.  First, you might be wondering whether the latest set of changes will break anything with your current setup, or whether you will have to learn",
+          "link": "https://www.freecodecamp.org/news/whats-new-in-react-18/",
+          "publishedOn": "2021-07-09T18:42:26.000Z",
+          "wordCount": 1930,
+          "title": "What&#x27;s New in React 18? Concurrency, Batching, the Transition API and More"
+        },
+        {
+          "id": "60dcb93727f80207bcdbc17e",
+          "author": null,
+          "description": "When you use code snippets in Visual Studio, it can make your coding process a lot easier and faster. But what are code snippets? And how can you use them? In this article, we'll look at how you can create code snippets in C#. Just keep in mind that snippets",
+          "link": "https://www.freecodecamp.org/news/how-to-automatically-generate-code-snippets-visual-studio/",
+          "publishedOn": "2021-07-09T18:28:18.000Z",
+          "wordCount": 3957,
+          "title": "How to Automatically Generate C# Code Snippets in Visual Studio"
+        },
+        {
+          "id": "5f9c986d740569d1a4ca1a04",
+          "author": null,
+          "description": "Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 760+ such free online courses that you can start this month.",
+          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "publishedOn": "2021-07-09T18:04:00.000Z",
+          "wordCount": 6787,
+          "title": "760+ Free Online Programming &amp; Computer Science Courses You Can Start This July"
+        },
+        {
+          "id": "60ae6b0d11ffb70827ef7fe6",
+          "author": null,
+          "description": "If you look at any website or application today, somewhere under the hood there is a database. After all, we live in the world of Big Data. And the volume of data is growing exponentially.  With so much data at hand, we need ever more sophisticated ways to store it",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/",
+          "publishedOn": "2021-07-09T15:06:24.000Z",
+          "wordCount": 1374,
+          "title": "How to Create a NoSQL Database with RavenDB"
+        },
         {
           "id": "60e59724134ad707be00e5d1",
           "author": null,
@@ -1632,42 +1677,6 @@
           "publishedOn": "2021-06-11T16:04:46.000Z",
           "wordCount": 1323,
           "title": "How to Level Up Your React Conditionals"
-        },
-        {
-          "id": "60b93afaacb62507dd1d8915",
-          "author": null,
-          "description": "You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data",
-          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/",
-          "publishedOn": "2021-06-10T11:35:00.000Z",
-          "wordCount": 583,
-          "title": "Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course"
-        },
-        {
-          "id": "60b357ad11ffb70827ef9a90",
-          "author": null,
-          "description": "Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to",
-          "link": "https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/",
-          "publishedOn": "2021-06-09T21:55:16.000Z",
-          "wordCount": 3477,
-          "title": "From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey"
-        },
-        {
-          "id": "60c0ccbed3126007592d5781",
-          "author": null,
-          "description": "Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog",
-          "link": "https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/",
-          "publishedOn": "2021-06-09T19:45:20.000Z",
-          "wordCount": 1731,
-          "title": "The Skills You Need to Start Freelancing as a Developer"
-        },
-        {
-          "id": "60c10a1dd3126007592d5988",
-          "author": null,
-          "description": "Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.",
-          "link": "https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/",
-          "publishedOn": "2021-06-09T18:43:07.000Z",
-          "wordCount": 336,
-          "title": "Learn Bootstrap 5 and SASS by Building a Portfolio Website"
         }
       ]
     },
@@ -1676,6 +1685,114 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=79561",
+          "author": "g.O.R.i",
+          "description": "Macで作業中、突然アプリがなぜか応答しなくなった経験は無いだろうか。他のアプリは問題なく使えるが、特定のアプリの上にマウスカーソルを合わせるとビーチボール（またの名を「虹色のクルクル」）が表示され、反応しない。 アプリケーションを終了すれば解決する場合もあるが、応答しない場合は強制終了、さらにはM…\nThe post 反応しないアプリを強制終了、Macを強制的に再起動する方法 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac/mac-tips/79561",
+          "publishedOn": "2021-07-09T23:55:45.000Z",
+          "wordCount": 201,
+          "title": "反応しないアプリを強制終了、Macを強制的に再起動する方法"
+        },
+        {
+          "id": "https://gori.me/?p=136063",
+          "author": "g.O.R.i",
+          "description": "Appleは7月10日、公式YouTubeチャンネルを更新。iPhone 12 Proの暗所撮影機能をアピールしたCM「In The Dark」を公開した。 iPhone 12シリーズの内向きカメラは、f2.2のレンズで1,200万画素。スマートHDR 3、Deep Fusionに加え、ナイトモード…\nThe post Apple、iPhone 12 Proの暗所撮影機能をアピールしたCMを公開 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-tvcm/136063",
+          "publishedOn": "2021-07-09T21:47:33.000Z",
+          "wordCount": 187,
+          "title": "Apple、iPhone 12 Proの暗所撮影機能をアピールしたCMを公開"
+        },
+        {
+          "id": "https://gori.me/?p=136060",
+          "author": "g.O.R.i",
+          "description": "Appleが7月9日、Apple Watchを使ってiPhone 12を探し出す連係機能をアピールするCM「Haystack」を公開した。 英語では、「干し草の山の中にある1本の針を探す（＝探すことが極めて困難なもの）」を意味する「needle in a haystack」のイディオムがある。「Ha…\nThe post Apple Watchを使ってiPhone 12を探す機能をアピールしたCMを公開 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-tvcm/136060",
+          "publishedOn": "2021-07-09T21:46:28.000Z",
+          "wordCount": 186,
+          "title": "Apple Watchを使ってiPhone 12を探す機能をアピールしたCMを公開"
+        },
+        {
+          "id": "https://gori.me/?p=136059",
+          "author": "g.O.R.i",
+          "description": "Apple Watchがあれば、自分のiPhoneを紛失しても一定の範囲内であれば、音を鳴らして場所を特定できる。音だけでは探しづらい場合は、iPhoneのLEDフラッシュを点滅させることもできる。 本記事では、Apple WatchからiPhoneを探し出す方法を解説する。 コントロールセンターか…\nThe post Apple Watchを使ってiPhoneを探す方法（音を鳴らす、LEDフラッシュを点灯させる） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple-watch/watch-tips/136059",
+          "publishedOn": "2021-07-09T21:45:14.000Z",
+          "wordCount": 216,
+          "title": "Apple Watchを使ってiPhoneを探す方法（音を鳴らす、LEDフラッシュを点灯させる）"
+        },
+        {
+          "id": "https://gori.me/?p=136053",
+          "author": "g.O.R.i",
+          "description": "Kindleストアが、対象作品がお買い得価格で購入できる「夏☆電書2021」を開催中だ。様々なジャンルでセール対象作品をまとめた「フェア」が多数用意されている。 「ブルーバックス人気ベスト200」は講談社ブルーバックスの人気書籍ベスト200を集めたセール。『新型コロナ　７つの謎　最新免疫学からわかっ…\nThe post Kindleストア、講談社の「夏☆電書2021」セールを開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/kindle-sale/136053",
+          "publishedOn": "2021-07-09T13:36:38.000Z",
+          "wordCount": 177,
+          "title": "Kindleストア、講談社の「夏☆電書2021」セールを開催中"
+        },
+        {
+          "id": "https://gori.me/?p=136051",
+          "author": "g.O.R.i",
+          "description": "新しい14インチと16インチのMacBook Proは、予定どおり2021年第3四半期（7〜9月）に量産開始される可能性がある。Apple情報に詳しいMing-Chi Kuo氏によると、新型MacBook Proの量産は9月までに開始するが、Appleは発表イベントを10月または11月に開催する可能…\nThe post 14インチと16インチMacBook Pro、年内発売に向けて準備は順調の模様 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/136051",
+          "publishedOn": "2021-07-09T12:59:39.000Z",
+          "wordCount": 199,
+          "title": "14インチと16インチMacBook Pro、年内発売に向けて準備は順調の模様"
+        },
+        {
+          "id": "https://gori.me/?p=136049",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日M1 Macがお買い得！M1 Mac …\nThe post M1 Macがお買い得価格で！Mac整備済商品の最新情報（2021年7月9日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/136049",
+          "publishedOn": "2021-07-09T05:50:46.000Z",
+          "wordCount": 562,
+          "title": "M1 Macがお買い得価格で！Mac整備済商品の最新情報（2021年7月9日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=136047",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、Apple Wa…\nThe post 2.7万円で買えるSEの在庫が復活！Apple Watch整備済商品の最新情報（2021年7月9日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/136047",
+          "publishedOn": "2021-07-09T05:46:53.000Z",
+          "wordCount": 355,
+          "title": "2.7万円で買えるSEの在庫が復活！Apple Watch整備済商品の最新情報（2021年7月9日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=136045",
+          "author": "g.O.R.i",
+          "description": "2021年の新型iPad Proは、12.9インチモデルだけではなく11インチモデルもミニLEDディスプレイを搭載する可能性がある。Apple情報に詳しいアナリストMing-Chi Kuo氏が、投資家向けの最新レポートで明らかにした。M1チップを搭載したiPad Pro（2021）は12.9インチの…\nThe post 2022年の新型iPad Pro、11インチもミニLEDディスプレイ搭載か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipad/ipad-news/136045",
+          "publishedOn": "2021-07-09T05:35:09.000Z",
+          "wordCount": 201,
+          "title": "2022年の新型iPad Pro、11インチもミニLEDディスプレイ搭載か"
+        },
+        {
+          "id": "https://gori.me/?p=136044",
+          "author": "g.O.R.i",
+          "description": "ドコモは7月8日、ドローン向けに月額49,800円（税込）で上空におけるLTE通信を月間データ容量120GBまで利用できる新料金プラン「LTE上空利用プラン」を提供開始した。またプラン契約者がドローンを利用の際に、利用場所、日時、台数、高度などを事前に予約できる「LTE上空利用予約」もセットで提供す…\nThe post ドコモ、日本初のドローン向け新料金プラン「LTE上空利用プラン」の提供を開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mobile/smartphone/136044",
+          "publishedOn": "2021-07-09T04:07:14.000Z",
+          "wordCount": 155,
+          "title": "ドコモ、日本初のドローン向け新料金プラン「LTE上空利用プラン」の提供を開始"
+        },
+        {
+          "id": "https://gori.me/?p=136042",
+          "author": "g.O.R.i",
+          "description": "Amazonが、63時間のビッグセール「タイムセール祭り」を開催すると発表した。開催期間は、2021年7月16日（金）9時から7月18日（日）23時59分。 セール期間中はポイントアップキャンペーンも実施される。参加には事前エントリーが必要となるため、予め確認しておくことをおすすめする！ Amazo…\nThe post Amazon、「タイムセール祭り」を7月16日〜18日まで開催へ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/amazon/amazon-sale/136042",
+          "publishedOn": "2021-07-09T03:50:25.000Z",
+          "wordCount": 166,
+          "title": "Amazon、「タイムセール祭り」を7月16日〜18日まで開催へ"
+        },
+        {
+          "id": "https://gori.me/?p=136040",
+          "author": "g.O.R.i",
+          "description": "土屋鞄より 土屋鞄製造所が、スイカを持ち運ぶための専用カバン「スイカを運ぶ鞄」を発売する。土屋鞄の職人ならではの遊び心が詰まった企画「“運ぶ”を楽しむ」で、2020年の夏に紹介した「スイカ」を運ぶためのカバンが製品化された。7月9日より店頭で先行販売を行い、7月15日10時よりウェブで順次販売を開始…\nThe post スイカを持ち運ぶ専用の革製カバンが発売へ　価格は11万円 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/lifestyle/136040",
+          "publishedOn": "2021-07-09T01:52:27.000Z",
+          "wordCount": 151,
+          "title": "スイカを持ち運ぶ専用の革製カバンが発売へ　価格は11万円"
+        },
         {
           "id": "https://gori.me/?p=136036",
           "author": "g.O.R.i",
@@ -3214,96 +3331,6 @@
           "publishedOn": "2021-06-10T21:45:36.000Z",
           "wordCount": 333,
           "title": "僕のiPhoneライフが快適になりそうなiOS 15の新機能15選"
-        },
-        {
-          "id": "https://gori.me/?p=135453",
-          "author": "g.O.R.i",
-          "description": "Facebookは、2022年夏頃を目処に同社初となるスマートウォッチの発表を計画している。The Vergeによると、心拍センサーと着脱可能なカメラを搭載しており、Instagramへの投稿用に使用できるという。 スマートウォッチはLTE通信に対応し、単体動作を想定。OSはAndroidをカスタマ…\nThe post Facebook製スマートウォッチ、着脱可能なカメラ内蔵で2022年夏に発表か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/facebook/facebook-news/135453",
-          "publishedOn": "2021-06-10T11:09:46.000Z",
-          "wordCount": 164,
-          "title": "Facebook製スマートウォッチ、着脱可能なカメラ内蔵で2022年夏に発表か"
-        },
-        {
-          "id": "https://gori.me/?p=135447",
-          "author": "g.O.R.i",
-          "description": "Belkinが、iPhone 12シリーズにマグネットで張り付きワイヤレス充電できるモバイルバッテリー「BOOST↑CHARGE MagSafe対応 磁気ワイヤレスモバイルバッテリー 2500mAh」を6月25日に発売する。 MagSafeの充電規格には対応しないため、最大出力は5Wに留まる。容量は…\nThe post Belkin、MagSafe対応ワイヤレスモバイルバッテリーを6月25日に発売へ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone-accessories/battery/135447",
-          "publishedOn": "2021-06-10T11:06:53.000Z",
-          "wordCount": 172,
-          "title": "Belkin、MagSafe対応ワイヤレスモバイルバッテリーを6月25日に発売へ"
-        },
-        {
-          "id": "https://gori.me/?p=135450",
-          "author": "g.O.R.i",
-          "description": "Belkinが、MagSafe対応の磁気フィットネスマウント「MagSafe対応 磁気フィットネスマウント for iPhone12」を6月25日に発売する。iPhone 12を取り付ける部分の反対面にもマグネットが仕込まれた「デュアル磁気アタッチメント」とバンドを組み合わせれば、トレーニングマシン…\nThe post iPhone 12を磁石で貼り付けたり、巻きつけたりできる画期的アクセサリが登場 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone-accessories/iphone-prepherial/135450",
-          "publishedOn": "2021-06-10T07:09:07.000Z",
-          "wordCount": 174,
-          "title": "iPhone 12を磁石で貼り付けたり、巻きつけたりできる画期的アクセサリが登場"
-        },
-        {
-          "id": "https://gori.me/?p=135444",
-          "author": "g.O.R.i",
-          "description": "macOS Montereyの一部機能は、Intel Macでは利用できない。新機能の一覧ページで紹介されている機能のうち、利用にはM1チップが条件となっているものがある。 Intel Macで利用できない機能一覧 Intel Macで利用できない機能は以下のとおり。 FaceTimeビデオ利用時の…\nThe post macOS Montereyの一部機能、Intel Macでは利用不可 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/macosx/macosmonterey/135444",
-          "publishedOn": "2021-06-10T01:10:54.000Z",
-          "wordCount": 270,
-          "title": "macOS Montereyの一部機能、Intel Macでは利用不可"
-        },
-        {
-          "id": "https://gori.me/?p=135441",
-          "author": "g.O.R.i",
-          "description": "macOS Montereyは、iPhoneやiPadのコンテンツをMacに出力できる「AirPlay to Mac」が用意されている。MacRumorsによると、Mac同士でも利用できるため、Macを外部ディスプレイとして使用できるという。 ディスプレイの拡張にも対応、有線接続も可能 Macを外部…\nThe post macOS Monterey、Macを外部ディスプレイとして使用可能 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/macosx/macosmonterey/135441",
-          "publishedOn": "2021-06-10T00:29:49.000Z",
-          "wordCount": 212,
-          "title": "macOS Monterey、Macを外部ディスプレイとして使用可能"
-        },
-        {
-          "id": "https://gori.me/?p=135439",
-          "author": "g.O.R.i",
-          "description": "Appleは、ポッドキャスト配信者にメールを送付。Podcastアプリの有料定期購読サービス「Apple Podcastサブスクリプション」を6月15日にリリースすると明らかにした。 当初は5月より170カ国で提供開始する予定だったが、「クリエイターおよびリスナーにとって最高の体験の実現」を理由に延…\nThe post Apple Podcastのサブスク、6月15日にリリースへ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/apple-news/135439",
-          "publishedOn": "2021-06-09T23:29:38.000Z",
-          "wordCount": 173,
-          "title": "Apple Podcastのサブスク、6月15日にリリースへ"
-        },
-        {
-          "id": "https://gori.me/?p=135438",
-          "author": "g.O.R.i",
-          "description": "国内のApple Store全店舗が、6月16日より短縮営業を終了し通常営業を再開する。計画が変更されなければ、1月以来となる。 Apple銀座、丸の内、新宿、渋谷、表参道、川崎、心斎橋、京都の8店舗は6月15日まで、開店と閉店時間をそれぞれ1時間早めた11時から20時までの短縮営業を実施。Appl…\nThe post 国内のApple Store、6月16日から通常営業へ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/apple-news/135438",
-          "publishedOn": "2021-06-09T23:17:26.000Z",
-          "wordCount": 170,
-          "title": "国内のApple Store、6月16日から通常営業へ"
-        },
-        {
-          "id": "https://gori.me/?p=135430",
-          "author": "g.O.R.i",
-          "description": "Appleは、iOS 15とともにiCloudの新サービス「iCloud+」（アイクラウドプラス）を発表した。iCloud+は、プレミア機能が追加されたiCloudのサブスクリプションを意味しており、既存の契約者は今秋、自動的にアップグレードされる。 すべてのiCloud+プランは、同じファミリー共…\nThe post iCloud+とは？”VPNキラー”サービス、メルアド非公開機能など first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/apple-news/135430",
-          "publishedOn": "2021-06-09T21:45:03.000Z",
-          "wordCount": 209,
-          "title": "iCloud+とは？”VPNキラー”サービス、メルアド非公開機能など"
-        },
-        {
-          "id": "https://gori.me/?p=135435",
-          "author": "g.O.R.i",
-          "description": "Appleは、WWDC 2021の基調講演でM1Xチップを搭載したMacBook Proの発表を計画していた可能性がある。基調講演をライブ配信したYouTube動画には、「m1x MacBook Pro」および「m1x」のタグが付いていることが判明した。 OK OK OK Everyone stay…\nThe post M1X MacBook Pro、WWDC 2021で発表する計画があった可能性 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/macbookpro/135435",
-          "publishedOn": "2021-06-09T15:02:46.000Z",
-          "wordCount": 263,
-          "title": "M1X MacBook Pro、WWDC 2021で発表する計画があった可能性"
-        },
-        {
-          "id": "https://gori.me/?p=135432",
-          "author": "g.O.R.i",
-          "description": "新型MacBook Proの発売は、ミニLEDパネル不足が原因で遅れている可能性がある。Digitimesによると、Appleは当初2021年第2四半期（4〜6月）に生産を開始する計画だったが、第3四半期に延期を余儀なくされたという。 新型MacBook Proは、フラットなデザインの採用、SDカー…\nThe post 新型MacBook Pro、ミニLEDパネル不足が原因で発売を延期か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/macbookpro/135432",
-          "publishedOn": "2021-06-09T12:51:44.000Z",
-          "wordCount": 219,
-          "title": "新型MacBook Pro、ミニLEDパネル不足が原因で発売を延期か"
         }
       ]
     }

@@ -2,10 +2,249 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T00:19:44.703Z</updated>
+    <updated>2021-07-10T00:18:01.044Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[反応しないアプリを強制終了、Macを強制的に再起動する方法]]></title>
+        <id>https://gori.me/?p=79561</id>
+        <link href="https://gori.me/mac/mac-tips/79561"/>
+        <updated>2021-07-09T23:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Macで作業中、突然アプリがなぜか応答しなくなった経験は無いだろうか。他のアプリは問題なく使えるが、特定のアプリの上にマウスカーソルを合わせるとビーチボール（またの名を「虹色のクルクル」）が表示され、反応しない。 アプリケーションを終了すれば解決する場合もあるが、応答しない場合は強制終了、さらにはM…
+The post 反応しないアプリを強制終了、Macを強制的に再起動する方法 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、iPhone 12 Proの暗所撮影機能をアピールしたCMを公開]]></title>
+        <id>https://gori.me/?p=136063</id>
+        <link href="https://gori.me/apple/apple-tvcm/136063"/>
+        <updated>2021-07-09T21:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Appleは7月10日、公式YouTubeチャンネルを更新。iPhone 12 Proの暗所撮影機能をアピールしたCM「In The Dark」を公開した。 iPhone 12シリーズの内向きカメラは、f2.2のレンズで1,200万画素。スマートHDR 3、Deep Fusionに加え、ナイトモード…
+The post Apple、iPhone 12 Proの暗所撮影機能をアピールしたCMを公開 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watchを使ってiPhone 12を探す機能をアピールしたCMを公開]]></title>
+        <id>https://gori.me/?p=136060</id>
+        <link href="https://gori.me/apple/apple-tvcm/136060"/>
+        <updated>2021-07-09T21:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Appleが7月9日、Apple Watchを使ってiPhone 12を探し出す連係機能をアピールするCM「Haystack」を公開した。 英語では、「干し草の山の中にある1本の針を探す（＝探すことが極めて困難なもの）」を意味する「needle in a haystack」のイディオムがある。「Ha…
+The post Apple Watchを使ってiPhone 12を探す機能をアピールしたCMを公開 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watchを使ってiPhoneを探す方法（音を鳴らす、LEDフラッシュを点灯させる）]]></title>
+        <id>https://gori.me/?p=136059</id>
+        <link href="https://gori.me/apple-watch/watch-tips/136059"/>
+        <updated>2021-07-09T21:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Apple Watchがあれば、自分のiPhoneを紛失しても一定の範囲内であれば、音を鳴らして場所を特定できる。音だけでは探しづらい場合は、iPhoneのLEDフラッシュを点滅させることもできる。 本記事では、Apple WatchからiPhoneを探し出す方法を解説する。 コントロールセンターか…
+The post Apple Watchを使ってiPhoneを探す方法（音を鳴らす、LEDフラッシュを点灯させる） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 React Libraries Every Project Should Use in 2021]]></title>
+        <id>60e8864de8ee9b08300ecc3f</id>
+        <link href="https://www.freecodecamp.org/news/5-react-libraries-every-project-needs/"/>
+        <updated>2021-07-09T20:06:31.000Z</updated>
+        <summary type="html"><![CDATA[There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:focus-visible in WebKit]]></title>
+        <id>https://css-tricks.com/?p=344334</id>
+        <link href="https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/"/>
+        <updated>2021-07-09T18:53:51.000Z</updated>
+        <summary type="html"><![CDATA[This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …
+The post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What&#x27;s New in React 18? Concurrency, Batching, the Transition API and More]]></title>
+        <id>60e81c50134ad707be00f79f</id>
+        <link href="https://www.freecodecamp.org/news/whats-new-in-react-18/"/>
+        <updated>2021-07-09T18:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! In this article, I'm going to show you what's new in the latest of version of React – React 18 – in under 8 minutes.  First, you might be wondering whether the latest set of changes will break anything with your current setup, or whether you will have to learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automatically Generate C# Code Snippets in Visual Studio]]></title>
+        <id>60dcb93727f80207bcdbc17e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automatically-generate-code-snippets-visual-studio/"/>
+        <updated>2021-07-09T18:28:18.000Z</updated>
+        <summary type="html"><![CDATA[When you use code snippets in Visual Studio, it can make your coding process a lot easier and faster. But what are code snippets? And how can you use them? In this article, we'll look at how you can create code snippets in C#. Just keep in mind that snippets]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[760+ Free Online Programming &amp; Computer Science Courses You Can Start This July]]></title>
+        <id>5f9c986d740569d1a4ca1a04</id>
+        <link href="https://www.freecodecamp.org/news/free-online-programming-cs-courses/"/>
+        <updated>2021-07-09T18:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 760+ such free online courses that you can start this month.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a NoSQL Database with RavenDB]]></title>
+        <id>60ae6b0d11ffb70827ef7fe6</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/"/>
+        <updated>2021-07-09T15:06:24.000Z</updated>
+        <summary type="html"><![CDATA[If you look at any website or application today, somewhere under the hood there is a database. After all, we live in the world of Big Data. And the volume of data is growing exponentially.  With so much data at hand, we need ever more sophisticated ways to store it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Favicons in Action]]></title>
+        <id>https://css-tricks.com/?p=343598</id>
+        <link href="https://css-tricks.com/svg-favicons-in-action/"/>
+        <updated>2021-07-09T14:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?
+The task is more non-trivial than you might think. As we will see in this …
+The post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Philippe Bernard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kindleストア、講談社の「夏☆電書2021」セールを開催中]]></title>
+        <id>https://gori.me/?p=136053</id>
+        <link href="https://gori.me/sale/kindle-sale/136053"/>
+        <updated>2021-07-09T13:36:38.000Z</updated>
+        <summary type="html"><![CDATA[Kindleストアが、対象作品がお買い得価格で購入できる「夏☆電書2021」を開催中だ。様々なジャンルでセール対象作品をまとめた「フェア」が多数用意されている。 「ブルーバックス人気ベスト200」は講談社ブルーバックスの人気書籍ベスト200を集めたセール。『新型コロナ　７つの謎　最新免疫学からわかっ…
+The post Kindleストア、講談社の「夏☆電書2021」セールを開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14インチと16インチMacBook Pro、年内発売に向けて準備は順調の模様]]></title>
+        <id>https://gori.me/?p=136051</id>
+        <link href="https://gori.me/macbookpro/136051"/>
+        <updated>2021-07-09T12:59:39.000Z</updated>
+        <summary type="html"><![CDATA[新しい14インチと16インチのMacBook Proは、予定どおり2021年第3四半期（7〜9月）に量産開始される可能性がある。Apple情報に詳しいMing-Chi Kuo氏によると、新型MacBook Proの量産は9月までに開始するが、Appleは発表イベントを10月または11月に開催する可能…
+The post 14インチと16インチMacBook Pro、年内発売に向けて準備は順調の模様 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making A Strong Case For Accessibility]]></title>
+        <id>https://smashingmagazine.com/2021/07/strong-case-for-accessibility/</id>
+        <link href="https://smashingmagazine.com/2021/07/strong-case-for-accessibility/"/>
+        <updated>2021-07-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Todd Libby)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1 Macがお買い得価格で！Mac整備済商品の最新情報（2021年7月9日更新）]]></title>
+        <id>https://gori.me/?p=136049</id>
+        <link href="https://gori.me/sale/apple-refurbished/136049"/>
+        <updated>2021-07-09T05:50:46.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日M1 Macがお買い得！M1 Mac …
+The post M1 Macがお買い得価格で！Mac整備済商品の最新情報（2021年7月9日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2.7万円で買えるSEの在庫が復活！Apple Watch整備済商品の最新情報（2021年7月9日更新）]]></title>
+        <id>https://gori.me/?p=136047</id>
+        <link href="https://gori.me/sale/apple-refurbished/136047"/>
+        <updated>2021-07-09T05:46:53.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、Apple Wa…
+The post 2.7万円で買えるSEの在庫が復活！Apple Watch整備済商品の最新情報（2021年7月9日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年の新型iPad Pro、11インチもミニLEDディスプレイ搭載か]]></title>
+        <id>https://gori.me/?p=136045</id>
+        <link href="https://gori.me/ipad/ipad-news/136045"/>
+        <updated>2021-07-09T05:35:09.000Z</updated>
+        <summary type="html"><![CDATA[2021年の新型iPad Proは、12.9インチモデルだけではなく11インチモデルもミニLEDディスプレイを搭載する可能性がある。Apple情報に詳しいアナリストMing-Chi Kuo氏が、投資家向けの最新レポートで明らかにした。M1チップを搭載したiPad Pro（2021）は12.9インチの…
+The post 2022年の新型iPad Pro、11インチもミニLEDディスプレイ搭載か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモ、日本初のドローン向け新料金プラン「LTE上空利用プラン」の提供を開始]]></title>
+        <id>https://gori.me/?p=136044</id>
+        <link href="https://gori.me/mobile/smartphone/136044"/>
+        <updated>2021-07-09T04:07:14.000Z</updated>
+        <summary type="html"><![CDATA[ドコモは7月8日、ドローン向けに月額49,800円（税込）で上空におけるLTE通信を月間データ容量120GBまで利用できる新料金プラン「LTE上空利用プラン」を提供開始した。またプラン契約者がドローンを利用の際に、利用場所、日時、台数、高度などを事前に予約できる「LTE上空利用予約」もセットで提供す…
+The post ドコモ、日本初のドローン向け新料金プラン「LTE上空利用プラン」の提供を開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon、「タイムセール祭り」を7月16日〜18日まで開催へ]]></title>
+        <id>https://gori.me/?p=136042</id>
+        <link href="https://gori.me/amazon/amazon-sale/136042"/>
+        <updated>2021-07-09T03:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが、63時間のビッグセール「タイムセール祭り」を開催すると発表した。開催期間は、2021年7月16日（金）9時から7月18日（日）23時59分。 セール期間中はポイントアップキャンペーンも実施される。参加には事前エントリーが必要となるため、予め確認しておくことをおすすめする！ Amazo…
+The post Amazon、「タイムセール祭り」を7月16日〜18日まで開催へ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スイカを持ち運ぶ専用の革製カバンが発売へ　価格は11万円]]></title>
+        <id>https://gori.me/?p=136040</id>
+        <link href="https://gori.me/lifestyle/136040"/>
+        <updated>2021-07-09T01:52:27.000Z</updated>
+        <summary type="html"><![CDATA[土屋鞄より 土屋鞄製造所が、スイカを持ち運ぶための専用カバン「スイカを運ぶ鞄」を発売する。土屋鞄の職人ならではの遊び心が詰まった企画「“運ぶ”を楽しむ」で、2020年の夏に紹介した「スイカ」を運ぶためのカバンが製品化された。7月9日より店頭で先行販売を行い、7月15日10時よりウェブで順次販売を開始…
+The post スイカを持ち運ぶ専用の革製カバンが発売へ　価格は11万円 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HomePod、突然”文鎮化”する不具合が一部で発生か]]></title>
         <id>https://gori.me/?p=136036</id>
@@ -3965,213 +4204,6 @@ The post Building a Headless CMS with Fauna and Vercel Functions appeared first 
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Ikeh Akinyemi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
-        <id>60b93afaacb62507dd1d8915</id>
-        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
-        <updated>2021-06-10T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
-        <id>https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
-        <link href="https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/"/>
-        <updated>2021-06-10T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stefan Judis)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook製スマートウォッチ、着脱可能なカメラ内蔵で2022年夏に発表か]]></title>
-        <id>https://gori.me/?p=135453</id>
-        <link href="https://gori.me/facebook/facebook-news/135453"/>
-        <updated>2021-06-10T11:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Facebookは、2022年夏頃を目処に同社初となるスマートウォッチの発表を計画している。The Vergeによると、心拍センサーと着脱可能なカメラを搭載しており、Instagramへの投稿用に使用できるという。 スマートウォッチはLTE通信に対応し、単体動作を想定。OSはAndroidをカスタマ…
-The post Facebook製スマートウォッチ、着脱可能なカメラ内蔵で2022年夏に発表か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belkin、MagSafe対応ワイヤレスモバイルバッテリーを6月25日に発売へ]]></title>
-        <id>https://gori.me/?p=135447</id>
-        <link href="https://gori.me/iphone-accessories/battery/135447"/>
-        <updated>2021-06-10T11:06:53.000Z</updated>
-        <summary type="html"><![CDATA[Belkinが、iPhone 12シリーズにマグネットで張り付きワイヤレス充電できるモバイルバッテリー「BOOST↑CHARGE MagSafe対応 磁気ワイヤレスモバイルバッテリー 2500mAh」を6月25日に発売する。 MagSafeの充電規格には対応しないため、最大出力は5Wに留まる。容量は…
-The post Belkin、MagSafe対応ワイヤレスモバイルバッテリーを6月25日に発売へ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 12を磁石で貼り付けたり、巻きつけたりできる画期的アクセサリが登場]]></title>
-        <id>https://gori.me/?p=135450</id>
-        <link href="https://gori.me/iphone-accessories/iphone-prepherial/135450"/>
-        <updated>2021-06-10T07:09:07.000Z</updated>
-        <summary type="html"><![CDATA[Belkinが、MagSafe対応の磁気フィットネスマウント「MagSafe対応 磁気フィットネスマウント for iPhone12」を6月25日に発売する。iPhone 12を取り付ける部分の反対面にもマグネットが仕込まれた「デュアル磁気アタッチメント」とバンドを組み合わせれば、トレーニングマシン…
-The post iPhone 12を磁石で貼り付けたり、巻きつけたりできる画期的アクセサリが登場 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Montereyの一部機能、Intel Macでは利用不可]]></title>
-        <id>https://gori.me/?p=135444</id>
-        <link href="https://gori.me/macosx/macosmonterey/135444"/>
-        <updated>2021-06-10T01:10:54.000Z</updated>
-        <summary type="html"><![CDATA[macOS Montereyの一部機能は、Intel Macでは利用できない。新機能の一覧ページで紹介されている機能のうち、利用にはM1チップが条件となっているものがある。 Intel Macで利用できない機能一覧 Intel Macで利用できない機能は以下のとおり。 FaceTimeビデオ利用時の…
-The post macOS Montereyの一部機能、Intel Macでは利用不可 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Monterey、Macを外部ディスプレイとして使用可能]]></title>
-        <id>https://gori.me/?p=135441</id>
-        <link href="https://gori.me/macosx/macosmonterey/135441"/>
-        <updated>2021-06-10T00:29:49.000Z</updated>
-        <summary type="html"><![CDATA[macOS Montereyは、iPhoneやiPadのコンテンツをMacに出力できる「AirPlay to Mac」が用意されている。MacRumorsによると、Mac同士でも利用できるため、Macを外部ディスプレイとして使用できるという。 ディスプレイの拡張にも対応、有線接続も可能 Macを外部…
-The post macOS Monterey、Macを外部ディスプレイとして使用可能 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Podcastのサブスク、6月15日にリリースへ]]></title>
-        <id>https://gori.me/?p=135439</id>
-        <link href="https://gori.me/apple/apple-news/135439"/>
-        <updated>2021-06-09T23:29:38.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、ポッドキャスト配信者にメールを送付。Podcastアプリの有料定期購読サービス「Apple Podcastサブスクリプション」を6月15日にリリースすると明らかにした。 当初は5月より170カ国で提供開始する予定だったが、「クリエイターおよびリスナーにとって最高の体験の実現」を理由に延…
-The post Apple Podcastのサブスク、6月15日にリリースへ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国内のApple Store、6月16日から通常営業へ]]></title>
-        <id>https://gori.me/?p=135438</id>
-        <link href="https://gori.me/apple/apple-news/135438"/>
-        <updated>2021-06-09T23:17:26.000Z</updated>
-        <summary type="html"><![CDATA[国内のApple Store全店舗が、6月16日より短縮営業を終了し通常営業を再開する。計画が変更されなければ、1月以来となる。 Apple銀座、丸の内、新宿、渋谷、表参道、川崎、心斎橋、京都の8店舗は6月15日まで、開店と閉店時間をそれぞれ1時間早めた11時から20時までの短縮営業を実施。Appl…
-The post 国内のApple Store、6月16日から通常営業へ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
-        <id>60b357ad11ffb70827ef9a90</id>
-        <link href="https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/"/>
-        <updated>2021-06-09T21:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iCloud+とは？”VPNキラー”サービス、メルアド非公開機能など]]></title>
-        <id>https://gori.me/?p=135430</id>
-        <link href="https://gori.me/apple/apple-news/135430"/>
-        <updated>2021-06-09T21:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、iOS 15とともにiCloudの新サービス「iCloud+」（アイクラウドプラス）を発表した。iCloud+は、プレミア機能が追加されたiCloudのサブスクリプションを意味しており、既存の契約者は今秋、自動的にアップグレードされる。 すべてのiCloud+プランは、同じファミリー共…
-The post iCloud+とは？”VPNキラー”サービス、メルアド非公開機能など first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
-        <id>https://css-tricks.com/?p=340967</id>
-        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
-        <updated>2021-06-09T20:37:00.000Z</updated>
-        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
-The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Skills You Need to Start Freelancing as a Developer]]></title>
-        <id>60c0ccbed3126007592d5781</id>
-        <link href="https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/"/>
-        <updated>2021-06-09T19:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Bootstrap 5 and SASS by Building a Portfolio Website]]></title>
-        <id>60c10a1dd3126007592d5988</id>
-        <link href="https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/"/>
-        <updated>2021-06-09T18:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1X MacBook Pro、WWDC 2021で発表する計画があった可能性]]></title>
-        <id>https://gori.me/?p=135435</id>
-        <link href="https://gori.me/macbookpro/135435"/>
-        <updated>2021-06-09T15:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、WWDC 2021の基調講演でM1Xチップを搭載したMacBook Proの発表を計画していた可能性がある。基調講演をライブ配信したYouTube動画には、「m1x MacBook Pro」および「m1x」のタグが付いていることが判明した。 OK OK OK Everyone stay…
-The post M1X MacBook Pro、WWDC 2021で発表する計画があった可能性 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[target=blank]]></title>
-        <id>https://css-tricks.com/?p=341916</id>
-        <link href="https://css-tricks.com/targetblank/"/>
-        <updated>2021-06-09T14:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
-<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
-</a
-Welp, that’s correct syntax!…
-The post target=blank appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型MacBook Pro、ミニLEDパネル不足が原因で発売を延期か]]></title>
-        <id>https://gori.me/?p=135432</id>
-        <link href="https://gori.me/macbookpro/135432"/>
-        <updated>2021-06-09T12:51:44.000Z</updated>
-        <summary type="html"><![CDATA[新型MacBook Proの発売は、ミニLEDパネル不足が原因で遅れている可能性がある。Digitimesによると、Appleは当初2021年第2四半期（4〜6月）に生産を開始する計画だったが、第3四半期に延期を余儀なくされたという。 新型MacBook Proは、フラットなデザインの採用、SDカー…
-The post 新型MacBook Pro、ミニLEDパネル不足が原因で発売を延期か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
         </author>
     </entry>
 </feed>
