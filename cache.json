@@ -497,33 +497,6 @@
           "publishedOn": "2021-06-14T13:30:27.000Z",
           "wordCount": 3232,
           "title": "Securing Your Website With Subresource Integrity"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342429",
-          "author": "Chris Coyier",
-          "description": "There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:\nPerhaps the most noticeable thing there …\nThe post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/",
-          "publishedOn": "2021-06-11T21:38:48.000Z",
-          "wordCount": 689,
-          "title": "Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342237",
-          "author": "Chris Coyier",
-          "description": "That’s the one word that isn’t an adjective in the acronym RSS. \nReally Simple Syndication.\nRSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …\nThe post The Possibilities of Syndication appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-possibilities-of-syndication/",
-          "publishedOn": "2021-06-11T21:25:56.000Z",
-          "wordCount": 614,
-          "title": "The Possibilities of Syndication"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342164",
-          "author": "Joel Olawanle",
-          "description": "Why would we need to apply shadows to SVG?\nShadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) \n…\nThe post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/",
-          "publishedOn": "2021-06-11T14:30:29.000Z",
-          "wordCount": 2432,
-          "title": "Adding Shadows to SVG Icons With CSS and SVG Filters"
         }
       ]
     },
@@ -892,20 +865,6 @@
           "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
-          "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
-          "publishedOn": "2021-06-11T15:00:00.000Z",
-          "wordCount": 1595,
-          "title": "Web Design Done Well: Making Use Of Audio",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -1591,51 +1550,6 @@
           "publishedOn": "2021-06-14T18:37:44.000Z",
           "wordCount": 1599,
           "title": "10 Best African Language Datasets for Data Science Projects"
-        },
-        {
-          "id": "60b72d5facb62507dd1d777b",
-          "author": null,
-          "description": "If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,",
-          "link": "https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/",
-          "publishedOn": "2021-06-11T22:56:56.000Z",
-          "wordCount": 1569,
-          "title": "What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business"
-        },
-        {
-          "id": "6063b9189618b008528a9d81",
-          "author": null,
-          "description": "Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How",
-          "link": "https://www.freecodecamp.org/news/how-to-center-objects-using-css/",
-          "publishedOn": "2021-06-11T20:40:17.000Z",
-          "wordCount": 1427,
-          "title": "How to Center Anything in CSS Using Flexbox and Grid ✨"
-        },
-        {
-          "id": "5f9c97e9740569d1a4ca1768",
-          "author": null,
-          "description": "How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.",
-          "link": "https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/",
-          "publishedOn": "2021-06-11T19:10:00.000Z",
-          "wordCount": 2180,
-          "title": "How to Design Keyboard Accessibility for Complex React Experiences"
-        },
-        {
-          "id": "60bc0444acb62507dd1d9a31",
-          "author": null,
-          "description": "Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these",
-          "link": "https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/",
-          "publishedOn": "2021-06-11T17:39:28.000Z",
-          "wordCount": 2143,
-          "title": "How to Ask Good Technical Questions – the Ultimate Guide"
-        },
-        {
-          "id": "60c24cf8d3126007592d61d5",
-          "author": null,
-          "description": "Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go",
-          "link": "https://www.freecodecamp.org/news/learn-react-conditionals/",
-          "publishedOn": "2021-06-11T16:04:46.000Z",
-          "wordCount": 1323,
-          "title": "How to Level Up Your React Conditionals"
         }
       ]
     },
@@ -1644,6 +1558,60 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=136107",
+          "author": "g.O.R.i",
+          "description": "Appleは、Apple WatchにTouch IDを内蔵する可能性は低い。Appleに詳しいBloombergの名物記者Mark Gurman氏が公開した最新のニュースレターによると、「Touch IDがApple Watchに搭載されるメリットはある」と認めつつも「直近で実現しない」と指摘して…\nThe post Apple WatchのTouch ID内蔵、実現可能性は低いーー著名記者が指摘 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple-watch/watch-news/136107",
+          "publishedOn": "2021-07-12T00:04:03.000Z",
+          "wordCount": 245,
+          "title": "Apple WatchのTouch ID内蔵、実現可能性は低いーー著名記者が指摘"
+        },
+        {
+          "id": "https://gori.me/?p=136105",
+          "author": "g.O.R.i",
+          "description": "14インチと16インチの新型MacBook Pro（2021）に復活すると噂されるSDカードスロットは、UHS-IIをサポートする可能性がある。YouTuberのLuke Miani氏が、AppleTrackを通じて明らかにした。 UHS-II対応SDカードスロットの恩恵を受けるには、対応するSDカ…\nThe post 新型MacBook Proに復活のSDカードスロット、UHS-IIをサポートか first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/136105",
+          "publishedOn": "2021-07-11T23:26:04.000Z",
+          "wordCount": 200,
+          "title": "新型MacBook Proに復活のSDカードスロット、UHS-IIをサポートか"
+        },
+        {
+          "id": "https://gori.me/?p=136103",
+          "author": "g.O.R.i",
+          "description": "気になるApple Watchのバンドを片っ端から購入し続けた結果、バンドの整理が追いつかなくなってきた。これまではTHE POWER PACKERに交換用バンドとApple Watch本体を無理やり収納していたが、ROOXの「ウォッチバンド ストレージ」を導入したことで整理整頓できた。 メーカーよ…\nThe post 【レビュー】ウォッチバンド ストレージ：Apple Watchバンドが20本収納できるケース first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/bag/136103",
+          "publishedOn": "2021-07-11T21:45:36.000Z",
+          "wordCount": 209,
+          "title": "【レビュー】ウォッチバンド ストレージ：Apple Watchバンドが20本収納できるケース"
+        },
+        {
+          "id": "https://gori.me/?p=136104",
+          "author": "g.O.R.i",
+          "description": "Appleは、新型iPad mini（iPad mini 6）を今秋に発表する可能性が高い。Appleに詳しいBloombergの名物記者Mark Gurman氏が公開した最新のニュースレターによると、iPad Airの現行モデルと似たデザインを採用し、最新のプロセッサを搭載するという。新しいデザイ…\nThe post デザイン刷新の新型iPad miniは今秋登場、大型iMacは開発中か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/imac/136104",
+          "publishedOn": "2021-07-11T15:17:42.000Z",
+          "wordCount": 223,
+          "title": "デザイン刷新の新型iPad miniは今秋登場、大型iMacは開発中か"
+        },
+        {
+          "id": "https://gori.me/?p=136090",
+          "author": "g.O.R.i",
+          "description": "14インチと16インチの新型MacBook Pro（2021）は、FaceTimeカメラがフルHD（1080p）にアップグレードされる可能性がある。M1 iMac、M1 iPad Proの仕様を正確に予測した実績を持つ、iOSデベロッパーのDylan氏によると、新型MacBook Proを筆頭にすべ…\nThe post 新型MacBook Pro、フルHDカメラ搭載で画質が改良か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/136090",
+          "publishedOn": "2021-07-11T13:15:26.000Z",
+          "wordCount": 234,
+          "title": "新型MacBook Pro、フルHDカメラ搭載で画質が改良か"
+        },
+        {
+          "id": "https://gori.me/?p=136088",
+          "author": "g.O.R.i",
+          "description": "『EXCLUSIVE final MacBook Pro renders and rumors! This is EVERYTHING』よりキャプチャ 14インチと16インチの新型MacBook Pro（2021）は、Touch ID/電源ボタンにバックライトが搭載される可能性がある。YouTube…\nThe post 新型MacBook Pro、Touch ID/電源ボタンはバックライト付きか first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/136088",
+          "publishedOn": "2021-07-11T00:28:18.000Z",
+          "wordCount": 196,
+          "title": "新型MacBook Pro、Touch ID/電源ボタンはバックライト付きか"
+        },
         {
           "id": "https://gori.me/?p=136071",
           "author": "g.O.R.i",
@@ -3227,33 +3195,6 @@
           "publishedOn": "2021-06-12T21:30:14.000Z",
           "wordCount": 289,
           "title": "プロセス名「oahd-helper」とは何か"
-        },
-        {
-          "id": "https://gori.me/?p=135481",
-          "author": "g.O.R.i",
-          "description": "Appleは、Beatsの新しい完全ワイヤレスイヤホン「Beats Studio Buds」を現地時間7月21日に発表する可能性がある。Appleのリーク情報を発信しているJon Prosser氏によると、プレスリリースを通じて発表されるという。 Jon Prosser氏の情報が正しければ、正式発表…\nThe post Beats Studio Buds、7月21日に発表か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/music-accessories/earphones/135481",
-          "publishedOn": "2021-06-12T00:01:06.000Z",
-          "wordCount": 183,
-          "title": "Beats Studio Buds、7月21日に発表か"
-        },
-        {
-          "id": "https://gori.me/?p=135480",
-          "author": "g.O.R.i",
-          "description": "新型iPad mini（iPad mini 6）は、2020年に発売されたiPad Air（第4世代）を小型化したようなデザインになる可能性がある。 Appleのリーク情報を発信しているJon Prosser氏が6月12日、FrontPageTech.comを更新。実機のCADファイルをもとに作成し…\nThe post iPad mini 6のレンダリング画像が公開　”小型化したiPad Air”か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ipad/ipadmini/135480",
-          "publishedOn": "2021-06-11T23:46:07.000Z",
-          "wordCount": 262,
-          "title": "iPad mini 6のレンダリング画像が公開　”小型化したiPad Air”か"
-        },
-        {
-          "id": "https://gori.me/?p=135473",
-          "author": "g.O.R.i",
-          "description": "iPadOS 15の発表を見て、落胆した人も多いだろう。手書き文字をテキスト化してくれる「Scribble」が日本語をサポートしたこと、iPadOS 14と変わらないデバイスのサポートは良い。しかしクイックメモは機能としては面白いが革新的ではなく、ウィジェットの自由配置とAppライブラリはiPhon…\nThe post iPadOS 15への落胆と、失われたM1 iPad Proの存在意義 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ipad/ipadpro/135473",
-          "publishedOn": "2021-06-11T21:45:25.000Z",
-          "wordCount": 224,
-          "title": "iPadOS 15への落胆と、失われたM1 iPad Proの存在意義"
         }
       ]
     }
