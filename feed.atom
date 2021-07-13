@@ -2,10 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T00:17:30.501Z</updated>
+    <updated>2021-07-13T00:17:16.908Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【レビュー】Anker Nano II 45W/65W：AppleシリコンMacの時代に最適なUSB充電器]]></title>
+        <id>https://gori.me/?p=136114</id>
+        <link href="https://gori.me/mac-accessories/mac-usbc/136114"/>
+        <updated>2021-07-12T21:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Ankerが、独自技術「Anker GaN ll」を採用した最新のUSB-C充電器シリーズとして、Anker Nano II 45Wを皮切りにAnker Nano II 30Wを発売。今月末にはAnker Nano II 65Wが販売開始する予定だ。 【関連】【レビュー】Anker Nano II …
+The post 【レビュー】Anker Nano II 45W/65W：AppleシリコンMacの時代に最適なUSB充電器 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet `:has`, A Native CSS Parent Selector]]></title>
+        <id>https://css-tricks.com/?p=344355</id>
+        <link href="https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
+        <updated>2021-07-12T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …
+The post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the Specificity of :where() as a CSS Reset]]></title>
+        <id>https://css-tricks.com/?p=343613</id>
+        <link href="https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/"/>
+        <updated>2021-07-12T14:30:34.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about you, but I write these three declarations many times in my CSS:
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+You might yell at me and say I can just put those in my CSS …
+The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use SPSS to Explore and Analyze Data]]></title>
+        <id>60e753aa134ad707be00f2c1</id>
+        <link href="https://www.freecodecamp.org/news/spss-full-course/"/>
+        <updated>2021-07-12T13:34:03.000Z</updated>
+        <summary type="html"><![CDATA[SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refactoring CSS: Introduction (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</id>
+        <link href="https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/"/>
+        <updated>2021-07-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?]]></title>
+        <id>60e981aae8ee9b08300ed1ae</id>
+        <link href="https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/"/>
+        <updated>2021-07-12T11:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac miniはCore i3よりM1のほうが安い！Mac整備済商品の最新情報（2021年7月12日更新）]]></title>
+        <id>https://gori.me/?p=136116</id>
+        <link href="https://gori.me/sale/apple-refurbished/136116"/>
+        <updated>2021-07-12T11:42:55.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は引き続きM1 Macが多数復活。In…
+The post Mac miniはCore i3よりM1のほうが安い！Mac整備済商品の最新情報（2021年7月12日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets]]></title>
+        <id>60e76d88134ad707be00f347</id>
+        <link href="https://www.freecodecamp.org/news/google-bigquery-beginners-guide/"/>
+        <updated>2021-07-12T11:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビジネス実用書2,000冊以上が最大70％オフ！Kindleストアでセール開催中]]></title>
+        <id>https://gori.me/?p=136111</id>
+        <link href="https://gori.me/sale/kindle-sale/136111"/>
+        <updated>2021-07-12T05:27:50.000Z</updated>
+        <summary type="html"><![CDATA[Kindleストアが、対象作品2,000点以上が最大70％オフで購入できる「夏のビジネス実用書フェア」を開催している。セールは7月29日まで。 対象作品には、『世界一やさしい「やりたいこと」の見つけ方　人生のモヤモヤから解放される自己理解メソッド』、『４０歳からは食べてはいけない　病気になる食べもの…
+The post ビジネス実用書2,000冊以上が最大70％オフ！Kindleストアでセール開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINE Pay、PayPay加盟店での支払いに対応へ　8月17日から]]></title>
+        <id>https://gori.me/?p=136113</id>
+        <link href="https://gori.me/cashless/136113"/>
+        <updated>2021-07-12T05:26:00.000Z</updated>
+        <summary type="html"><![CDATA[LINE Payが、対象のPayPay加盟店での支払いが8月17日より可能になると発表した。PayPay加盟店のうち、ユーザースキャン方式（MPM）の加盟店で利用可能。店舗のQRコードを読み取り、金額を入力するだけで支払いが完了する。 利用には、LINEアプリVer11.5.0以上またはLINE P…
+The post LINE Pay、PayPay加盟店での支払いに対応へ　8月17日から first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13、LiDARセンサーの全機種搭載が検討されていた？]]></title>
+        <id>https://gori.me/?p=136109</id>
+        <link href="https://gori.me/iphone/iphone-news/136109"/>
+        <updated>2021-07-12T00:30:35.000Z</updated>
+        <summary type="html"><![CDATA[2021年の新型iPhone（iPhone 13）は、「iPhone 13 Pro」と「iPhone 13 Pro Max」のみがLiDARセンサーを搭載する可能性が高い。M1 iMac、M1 iPad Proの仕様を正確に予測した実績を持つ、iOSデベロッパーのDylan氏によると、一時期は全機種…
+The post iPhone 13、LiDARセンサーの全機種搭載が検討されていた？ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple WatchのTouch ID内蔵、実現可能性は低いーー著名記者が指摘]]></title>
         <id>https://gori.me/?p=136107</id>
@@ -4000,45 +4133,6 @@ The post 米国内のApple Store、ワクチン接種完了者はマスク不要
         <updated>2021-06-13T21:45:29.000Z</updated>
         <summary type="html"><![CDATA[僕は毎朝、決まった朝食を取っている。玄米餅にきな粉とシナモンをまぶし、アガベシロップで甘みを足した「”八ツ橋風”玄米餅」だ。旅行や美味しいパンなどを仕入れたとき以外は食べているため、おそらく年間340日程度は食べているだろう。 なぜ「”八ツ橋風”玄米餅」を食べるようになったのか 八ツ橋愛 僕は甘党。…
 The post 年間340日食べている僕の朝食ができるまで（玄米餅＋きな粉＋シナモン＋アガベシロップ） first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初代HomePod、販売終了から3カ月経っても「在庫あり」]]></title>
-        <id>https://gori.me/?p=135493</id>
-        <link href="https://gori.me/music-accessories/speakers/homepod/135493"/>
-        <updated>2021-06-13T00:01:22.000Z</updated>
-        <summary type="html"><![CDATA[Appleは今年3月、初代HomePodを在庫限りで販売終了すると発表した。今後はHomePod miniの開発に注力計画だが、3カ月経った今でも在庫が残っている。Apple公式サイトでは「在庫あり」と表示されており、Apple表参道であれば当日受け取り可能だ。 在庫が減らない理由は、需要の低さと同…
-The post 初代HomePod、販売終了から3カ月経っても「在庫あり」 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、リトルマーメイドのパロディでiPad Proをアピール]]></title>
-        <id>https://gori.me/?p=135488</id>
-        <link href="https://gori.me/apple/apple-tvcm/135488"/>
-        <updated>2021-06-12T23:12:45.000Z</updated>
-        <summary type="html"><![CDATA[Appleが6月13日、iPad Proの”自由”をアピールするプロモーション動画「Your next computer is not a computer」を公開。ディズニー作品「リトルマーメイド」から「パート・オブ・ユア・ワールド」のパロディとなっている。 「パート・オブ・ユア・ワールド」は、人…
-The post Apple、リトルマーメイドのパロディでiPad Proをアピール first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プロセス名「oahd-helper」とは何か]]></title>
-        <id>https://gori.me/?p=135485</id>
-        <link href="https://gori.me/macosx/macos-tips/135485"/>
-        <updated>2021-06-12T21:30:14.000Z</updated>
-        <summary type="html"><![CDATA[M1 MacBook Proを使用していると、極稀にマシーン全体の動作が突然重くなることがある。アクティビティモニタには「oahd-helper」というプロセスのCPU使用率が高くなっていた。確認時の使用メモリは2.46GBだった。 Redditによると、「oahd-helper」はRosetta …
-The post プロセス名「oahd-helper」とは何か first appeared on ゴリミー.
 
  【もっと読む】]]></summary>
         <author>

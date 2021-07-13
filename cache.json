@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344355",
+          "author": "Chris Coyier",
+          "description": "The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …\nThe post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "publishedOn": "2021-07-12T19:45:00.000Z",
+          "wordCount": 2796,
+          "title": "Meet `:has`, A Native CSS Parent Selector"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343613",
+          "author": "Mojtaba Seyedi",
+          "description": "I don’t know about you, but I write these three declarations many times in my CSS:\nul {\n  padding: 0;\n  margin: 0;\n  list-style-type: none;\n}\nYou might yell at me and say I can just put those in my CSS …\nThe post Using the Specificity of :where() as a CSS Reset appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/",
+          "publishedOn": "2021-07-12T14:30:34.000Z",
+          "wordCount": 855,
+          "title": "Using the Specificity of :where() as a CSS Reset"
+        },
+        {
           "id": "https://css-tricks.com/?p=344334",
           "author": "Chris Coyier",
           "description": "This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …\nThe post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -506,6 +524,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
+          "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
+          "publishedOn": "2021-07-12T13:30:00.000Z",
+          "wordCount": 3623,
+          "title": "Refactoring CSS: Introduction (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
           "author": "hello@smashingmagazine.com (Todd Libby)",
           "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
@@ -876,6 +908,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e753aa134ad707be00f2c1",
+          "author": null,
+          "description": "SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use",
+          "link": "https://www.freecodecamp.org/news/spss-full-course/",
+          "publishedOn": "2021-07-12T13:34:03.000Z",
+          "wordCount": 22122,
+          "title": "Learn How to Use SPSS to Explore and Analyze Data"
+        },
+        {
+          "id": "60e981aae8ee9b08300ed1ae",
+          "author": null,
+          "description": "Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you",
+          "link": "https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/",
+          "publishedOn": "2021-07-12T11:46:56.000Z",
+          "wordCount": 899,
+          "title": "AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?"
+        },
+        {
+          "id": "60e76d88134ad707be00f347",
+          "author": null,
+          "description": "Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to",
+          "link": "https://www.freecodecamp.org/news/google-bigquery-beginners-guide/",
+          "publishedOn": "2021-07-12T11:26:39.000Z",
+          "wordCount": 1208,
+          "title": "Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets"
+        },
         {
           "id": "60e8864de8ee9b08300ecc3f",
           "author": null,
@@ -1558,6 +1617,51 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=136114",
+          "author": "g.O.R.i",
+          "description": "Ankerが、独自技術「Anker GaN ll」を採用した最新のUSB-C充電器シリーズとして、Anker Nano II 45Wを皮切りにAnker Nano II 30Wを発売。今月末にはAnker Nano II 65Wが販売開始する予定だ。 【関連】【レビュー】Anker Nano II …\nThe post 【レビュー】Anker Nano II 45W/65W：AppleシリコンMacの時代に最適なUSB充電器 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mac-accessories/mac-usbc/136114",
+          "publishedOn": "2021-07-12T21:30:27.000Z",
+          "wordCount": 350,
+          "title": "【レビュー】Anker Nano II 45W/65W：AppleシリコンMacの時代に最適なUSB充電器"
+        },
+        {
+          "id": "https://gori.me/?p=136116",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は引き続きM1 Macが多数復活。In…\nThe post Mac miniはCore i3よりM1のほうが安い！Mac整備済商品の最新情報（2021年7月12日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/136116",
+          "publishedOn": "2021-07-12T11:42:55.000Z",
+          "wordCount": 805,
+          "title": "Mac miniはCore i3よりM1のほうが安い！Mac整備済商品の最新情報（2021年7月12日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=136111",
+          "author": "g.O.R.i",
+          "description": "Kindleストアが、対象作品2,000点以上が最大70％オフで購入できる「夏のビジネス実用書フェア」を開催している。セールは7月29日まで。 対象作品には、『世界一やさしい「やりたいこと」の見つけ方　人生のモヤモヤから解放される自己理解メソッド』、『４０歳からは食べてはいけない　病気になる食べもの…\nThe post ビジネス実用書2,000冊以上が最大70％オフ！Kindleストアでセール開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/kindle-sale/136111",
+          "publishedOn": "2021-07-12T05:27:50.000Z",
+          "wordCount": 175,
+          "title": "ビジネス実用書2,000冊以上が最大70％オフ！Kindleストアでセール開催中"
+        },
+        {
+          "id": "https://gori.me/?p=136113",
+          "author": "g.O.R.i",
+          "description": "LINE Payが、対象のPayPay加盟店での支払いが8月17日より可能になると発表した。PayPay加盟店のうち、ユーザースキャン方式（MPM）の加盟店で利用可能。店舗のQRコードを読み取り、金額を入力するだけで支払いが完了する。 利用には、LINEアプリVer11.5.0以上またはLINE P…\nThe post LINE Pay、PayPay加盟店での支払いに対応へ　8月17日から first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/cashless/136113",
+          "publishedOn": "2021-07-12T05:26:00.000Z",
+          "wordCount": 162,
+          "title": "LINE Pay、PayPay加盟店での支払いに対応へ　8月17日から"
+        },
+        {
+          "id": "https://gori.me/?p=136109",
+          "author": "g.O.R.i",
+          "description": "2021年の新型iPhone（iPhone 13）は、「iPhone 13 Pro」と「iPhone 13 Pro Max」のみがLiDARセンサーを搭載する可能性が高い。M1 iMac、M1 iPad Proの仕様を正確に予測した実績を持つ、iOSデベロッパーのDylan氏によると、一時期は全機種…\nThe post iPhone 13、LiDARセンサーの全機種搭載が検討されていた？ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/136109",
+          "publishedOn": "2021-07-12T00:30:35.000Z",
+          "wordCount": 351,
+          "title": "iPhone 13、LiDARセンサーの全機種搭載が検討されていた？"
+        },
         {
           "id": "https://gori.me/?p=136107",
           "author": "g.O.R.i",
@@ -3168,33 +3272,6 @@
           "publishedOn": "2021-06-13T21:45:29.000Z",
           "wordCount": 204,
           "title": "年間340日食べている僕の朝食ができるまで（玄米餅＋きな粉＋シナモン＋アガベシロップ）"
-        },
-        {
-          "id": "https://gori.me/?p=135493",
-          "author": "g.O.R.i",
-          "description": "Appleは今年3月、初代HomePodを在庫限りで販売終了すると発表した。今後はHomePod miniの開発に注力計画だが、3カ月経った今でも在庫が残っている。Apple公式サイトでは「在庫あり」と表示されており、Apple表参道であれば当日受け取り可能だ。 在庫が減らない理由は、需要の低さと同…\nThe post 初代HomePod、販売終了から3カ月経っても「在庫あり」 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/music-accessories/speakers/homepod/135493",
-          "publishedOn": "2021-06-13T00:01:22.000Z",
-          "wordCount": 191,
-          "title": "初代HomePod、販売終了から3カ月経っても「在庫あり」"
-        },
-        {
-          "id": "https://gori.me/?p=135488",
-          "author": "g.O.R.i",
-          "description": "Appleが6月13日、iPad Proの”自由”をアピールするプロモーション動画「Your next computer is not a computer」を公開。ディズニー作品「リトルマーメイド」から「パート・オブ・ユア・ワールド」のパロディとなっている。 「パート・オブ・ユア・ワールド」は、人…\nThe post Apple、リトルマーメイドのパロディでiPad Proをアピール first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/apple-tvcm/135488",
-          "publishedOn": "2021-06-12T23:12:45.000Z",
-          "wordCount": 179,
-          "title": "Apple、リトルマーメイドのパロディでiPad Proをアピール"
-        },
-        {
-          "id": "https://gori.me/?p=135485",
-          "author": "g.O.R.i",
-          "description": "M1 MacBook Proを使用していると、極稀にマシーン全体の動作が突然重くなることがある。アクティビティモニタには「oahd-helper」というプロセスのCPU使用率が高くなっていた。確認時の使用メモリは2.46GBだった。 Redditによると、「oahd-helper」はRosetta …\nThe post プロセス名「oahd-helper」とは何か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/macosx/macos-tips/135485",
-          "publishedOn": "2021-06-12T21:30:14.000Z",
-          "wordCount": 289,
-          "title": "プロセス名「oahd-helper」とは何か"
         }
       ]
     }
