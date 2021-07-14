@@ -22,6 +22,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344316",
+          "author": "Chris Coyier",
+          "description": "As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …\nThe post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-react-and-javascript/",
+          "publishedOn": "2021-07-13T19:57:10.000Z",
+          "wordCount": 1003,
+          "title": "Links on React and JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343850",
+          "author": "Manuel Matuzovic",
+          "description": "Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…\nThe post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/meta-theme-color-and-trickery/",
+          "publishedOn": "2021-07-13T14:58:33.000Z",
+          "wordCount": 2597,
+          "title": "Meta Theme Color and Trickery"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344542",
+          "author": "Geoff Graham",
+          "description": "(This is a sponsored post.)\nThe folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …\nThe post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.surveymonkey.com/r/jamstack-survey-css-tricks",
+          "publishedOn": "2021-07-13T14:34:48.000Z",
+          "wordCount": 142,
+          "title": "Jamstack Community Survey 2021"
+        },
+        {
           "id": "https://css-tricks.com/?p=344355",
           "author": "Chris Coyier",
           "description": "The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …\nThe post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -524,6 +551,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
+          "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
+          "publishedOn": "2021-07-13T12:00:00.000Z",
+          "wordCount": 3272,
+          "title": "Building A Dynamic Header With Intersection Observer",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.",
+          "link": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
+          "publishedOn": "2021-07-13T10:30:00.000Z",
+          "wordCount": 4225,
+          "title": "How To Migrate From jQuery To Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ece22577-f23c-4e9c-a41c-f9000f14ae9d/migrate-jquery-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
@@ -886,20 +941,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
-          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3665,
-          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -908,6 +949,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e73db9134ad707be00f206",
+          "author": null,
+          "description": "Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -",
+          "link": "https://www.freecodecamp.org/news/how-git-branches-work/",
+          "publishedOn": "2021-07-13T13:44:04.000Z",
+          "wordCount": 4795,
+          "title": "How Git Branches Work"
+        },
+        {
+          "id": "609692d82cd0545b5e9441ab",
+          "author": null,
+          "description": "GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then",
+          "link": "https://www.freecodecamp.org/news/build-graphql-server-with-laravel/",
+          "publishedOn": "2021-07-13T07:54:34.000Z",
+          "wordCount": 2258,
+          "title": "How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman"
+        },
+        {
+          "id": "60e9c888e8ee9b08300ed212",
+          "author": null,
+          "description": "In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-axios-with-react/",
+          "publishedOn": "2021-07-13T07:36:28.000Z",
+          "wordCount": 2519,
+          "title": "How To Use Axios With React: The Definitive Guide (2021)"
+        },
+        {
+          "id": "60e5b284134ad707be00e5e0",
+          "author": null,
+          "description": "Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining",
+          "link": "https://www.freecodecamp.org/news/ui-ux-design-guide/",
+          "publishedOn": "2021-07-13T02:14:52.000Z",
+          "wordCount": 2261,
+          "title": "UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?"
+        },
         {
           "id": "60e753aa134ad707be00f2c1",
           "author": null,
@@ -1617,6 +1694,78 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=136167",
+          "author": "g.O.R.i",
+          "description": "Apple純正のiPhone 12シリーズ用MagSafe接続対応バッテリー「MagSafeバッテリーパック」は、充電中のiPhoneに貼り付けるとバッテリー本体が充電される仕組みが用意されている。 公式サポートページによると、MagSafeバッテリーパックとiPhoneを同時に充電する方法は2種類…\nThe post Apple純正MagSafeバッテリー、iPhoneから本体を充電可能 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/battery/136167",
+          "publishedOn": "2021-07-13T23:51:28.000Z",
+          "wordCount": 174,
+          "title": "Apple純正MagSafeバッテリー、iPhoneから本体を充電可能"
+        },
+        {
+          "id": "https://gori.me/?p=136161",
+          "author": "g.O.R.i",
+          "description": "僕のメインマシーンは、13.3インチのディスプレイを搭載するM1 MacBook Pro。自宅では、34インチの5K2Kウルトラワイドモニターと27インチの4Kモニターを組み合わせてM1 MacBook Proをデスクトップ化しており、画面スペースには困らない。 【関連】縦並びの5K2Kウルトラワイ…\nThe post MacBook ProとiPad Pro（Sidecar）、最適なコンビを考えてみた first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/136161",
+          "publishedOn": "2021-07-13T22:05:34.000Z",
+          "wordCount": 242,
+          "title": "MacBook ProとiPad Pro（Sidecar）、最適なコンビを考えてみた"
+        },
+        {
+          "id": "https://gori.me/?p=136165",
+          "author": "g.O.R.i",
+          "description": "Apple Beta Software Programより Appleは7月14日、「iOS 14.7 RC」「iPadOS 14.7 RC」「macOS Big Sur 11.5 RC」「tvOS 14.7 RC」「watchOS 14.7 RC」を開発者向けにリリースした。RC版（Release…\nThe post iOS/iPadOS 14.7やmacOS Big Sur 11.5のRC版、配信開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios14/136165",
+          "publishedOn": "2021-07-13T21:59:22.000Z",
+          "wordCount": 264,
+          "title": "iOS/iPadOS 14.7やmacOS Big Sur 11.5のRC版、配信開始"
+        },
+        {
+          "id": "https://gori.me/?p=136163",
+          "author": "g.O.R.i",
+          "description": "Appleは7月14日、iPhone 12シリーズ用MagSafe接続対応バッテリー「MagSafeバッテリーパック」を販売開始した。価格は11,800円。 MagSafeバッテリーパックは、iPhone 12シリーズのMagSafeに対応したモバイルバッテリー。iPhoneに貼り付けた際のワイヤレ…\nThe post Apple、MagSafe対応モバイルバッテリーを突然発売 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/battery/136163",
+          "publishedOn": "2021-07-13T21:52:02.000Z",
+          "wordCount": 232,
+          "title": "Apple、MagSafe対応モバイルバッテリーを突然発売"
+        },
+        {
+          "id": "https://gori.me/?p=136155",
+          "author": "g.O.R.i",
+          "description": "auは7月13日、公式オンラインショップにおけるiPhone 12 miniのパープルおよび一部のiPadモデルの予約受付を停止すると発表した。新型コロナウイルスの流行に伴う、世界的なテレワーク需要の高まりによる在庫状況のひっ迫が原因だという。 予約受付を停止する製品は、以下のとおり。 iPhone…\nThe post au、iPhone 12 miniと各種iPadの予約受付を一時停止 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipad/ipadair/136155",
+          "publishedOn": "2021-07-13T12:56:06.000Z",
+          "wordCount": 207,
+          "title": "au、iPhone 12 miniと各種iPadの予約受付を一時停止"
+        },
+        {
+          "id": "https://gori.me/?p=136154",
+          "author": "g.O.R.i",
+          "description": "Appleは、新型AirPods（AirPods 3）を年内に発表する可能性が高い。M1 iMac、M1 iPad Proの仕様を正確に予測した実績を持つ、iOSデベロッパーのDylan氏が明らかにした。リーク情報の信頼性が高いBloombergも年内登場を予測。サプライヤー各種が、搭載されるBlu…\nThe post AirPods 3、年内登場が濃厚か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/music-accessories/airpods/136154",
+          "publishedOn": "2021-07-13T12:43:46.000Z",
+          "wordCount": 213,
+          "title": "AirPods 3、年内登場が濃厚か"
+        },
+        {
+          "id": "https://gori.me/?p=136136",
+          "author": "g.O.R.i",
+          "description": "YouTubeは7月13日、スマートフォンでキャッチーなショート動画を撮影から編集、投稿まで簡単にできるYouTubeの新機能「YouTubeショート」のベータ版を、国内で提供開始した。 YouTubeアプリではショート動画はすでに視聴可能だったが、今回のベータ版の提供開始により、新たに複数の動画を…\nThe post YouTube ショート（ベータ版）、国内で提供開始　新機能も追加 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/google/youtube/136136",
+          "publishedOn": "2021-07-13T01:54:02.000Z",
+          "wordCount": 180,
+          "title": "YouTube ショート（ベータ版）、国内で提供開始　新機能も追加"
+        },
+        {
+          "id": "https://gori.me/?p=136131",
+          "author": "g.O.R.i",
+          "description": "14インチと16インチの新型MacBook Pro（2021）は、最大32GBのメモリ（RAM）までしか搭載できない可能性がある。YouTuberのLuke Miani氏が13日に公開した、最新動画の中で明らかにした。 Intelの16インチMacBook Proは最大64GBまで搭載可能 新型Ma…\nThe post M1X MacBook Pro、RAMは最大32GBか first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macbookpro/136131",
+          "publishedOn": "2021-07-13T00:32:16.000Z",
+          "wordCount": 235,
+          "title": "M1X MacBook Pro、RAMは最大32GBか"
+        },
         {
           "id": "https://gori.me/?p=136114",
           "author": "g.O.R.i",
@@ -3218,60 +3367,6 @@
           "publishedOn": "2021-06-14T13:11:38.000Z",
           "wordCount": 198,
           "title": "Echo Dotが70％オフ、Fire TV Stick 4Kが43％オフに　プライムデー2021登場予定商品の第2弾が公開"
-        },
-        {
-          "id": "https://gori.me/?p=135520",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 Mac miniが67,980…\nThe post M1 Mac miniのほうがIntel Core i3より約1万円安い！Mac整備済商品の最新情報（2021年6月14日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135520",
-          "publishedOn": "2021-06-14T04:08:17.000Z",
-          "wordCount": 1668,
-          "title": "M1 Mac miniのほうがIntel Core i3より約1万円安い！Mac整備済商品の最新情報（2021年6月14日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135517",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、Apple Wa…\nThe post SEやSeries 6がお買い得！Apple Watch整備済商品の最新情報（2021年6月14日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135517",
-          "publishedOn": "2021-06-14T03:55:35.000Z",
-          "wordCount": 388,
-          "title": "SEやSeries 6がお買い得！Apple Watch整備済商品の最新情報（2021年6月14日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135516",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はiPadの各モデルが大量に復活！…\nThe post iPadが大量に復活！iPad整備済商品の最新情報（2021年6月14日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135516",
-          "publishedOn": "2021-06-14T03:52:25.000Z",
-          "wordCount": 366,
-          "title": "iPadが大量に復活！iPad整備済商品の最新情報（2021年6月14日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135513",
-          "author": "g.O.R.i",
-          "description": "1Passwordより AgileBitsは6月11日、公式ブログを更新。パスワード管理アプリ「1Password」が対応する、iOS 15、iPadOS 15、macOS Montereyの新機能について説明している。 1Passwordの新機能 iPhoneとiPadでSafariウェブ機能拡張…\nThe post 1Password、iOS/iPadOS 15とmacOS Monterey向けの新機能を発表 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apps/iphone-app-news/135513",
-          "publishedOn": "2021-06-14T00:38:11.000Z",
-          "wordCount": 207,
-          "title": "1Password、iOS/iPadOS 15とmacOS Monterey向けの新機能を発表"
-        },
-        {
-          "id": "https://gori.me/?p=135510",
-          "author": "g.O.R.i",
-          "description": "Boise Towne Square Appleは、新型コロナウイルスのワクチン接種が完了していれば、マスク不要で米国内のApple Storeへ入店可能にする方針を明らかにした。Bloombergによると、早ければ現地時間火曜日から有効になるという。 来店者に対し、ワクチン接種証明書の提示は求めら…\nThe post 米国内のApple Store、ワクチン接種完了者はマスク不要で入店可能に first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/apple-news/135510",
-          "publishedOn": "2021-06-13T22:40:16.000Z",
-          "wordCount": 178,
-          "title": "米国内のApple Store、ワクチン接種完了者はマスク不要で入店可能に"
-        },
-        {
-          "id": "https://gori.me/?p=135507",
-          "author": "g.O.R.i",
-          "description": "僕は毎朝、決まった朝食を取っている。玄米餅にきな粉とシナモンをまぶし、アガベシロップで甘みを足した「”八ツ橋風”玄米餅」だ。旅行や美味しいパンなどを仕入れたとき以外は食べているため、おそらく年間340日程度は食べているだろう。 なぜ「”八ツ橋風”玄米餅」を食べるようになったのか 八ツ橋愛 僕は甘党。…\nThe post 年間340日食べている僕の朝食ができるまで（玄米餅＋きな粉＋シナモン＋アガベシロップ） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/health/135507",
-          "publishedOn": "2021-06-13T21:45:29.000Z",
-          "wordCount": 204,
-          "title": "年間340日食べている僕の朝食ができるまで（玄米餅＋きな粉＋シナモン＋アガベシロップ）"
         }
       ]
     }
