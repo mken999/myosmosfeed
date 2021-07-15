@@ -22,6 +22,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344249",
+          "author": "Temani Afif",
+          "description": "I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …\nThe post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/",
+          "publishedOn": "2021-07-14T14:31:02.000Z",
+          "wordCount": 1964,
+          "title": "Build Complex CSS Transitions using Custom Properties and cubic-bezier()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344407",
+          "author": "Chris Coyier",
+          "description": "Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …\nThe post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://cloudfour.com/thinks/a-bashful-button-worth-8-million/",
+          "publishedOn": "2021-07-14T14:25:08.000Z",
+          "wordCount": 2461,
+          "title": "A Bashful Button Worth $8 Million"
+        },
+        {
           "id": "https://css-tricks.com/?p=344316",
           "author": "Chris Coyier",
           "description": "As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …\nThe post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -515,33 +533,6 @@
           "publishedOn": "2021-06-15T14:31:34.000Z",
           "wordCount": 1844,
           "title": "Just How Niche is Headless WordPress?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342294",
-          "author": "Chris Coyier",
-          "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
-          "publishedOn": "2021-06-14T22:04:41.000Z",
-          "wordCount": 711,
-          "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342229",
-          "author": "Chris Coyier",
-          "description": "Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. \nDevJourney Podcast\n#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘\nChris took us from playing on \n…\nThe post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-tricks-chronicle-xxxx/",
-          "publishedOn": "2021-06-14T18:20:17.000Z",
-          "wordCount": 730,
-          "title": "CSS-Tricks Chronicle XXXX"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342070",
-          "author": "Khari McMillian",
-          "description": "When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …\nThe post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/securing-your-website-with-subresource-integrity/",
-          "publishedOn": "2021-06-14T13:30:27.000Z",
-          "wordCount": 3232,
-          "title": "Securing Your Website With Subresource Integrity"
         }
       ]
     },
@@ -550,6 +541,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
+          "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
+          "publishedOn": "2021-07-14T13:30:00.000Z",
+          "wordCount": 5285,
+          "title": "Frustrating Design Patterns: Broken Filters",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "author": "hello@smashingmagazine.com (Michelle Barker)",
@@ -913,34 +918,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?",
-          "link": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
-          "publishedOn": "2021-06-15T10:15:00.000Z",
-          "wordCount": 2381,
-          "title": "Spinning Up Multiple WordPress Sites Locally With DevKinsta",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2798d879-8878-49e3-bc0f-a1b2008210c0/devkinsta-frontpage.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
-          "publishedOn": "2021-06-15T07:00:00.000Z",
-          "wordCount": 10715,
-          "title": "Smashing Podcast Episode 39 With Addy Osmani: Image Optimization",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf1aeccc-a603-4cb3-b716-69bd0c86d33a/smashing-podcast-episode-39.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -949,6 +926,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d4e7596e1a1407b6b0bb56",
+          "author": null,
+          "description": "Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 \"tracking pixel\" that you don't even see.They send you an email",
+          "link": "https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/",
+          "publishedOn": "2021-07-14T17:51:43.000Z",
+          "wordCount": 577,
+          "title": "How to Stop Email Tracking in Gmail – Disable Images by Default"
+        },
+        {
+          "id": "60ebb55be8ee9b08300ed731",
+          "author": null,
+          "description": "Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since",
+          "link": "https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/",
+          "publishedOn": "2021-07-14T07:18:59.000Z",
+          "wordCount": 1136,
+          "title": "An Introduction to Web Server Scanning With Nikto"
+        },
+        {
+          "id": "60eb2a69e8ee9b08300ed5b3",
+          "author": null,
+          "description": "Redis is a type of database that can be added to your produciton level applicaiton to make it more performant.  In this article, I'll go over the Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype",
+          "link": "https://www.freecodecamp.org/news/redis-crash-course/",
+          "publishedOn": "2021-07-14T06:11:13.000Z",
+          "wordCount": 1435,
+          "title": "Redis Crash Course"
+        },
         {
           "id": "60e73db9134ad707be00f206",
           "author": null,
@@ -1641,51 +1645,6 @@
           "publishedOn": "2021-06-15T15:35:39.000Z",
           "wordCount": 2706,
           "title": "What is Full Stack? How to Become a Full Stack Developer"
-        },
-        {
-          "id": "60873d1fdd38b9088c2c0842",
-          "author": null,
-          "description": "System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will",
-          "link": "https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/",
-          "publishedOn": "2021-06-14T22:46:31.000Z",
-          "wordCount": 2704,
-          "title": "System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design"
-        },
-        {
-          "id": "60bce373acb62507dd1d9f19",
-          "author": null,
-          "description": "We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who",
-          "link": "https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/",
-          "publishedOn": "2021-06-14T22:39:00.000Z",
-          "wordCount": 2563,
-          "title": "How to Build a Custom Pagination Component in React"
-        },
-        {
-          "id": "60c3b862d3126007592d689b",
-          "author": null,
-          "description": "Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation",
-          "link": "https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/",
-          "publishedOn": "2021-06-14T20:15:00.000Z",
-          "wordCount": 1297,
-          "title": "HTML Roving tabindex Attribute Explained with Examples"
-        },
-        {
-          "id": "60c794e64dc1a607ed7b25ba",
-          "author": null,
-          "description": "A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a",
-          "link": "https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/",
-          "publishedOn": "2021-06-14T19:19:42.000Z",
-          "wordCount": 2588,
-          "title": "How to Backup Squarespace-Managed Styles using AWS Cloud"
-        },
-        {
-          "id": "60c4b35ed3126007592d71bc",
-          "author": null,
-          "description": "Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language",
-          "link": "https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/",
-          "publishedOn": "2021-06-14T18:37:44.000Z",
-          "wordCount": 1599,
-          "title": "10 Best African Language Datasets for Data Science Projects"
         }
       ]
     },
@@ -1694,6 +1653,114 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=136201",
+          "author": "g.O.R.i",
+          "description": "Twitterは、新機能「Twitter Pro」を準備していることが判明した。大手SNSの未発表機能を多数発見しているJane Manchun Wong氏が発見したページによると、「オーディエンスつのつながりの強化、ブランドの成長、収益の向上に必要なツール」が利用できるという。 機能の詳細は不明、…\nThe post Twitter、ビジネス/クリエイター向け新機能「Twitter Pro」を準備中か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/twitter/twitter-news/136201",
+          "publishedOn": "2021-07-14T23:41:13.000Z",
+          "wordCount": 182,
+          "title": "Twitter、ビジネス/クリエイター向け新機能「Twitter Pro」を準備中か"
+        },
+        {
+          "id": "https://gori.me/?p=136196",
+          "author": "g.O.R.i",
+          "description": "Appleは7月15日、「iOS 15 Beta 3」「iPadOS 15 Beta 3」「watchOS 8 Beta 3」「tvOS 15 Beta 3」「Xcode 13 Beta 3」を開発者向けに配信開始した。 iOS 15の最新ベータ版では、Safariの検索インタフェースの改良、アドレ…\nThe post iOS/iPadOS 15やwatchOS 8のBeta 3、開発者向けに配信開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios15/136196",
+          "publishedOn": "2021-07-14T23:15:08.000Z",
+          "wordCount": 239,
+          "title": "iOS/iPadOS 15やwatchOS 8のBeta 3、開発者向けに配信開始"
+        },
+        {
+          "id": "https://gori.me/?p=136195",
+          "author": "g.O.R.i",
+          "description": "Twitterは、8月3日をもってフリートの提供を終了すると発表した。フリートは24時間で投稿が消える、Instagramのストーリーズに似た機能だ。2020年11月に全世界で一般公開された。 Twitterは、フリートの導入で利用者数が増加すると見込んでいた。しかし実際は既存ユーザーが、ツイートの…\nThe post Twitterの24時間で消える投稿「フリート」、8月3日に終了へ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/twitter/twitter-news/136195",
+          "publishedOn": "2021-07-14T21:58:42.000Z",
+          "wordCount": 151,
+          "title": "Twitterの24時間で消える投稿「フリート」、8月3日に終了へ"
+        },
+        {
+          "id": "https://gori.me/?p=136192",
+          "author": "g.O.R.i",
+          "description": "Anker製品といえば、モバイルバッテリー、USB充電器、ケーブル、イヤホン、モバイルプロジェクターなどの製品をリーズナブルな価格で提供することに定評がある。僕も多くの製品を生活の中に取り入れているが、特に活躍している製品を紹介する。 Anker Eufy Lumiは、モーションセンサーを搭載したL…\nThe post 【レビュー】Anker Eufy Lumi：どこでも設置できるセンサーライト first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/gadget/136192",
+          "publishedOn": "2021-07-14T21:45:22.000Z",
+          "wordCount": 215,
+          "title": "【レビュー】Anker Eufy Lumi：どこでも設置できるセンサーライト"
+        },
+        {
+          "id": "https://gori.me/?p=136152",
+          "author": "g.O.R.i",
+          "description": "我が家の娘たちは、人形で遊ぶことが大好きだ。僕も小さい頃は延々とレゴで遊んでいた記憶があるので、「さすが我が子」と思っている。あまりにも真剣に人形達と遊ぶので、思いつきで割り箸を使った人形用の家を作ってみることにした。説明書は特になし。カッターも使わず、ひたすら木工用ボンドで繋ぎ合わせて組み立てるだ…\nThe post 工作下手なパパが割り箸で家を作った結果、見事な欠陥住宅が完成 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/papa/fun-with-kids/136152",
+          "publishedOn": "2021-07-14T21:30:06.000Z",
+          "wordCount": 184,
+          "title": "工作下手なパパが割り箸で家を作った結果、見事な欠陥住宅が完成"
+        },
+        {
+          "id": "https://gori.me/?p=136186",
+          "author": "g.O.R.i",
+          "description": "Google Storeよりキャプチャ Googleは7月14日、公式オンラインストアでPixelスマートフォンが分割払いで購入可能になったと発表した。利息、手数料、延滞料はかからず、審査の申し込みや信用調査も不要。毎月定額の分割払いに利用したクレジットカードに、分割払いの金額が毎月自動的に請求され…\nThe post Googleストア、Pixelの分割払い購入に対応　利息や手数料なし first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/google/google-news/136186",
+          "publishedOn": "2021-07-14T12:41:45.000Z",
+          "wordCount": 193,
+          "title": "Googleストア、Pixelの分割払い購入に対応　利息や手数料なし"
+        },
+        {
+          "id": "https://gori.me/?p=136184",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はM1 Macが多数復活しているほか、…\nThe post M1X待ちきれないなら、M1買っておく？Mac整備済商品の最新情報（2021年7月14日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/136184",
+          "publishedOn": "2021-07-14T12:19:42.000Z",
+          "wordCount": 1686,
+          "title": "M1X待ちきれないなら、M1買っておく？Mac整備済商品の最新情報（2021年7月14日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=136182",
+          "author": "g.O.R.i",
+          "description": "Twitterは7月14日、ユーザーがツイート投稿後でも「返信できるアカウント」を変更できる機能を提供開始した。従来は返信可能範囲は投稿前に指定する必要があった。 Your Tweets = Your space. Now you can change who can reply to you ev…\nThe post Twitter、「返信できるアカウント」を投稿後でも変更可能に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/twitter/twitter-news/136182",
+          "publishedOn": "2021-07-14T12:10:01.000Z",
+          "wordCount": 177,
+          "title": "Twitter、「返信できるアカウント」を投稿後でも変更可能に"
+        },
+        {
+          "id": "https://gori.me/?p=136179",
+          "author": "g.O.R.i",
+          "description": "AirTagレザーキーリング Appleは7月14日、AirTag用レザーループおよびAirTagレザーキーリングに新しいカラーモデルを追加した。 AirTag用レザーループは、カリフォルニアポピー、フォレストグリーンの2色。AirTagレザーキーリングは、カリフォルニアポピー、フォレストグリーン、…\nThe post AirTagレザーキーリングとレザーループ、新色が登場 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/iphone-prepherial/136179",
+          "publishedOn": "2021-07-14T11:41:51.000Z",
+          "wordCount": 161,
+          "title": "AirTagレザーキーリングとレザーループ、新色が登場"
+        },
+        {
+          "id": "https://gori.me/?p=136174",
+          "author": "g.O.R.i",
+          "description": "ソフトバンクは7月14日、eSIMを提供開始した。eSIMは物理的なSIMカードを必要とせず、加入者識別情報（プロファイル）をダウンロードするだけで、手軽に通信サービスを利用可能。最短1時間ほどで利用開始できる。 ソフトバンクのeSIMに対応する機種は、サービス提供時点でiPhoneおよびPixel…\nThe post ソフトバンク、eSIMを提供開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mobile/smartphone/136174",
+          "publishedOn": "2021-07-14T03:59:04.000Z",
+          "wordCount": 160,
+          "title": "ソフトバンク、eSIMを提供開始"
+        },
+        {
+          "id": "https://gori.me/?p=136172",
+          "author": "g.O.R.i",
+          "description": "2021年の新型iPhone（iPhone 13）は、一部で噂されていた画面内蔵指紋センサー（Touch ID）を搭載しない可能性が高い。Bloombergによると、「iPhone 13」シリーズはマイナーアップデートと位置づけられ、プロセッサー、カメラ、ディスプレイの改良が特徴になるという。 LT…\nThe post 大悲報：iPhone 13、画面内蔵Touch IDの搭載を断念か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/136172",
+          "publishedOn": "2021-07-14T03:26:24.000Z",
+          "wordCount": 403,
+          "title": "大悲報：iPhone 13、画面内蔵Touch IDの搭載を断念か"
+        },
+        {
+          "id": "https://gori.me/?p=136170",
+          "author": "g.O.R.i",
+          "description": "Appleから突然発表された、iPhone 12シリーズ用MagSafe接続対応バッテリー「MagSafeバッテリーパック」は、目を疑いたくなるほど費用対効果が悪く見える。iPhoneに接続した際の出力は5Wで、Ankerなどのサードパーティ製品と変わらない。バッテリー容量は11.13Whで電圧は7…\nThe post MagSafeバッテリーパックは「モバイルバッテリー」ではなく「充電機能付きバッテリー拡張」という考え方 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/battery/136170",
+          "publishedOn": "2021-07-14T01:59:48.000Z",
+          "wordCount": 224,
+          "title": "MagSafeバッテリーパックは「モバイルバッテリー」ではなく「充電機能付きバッテリー拡張」という考え方"
+        },
         {
           "id": "https://gori.me/?p=136167",
           "author": "g.O.R.i",
@@ -3277,96 +3344,6 @@
           "publishedOn": "2021-06-15T21:45:10.000Z",
           "wordCount": 250,
           "title": "iOS 15の一部機能、iPhone XS以降でなければ動作しない"
-        },
-        {
-          "id": "https://gori.me/?p=135566",
-          "author": "g.O.R.i",
-          "description": "Kindleストアが、対象作品67点が20％オフで購入できる「講談社 まとめ買いキャンペーン」を開催している。 対象作品には、『宇宙兄弟』（25,773円→20,619円）、『亜人』（11,220円→8,976円）、『ちはやふる』（21,252円→17,020円）などが含まれている。対象作品である『…\nThe post 20％オフ！Kindleストア、講談社のマンガまとめ買いセール中 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/kindle-sale/135566",
-          "publishedOn": "2021-06-15T12:11:13.000Z",
-          "wordCount": 179,
-          "title": "20％オフ！Kindleストア、講談社のマンガまとめ買いセール中"
-        },
-        {
-          "id": "https://gori.me/?p=135564",
-          "author": "g.O.R.i",
-          "description": "Googleは新型Pixelスマートフォン（Pixel 6）用に、新しいPixel Standを準備している可能性がある。9to5Googleによると、Android 12 Beta 2のコード内に、冷却ファンを内蔵したMade by Googleブランドのワイヤレス充電器に関する記述が発見されたと…\nThe post 新型Pixel Stand、Pixel 6と同時発表？冷却ファン内蔵で充電速度向上か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/google/pixel-news/135564",
-          "publishedOn": "2021-06-15T11:44:32.000Z",
-          "wordCount": 219,
-          "title": "新型Pixel Stand、Pixel 6と同時発表？冷却ファン内蔵で充電速度向上か"
-        },
-        {
-          "id": "https://gori.me/?p=135536",
-          "author": "g.O.R.i",
-          "description": "WordPress.com運営元のAutomatticが、iPhoneとMacで人気のジャーナルアプリ「Day One」を買収した。Day Oneの公式ブログで発表された。 Day One創業者のPaul Mayne氏は、買収後もDay Oneチームを担当する。買収を受け、WordPress.com…\nThe post WordPress.com運営元のAutomattic、Day Oneを買収 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/it/135536",
-          "publishedOn": "2021-06-14T23:24:45.000Z",
-          "wordCount": 158,
-          "title": "WordPress.com運営元のAutomattic、Day Oneを買収"
-        },
-        {
-          "id": "https://gori.me/?p=135531",
-          "author": "g.O.R.i",
-          "description": "Appleは6月15日、一部のiPhoneとiPad向けにiOS 12.5.4をリリースした。対象デバイスは、iOS 14のサポート対象外となったモデルだ。重要なセキュリティアップデートが含まれており、すべてのユーザーに推奨されている。 iPhone iPhone 5s、iPhone 6、iPhon…\nThe post iOS 12.5.4、旧デバイス向けにリリース first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios12/135531",
-          "publishedOn": "2021-06-14T22:11:11.000Z",
-          "wordCount": 197,
-          "title": "iOS 12.5.4、旧デバイス向けにリリース"
-        },
-        {
-          "id": "https://gori.me/?p=135530",
-          "author": "g.O.R.i",
-          "description": "Appleは6月15日、iPhone 12シリーズ用シリコーンケースに3種類の新色を追加している。追加されたのは、エレクトリックオレンジ、クラウドブルー、サンフラワーの3色。価格は税込6,050円。 なおレザーケースおよびレザースリーブに新色は追加されていない。 iPhone 12シリーズ用純正ケー…\nThe post iPhone 12シリーズ用ケース、新作3色が発売 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone-accessories/iphone-case/135530",
-          "publishedOn": "2021-06-14T21:58:14.000Z",
-          "wordCount": 201,
-          "title": "iPhone 12シリーズ用ケース、新作3色が発売"
-        },
-        {
-          "id": "https://gori.me/?p=135528",
-          "author": "g.O.R.i",
-          "description": "Appleは6月15日、「iOS 14.7 Beta 3」「iPadOS 14.7 Beta 3」「macOS Big Sur 11.5 Beta」「watchOS 7.6 Beta 3」「tvOS 14.7 Beta 3」を開発者向けに配信開始した。最新バージョンの新機能や変更点は、現時点では明ら…\nThe post iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 3、開発者向けに配信開始 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios14/135528",
-          "publishedOn": "2021-06-14T21:24:00.000Z",
-          "wordCount": 272,
-          "title": "iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 3、開発者向けに配信開始"
-        },
-        {
-          "id": "https://gori.me/?p=135527",
-          "author": "g.O.R.i",
-          "description": "Beats by Dr. Dreは6月15日、完全ワイヤレスイヤフォン「Beats Studio Buds」を正式に発表した。価格は税込17,800円。ブラック、ホワイト、Beatsレッドの3色となっていて、米国では先行発売。国内では今夏より注文の受付を開始する。 IPX4等級の耐汗耐水性能を備えて…\nThe post Beats Studio Buds、正式発表　ノイキャン対応で17,800円、日本では今夏発売 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/music-accessories/earphones/135527",
-          "publishedOn": "2021-06-14T21:00:36.000Z",
-          "wordCount": 199,
-          "title": "Beats Studio Buds、正式発表　ノイキャン対応で17,800円、日本では今夏発売"
-        },
-        {
-          "id": "https://gori.me/?p=135525",
-          "author": "g.O.R.i",
-          "description": "2022年の新型Apple Watch（Apple Watch Series 8）は、体温センサーを内蔵する可能性がある。Bloombergによると、2021年の新型Apple Watch（Apple Watch Series 7）に内蔵される計画だったが、2022年に延期されたという。 体温の計測…\nThe post Apple Watch Series 8は体温計搭載か　”G-SHOCK\"対抗モデルも2022年に延期の噂 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple-watch/watch-news/135525",
-          "publishedOn": "2021-06-14T14:34:45.000Z",
-          "wordCount": 255,
-          "title": "Apple Watch Series 8は体温計搭載か　”G-SHOCK”対抗モデルも2022年に延期の噂"
-        },
-        {
-          "id": "https://gori.me/?p=135523",
-          "author": "g.O.R.i",
-          "description": "2021年の新型Apple Watch（Apple Watch Series 7）は、ディスプレイ周りのベゼルを薄くし画面を大型化する可能性がある。Bloombergによると、「Apple Watch Series 7」はフロントガラスとディスプレイパネルの距離を近くなる、新しいラミネーション技術を…\nThe post Apple Watch Series 7、ディスプレイが大型化か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple-watch/watch-news/135523",
-          "publishedOn": "2021-06-14T14:03:51.000Z",
-          "wordCount": 269,
-          "title": "Apple Watch Series 7、ディスプレイが大型化か"
-        },
-        {
-          "id": "https://gori.me/?p=135522",
-          "author": "g.O.R.i",
-          "description": "Amazonが、プライムデーに登場予定の商品第2弾を公開した。プライムデーは、6月21日（月）から22日（火）の48時間開催。多数のトップブランドやカスタマーレビュー星4つ以上の人気商品を特別価格で販売する、プライム会員向けのビッグセールだ。 第2弾の登場予定商品は、おうち時間をより快適かつ充実させ…\nThe post Echo Dotが70％オフ、Fire TV Stick 4Kが43％オフに　プライムデー2021登場予定商品の第2弾が公開 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/amazon/amazon-sale/135522",
-          "publishedOn": "2021-06-14T13:11:38.000Z",
-          "wordCount": 198,
-          "title": "Echo Dotが70％オフ、Fire TV Stick 4Kが43％オフに　プライムデー2021登場予定商品の第2弾が公開"
         }
       ]
     }
