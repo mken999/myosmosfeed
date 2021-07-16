@@ -22,6 +22,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344273",
+          "author": "Georgi Nikoloff",
+          "description": "Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.\nMost of those examples, though, use …\nThe post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/",
+          "publishedOn": "2021-07-15T14:40:03.000Z",
+          "wordCount": 1701,
+          "title": "How to Get a Pixel-Perfect, Linearly Scaled UI"
+        },
+        {
           "id": "https://css-tricks.com/?p=344249",
           "author": "Temani Afif",
           "description": "I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …\nThe post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -506,33 +515,6 @@
           "publishedOn": "2021-06-16T14:26:58.000Z",
           "wordCount": 2409,
           "title": "How I Used the WAAPI to Build an Animation Library"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342198",
-          "author": "Chris Coyier",
-          "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/detect-unused-classes-in-html/",
-          "publishedOn": "2021-06-15T23:24:20.000Z",
-          "wordCount": 741,
-          "title": "Detect Unused Classes in… HTML"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342519",
-          "author": "Chris Coyier",
-          "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
-          "publishedOn": "2021-06-15T19:51:32.000Z",
-          "wordCount": 1907,
-          "title": "Media Queries in Times of @container"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342248",
-          "author": "Chris Coyier",
-          "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
-          "publishedOn": "2021-06-15T14:31:34.000Z",
-          "wordCount": 1844,
-          "title": "Just How Niche is Headless WordPress?"
         }
       ]
     },
@@ -541,6 +523,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
+          "author": "hello@smashingmagazine.com (Cassidy Williams)",
+          "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
+          "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
+          "publishedOn": "2021-07-15T14:00:00.000Z",
+          "wordCount": 1063,
+          "title": "ISR vs DPR: Big Words, Quick Explanation",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/",
+          "author": "hello@smashingmagazine.com (Zara Cooper)",
+          "description": "In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.",
+          "link": "https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/",
+          "publishedOn": "2021-07-15T13:45:00.000Z",
+          "wordCount": 3198,
+          "title": "You Can Do That With A JavaScript Data Grid?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a22acbe3-8a80-4f08-95eb-d440e60c5723/kendo-ui-homepage.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -904,20 +914,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "author": "hello@smashingmagazine.com (Nic Chan)",
-          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
-          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4102,
-          "title": "A Complete Guide To Accessibility Tooling",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -927,6 +923,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e74160134ad707be00f23f",
+          "author": null,
+          "description": "The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where",
+          "link": "https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/",
+          "publishedOn": "2021-07-15T13:43:01.000Z",
+          "wordCount": 8503,
+          "title": "Learn the FARM Stack! (FastAPI, React, MongoDB)"
+        },
+        {
+          "id": "60ead07ee8ee9b08300ed387",
+          "author": null,
+          "description": "There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors",
+          "link": "https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/",
+          "publishedOn": "2021-07-15T13:13:02.000Z",
+          "wordCount": 7098,
+          "title": "The Apache Cassandra Beginner Tutorial"
+        },
+        {
           "id": "60d4e7596e1a1407b6b0bb56",
           "author": null,
           "description": "Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 \"tracking pixel\" that you don't even see.They send you an email",
@@ -934,6 +948,15 @@
           "publishedOn": "2021-07-14T17:51:43.000Z",
           "wordCount": 577,
           "title": "How to Stop Email Tracking in Gmail – Disable Images by Default"
+        },
+        {
+          "id": "5ff5461e7af2371468bb7ece",
+          "author": null,
+          "description": "We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts that data scientists use in the",
+          "link": "https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/",
+          "publishedOn": "2021-07-14T16:27:00.000Z",
+          "wordCount": 1574,
+          "title": "We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning"
         },
         {
           "id": "60ebb55be8ee9b08300ed731",
@@ -1573,78 +1596,6 @@
           "publishedOn": "2021-06-16T17:19:31.000Z",
           "wordCount": 411,
           "title": "Teach Yourself Data Analytics in 30 Days"
-        },
-        {
-          "id": "60c91b2b4dc1a607ed7b389a",
-          "author": null,
-          "description": "DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.",
-          "link": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/",
-          "publishedOn": "2021-06-15T21:33:17.000Z",
-          "wordCount": 455,
-          "title": "DevOps Engineering Course for Beginners"
-        },
-        {
-          "id": "60c72a0ad3126007592d7e2a",
-          "author": null,
-          "description": "To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word \"run\". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly",
-          "link": "https://www.freecodecamp.org/news/what-is-this-in-javascript/",
-          "publishedOn": "2021-06-15T21:19:12.000Z",
-          "wordCount": 1383,
-          "title": "What Does &#x27;this&#x27; Mean in JavaScript? The this Keyword Explained with Examples"
-        },
-        {
-          "id": "60c8912c4dc1a607ed7b2fff",
-          "author": null,
-          "description": "As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder \"Am I setting my price too high?\" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding",
-          "link": "https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/",
-          "publishedOn": "2021-06-15T21:10:54.000Z",
-          "wordCount": 2031,
-          "title": "What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest"
-        },
-        {
-          "id": "60c3dcb3d3126007592d6c6d",
-          "author": null,
-          "description": "Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following",
-          "link": "https://www.freecodecamp.org/news/python-decorators-explained-with-examples/",
-          "publishedOn": "2021-06-15T17:57:54.000Z",
-          "wordCount": 1409,
-          "title": "Python Decorators – How to Create and Use Decorators in Python With Examples"
-        },
-        {
-          "id": "602aaaf60a2838549dcc5c7f",
-          "author": null,
-          "description": "Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a",
-          "link": "https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/",
-          "publishedOn": "2021-06-15T17:43:43.000Z",
-          "wordCount": 1292,
-          "title": "What is the Strangler Fig Pattern and How it Helps Manage Legacy Code"
-        },
-        {
-          "id": "60b7cb6aacb62507dd1d7c1a",
-          "author": null,
-          "description": "You can now open anything (that you have access to) on GitHub directly from VS Code.",
-          "link": "https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/",
-          "publishedOn": "2021-06-15T16:06:54.000Z",
-          "wordCount": 1714,
-          "title": "How to Open Any Repo in VS Code Without Cloning It"
-        },
-        {
-          "id": "60c6aec3d3126007592d7bd5",
-          "author": null,
-          "description": "What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database",
-          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/",
-          "publishedOn": "2021-06-15T15:48:09.000Z",
-          "wordCount": 888,
-          "title": "SQL Aggregate Functions – With Example Data Queries for Beginners"
-        },
-        {
-          "id": "60bbdd8dacb62507dd1d9a2d",
-          "author": null,
-          "description": "You've probably seen the term \"full stack developer\" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article",
-          "link": "https://www.freecodecamp.org/news/what-is-a-fullstack-developer/",
-          "publishedOn": "2021-06-15T15:35:39.000Z",
-          "wordCount": 2706,
-          "title": "What is Full Stack? How to Become a Full Stack Developer"
         }
       ]
     },
@@ -1653,6 +1604,60 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=136206",
+          "author": "g.O.R.i",
+          "description": "Apple製品が、Amazonの「タイムセール祭り」に登場。「Apple iPad・Watchがお買い得」で、iPad Air（2020）、Apple Watch Series 5（44mm/40mm）がお買い得価格で購入できる。 【関連】Amazonタイムセール祭りのお買い得商品まとめ（7/16-…\nThe post iPad Air（2020）とApple Watch Series 5がセール中【タイムセール祭り】 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/136206",
+          "publishedOn": "2021-07-16T00:08:49.000Z",
+          "wordCount": 208,
+          "title": "iPad Air（2020）とApple Watch Series 5がセール中【タイムセール祭り】"
+        },
+        {
+          "id": "https://gori.me/?p=136202",
+          "author": "g.O.R.i",
+          "description": "Amazonの「タイムセール祭り」がスタートした。セールは2021年7月16日（金）9時から7月18日（日）23時59分までの63時間開催。セール会場はこちら。 セール期間中は、ワンクリックで参加できるポイントアップキャンペーン（Amazonの全商品が対象）が実施中。さらにお得に買い物をするには、事…\nThe post Amazonのタイムセール祭りがスタート！お買い得商品まとめ（7/16-7/18） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/amazon/amazon-sale/136202",
+          "publishedOn": "2021-07-16T00:00:52.000Z",
+          "wordCount": 327,
+          "title": "Amazonのタイムセール祭りがスタート！お買い得商品まとめ（7/16-7/18）"
+        },
+        {
+          "id": "https://gori.me/?p=136211",
+          "author": "g.O.R.i",
+          "description": "PASMOより PASMOが、「Apple PayのPASMO つかった金額の最大50%もどってくる！キャンペーン」を7月20日10時より開始すると発表した。キャンペーンは10月20日までを予定している。 新規ユーザーは、2,000円以上の利用で1,000円分のキャッシュバックが受けられる。7月20…\nThe post Apple PayのPASMO利用で最大50％キャッシュバックされるキャンペーン、7月20日よりスタート first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-pay/136211",
+          "publishedOn": "2021-07-15T22:51:49.000Z",
+          "wordCount": 170,
+          "title": "Apple PayのPASMO利用で最大50％キャッシュバックされるキャンペーン、7月20日よりスタート"
+        },
+        {
+          "id": "https://gori.me/?p=136209",
+          "author": "g.O.R.i",
+          "description": "2021年の新型iPhone（iPhone 13）は、Wi-Fi 6Eをサポートする可能性がある。Digitimesが報じた。Barclaysのアナリストらが今年1月に同様の予測を発表している。 Wi-Fi 6Eとは、2020年1月にWi-Fi Allianceが発表した新たなWi-Fiの規格。「E…\nThe post iPhone 13のWi-Fi 6Eサポートする新たな情報 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/136209",
+          "publishedOn": "2021-07-15T22:36:29.000Z",
+          "wordCount": 234,
+          "title": "iPhone 13のWi-Fi 6Eサポートする新たな情報"
+        },
+        {
+          "id": "https://gori.me/?p=136208",
+          "author": "g.O.R.i",
+          "description": "Appleは7月15日、iOS 15、iPadOS 15、watchOS 8などの「Beta 3」を開発者向けにリリース。最新ベータ版では、ストレージ残量が500MB未満のデバイスでも、ソフトウェア・アップデートが適用可能になっていると明らかになった。今秋に予定されている一般公開で、正式機能として実…\nThe post iOS/iPadOS 15とwatchOS 8、ストレージ残量500MB未満でもOSアップデートが可能に first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios15/136208",
+          "publishedOn": "2021-07-15T22:29:02.000Z",
+          "wordCount": 245,
+          "title": "iOS/iPadOS 15とwatchOS 8、ストレージ残量500MB未満でもOSアップデートが可能に"
+        },
+        {
+          "id": "https://gori.me/?p=136204",
+          "author": "g.O.R.i",
+          "description": "LINEMOより ソフトバンクのオンライン専用ブランドLINEMOは7月15日、新たに「ミニプラン」を提供開始した。ミニプランは、毎月3GBのデータ容量を月額990円で利用できる料金プラン。LINEが使い放題となる「LINEギガフリー」も付いている。 ミニプランの提供開始を記念して、5分以内の国内通…\nThe post LINEMO、3GBで月額990円の新プラン登場 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/mobile/smartphone/136204",
+          "publishedOn": "2021-07-15T06:18:18.000Z",
+          "wordCount": 180,
+          "title": "LINEMO、3GBで月額990円の新プラン登場"
+        },
         {
           "id": "https://gori.me/?p=136201",
           "author": "g.O.R.i",
@@ -3290,60 +3295,6 @@
           "publishedOn": "2021-06-16T21:56:03.000Z",
           "wordCount": 241,
           "title": "macOS Monterey：ディスプレイ設定のデザインが刷新"
-        },
-        {
-          "id": "https://gori.me/?p=135596",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は67,980円で購入できるM1 Ma…\nThe post M1 Macの最安モデルが復活！Mac整備済商品の最新情報（2021年6月16日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135596",
-          "publishedOn": "2021-06-16T04:32:00.000Z",
-          "wordCount": 1780,
-          "title": "M1 Macの最安モデルが復活！Mac整備済商品の最新情報（2021年6月16日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135595",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はiPadの各モデルが大量に復活！…\nThe post 11インチiPad Proが60,800円から！iPad整備済商品の最新情報（2021年6月16日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135595",
-          "publishedOn": "2021-06-16T04:24:01.000Z",
-          "wordCount": 376,
-          "title": "11インチiPad Proが60,800円から！iPad整備済商品の最新情報（2021年6月16日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135577",
-          "author": "g.O.R.i",
-          "description": "macOSのプログレスバー iPadOS 15のファイルアプリは、プログレスバー表示に対応した。従来は大容量のファイルをコピーやペーストした際に、操作完了までにかかる時間をユーザーが把握できない仕様だった。iPadOS 15では、ファイルの画面上部に円形のプログレスアイコンが登場。タップすると、ma…\nThe post iPadOS 15：ファイルアプリ、プログレスバー表示に対応 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ipados/ipados15/135577",
-          "publishedOn": "2021-06-16T02:28:34.000Z",
-          "wordCount": 218,
-          "title": "iPadOS 15：ファイルアプリ、プログレスバー表示に対応"
-        },
-        {
-          "id": "https://gori.me/?p=135575",
-          "author": "g.O.R.i",
-          "description": "Ankerは、6月21日（月）から22日（火）にかけて開催する、プライム会員向けのビッグセール「プライムデー」に参加すると発表した。同社グループ製品合計170点を最大50％オフで販売するという。 対象商品は、リモートワークを快適かつスマートにする製品やおうち時間を充実させる製品を中心にラインナップ。…\nThe post Anker、プライムデー参加を予告！対象商品（最大50％オフ）をチラ見せ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/peripheral-sale/135575",
-          "publishedOn": "2021-06-16T01:45:46.000Z",
-          "wordCount": 183,
-          "title": "Anker、プライムデー参加を予告！対象商品（最大50％オフ）をチラ見せ"
-        },
-        {
-          "id": "https://gori.me/?p=135573",
-          "author": "g.O.R.i",
-          "description": "Apple Beta Software Programより Appleは6月16日、「iOS 14.7 Public Beta 3」「iPadOS 14.7 Public Beta 3」「macOS Big Sur 11.5 Public Beta 3」を、パブリックベータプログラム登録者向けに配信…\nThe post iOS/iPadOS 14.7とmacOS Big Sur 11.5のPublic Beta 3、配信開始 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios14/135573",
-          "publishedOn": "2021-06-15T22:05:04.000Z",
-          "wordCount": 258,
-          "title": "iOS/iPadOS 14.7とmacOS Big Sur 11.5のPublic Beta 3、配信開始"
-        },
-        {
-          "id": "https://gori.me/?p=135572",
-          "author": "g.O.R.i",
-          "description": "iOS 15の一部機能は、iPhone XS以降でなければ動作しないことが明らかになった。A12 Bionic以降のチップ搭載が条件となっており、対象となる端末は以下のとおり。 iPhone 12、iPhone 12 mini、iPhone 12 Pro、iPhone 12 Pro Max iPho…\nThe post iOS 15の一部機能、iPhone XS以降でなければ動作しない first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios15/135572",
-          "publishedOn": "2021-06-15T21:45:10.000Z",
-          "wordCount": 250,
-          "title": "iOS 15の一部機能、iPhone XS以降でなければ動作しない"
         }
       ]
     }
