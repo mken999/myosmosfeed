@@ -2,10 +2,221 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T00:17:51.879Z</updated>
+    <updated>2021-07-17T00:16:59.853Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[え？人気のゲーミングモニターが安く買えるって？【Amazonタイムセール祭り】]]></title>
+        <id>https://gori.me/?p=136233</id>
+        <link href="https://gori.me/sale/peripheral-sale/136233"/>
+        <updated>2021-07-16T22:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが7月16日から18日まで開催中の「タイムセール祭り」にて、多数の人気ゲーミングモニターが10〜15％オフで特価販売されている。 ASUSの24.5インチおよび27インチのゲーミングモニターは、最近になって在庫が復活。0.5msの応答速度、165Hzのリフレッシュレート、G-SYNC C…
+The post え？人気のゲーミングモニターが安く買えるって？【Amazonタイムセール祭り】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS/iPadOS15やmacOS MontereyのPublic Beta 2、配信開始]]></title>
+        <id>https://gori.me/?p=136234</id>
+        <link href="https://gori.me/ios/ios15/136234"/>
+        <updated>2021-07-16T22:09:26.000Z</updated>
+        <summary type="html"><![CDATA[Apple Beta Software Programより Appleは7月17日、「iOS 15」「iPadOS 15」「watchOS 8」「tvOS 15」の「Public Beta 2」を、パブリックベータプログラム登録者向けに配信開始した。開発者向けには「Beta 3」が配信されているが、…
+The post iOS/iPadOS15やmacOS MontereyのPublic Beta 2、配信開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外付けドライブ、大容量で安い【Amazonタイムセール祭り】]]></title>
+        <id>https://gori.me/?p=136231</id>
+        <link href="https://gori.me/sale/peripheral-sale/136231"/>
+        <updated>2021-07-16T21:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが7月16日から18日まで開催中の「タイムセール祭り」にて、外付けドライブがお買い得価格で販売されている。 【お得情報】チャージしてから買い物をすると最大2.5％のAmazonポイントが貯まる 昨今はポータブルSSDの人気が増しているが、とにかく低価格で大容量のストレージが必要であればH…
+The post 外付けドライブ、大容量で安い【Amazonタイムセール祭り】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Admin Warnings in the Block Editor]]></title>
+        <id>https://css-tricks.com/?p=344217</id>
+        <link href="https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/"/>
+        <updated>2021-07-16T20:27:46.000Z</updated>
+        <summary type="html"><![CDATA[We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …
+The post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Style Your React App – 5 Ways to Write CSS in 2021]]></title>
+        <id>60eef23666c61b07d458d43c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/"/>
+        <updated>2021-07-16T18:41:57.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Of Course We Can Make a CSS-Only Clock That Tells the Current Time!]]></title>
+        <id>https://css-tricks.com/?p=344147</id>
+        <link href="https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/"/>
+        <updated>2021-07-16T14:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!
+Here’s a quick look at the clocks …
+The post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mate Marschalko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Typography Links]]></title>
+        <id>https://css-tricks.com/?p=344411</id>
+        <link href="https://css-tricks.com/some-typography-links-3/"/>
+        <updated>2021-07-16T14:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Glitter text — whO (I learned a name for people who go by a one-word moniker like that: Mononymous) created a builder for fancy SVG-based type. It’s a custom font with <text>, and the fancy comes in with a 
+…
+The post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Insights I Gained While Researching Vue.js Accessibility]]></title>
+        <id>https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/</id>
+        <link href="https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/"/>
+        <updated>2021-07-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[microSDカードがお買い得！Switchの容量不足、解消しよう！【Amazonタイムセール祭り】]]></title>
+        <id>https://gori.me/?p=136224</id>
+        <link href="https://gori.me/sale/peripheral-sale/136224"/>
+        <updated>2021-07-16T11:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが7月16日から18日まで開催中の「タイムセール祭り」にて、microSDカードがお買い得価格で販売されている。 Samsung EVO Plus Micro SDカード（256GB）は、読み出し100MB/秒、書き込み90MB/秒のNintendo Switch動作確認済みの製品だ。通…
+The post microSDカードがお買い得！Switchの容量不足、解消しよう！【Amazonタイムセール祭り】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPadが2.6万円台、11インチiPad Proが6万円台から！iPad整備済商品の最新情報（2021年7月16日更新）]]></title>
+        <id>https://gori.me/?p=136229</id>
+        <link href="https://gori.me/sale/apple-refurbished/136229"/>
+        <updated>2021-07-16T11:46:50.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、iPad（第6世代）が26,1…
+The post iPadが2.6万円台、11インチiPad Proが6万円台から！iPad整備済商品の最新情報（2021年7月16日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEもSeries 6もお買い得！Apple Watch整備済商品の最新情報（2021年7月16日更新）]]></title>
+        <id>https://gori.me/?p=136227</id>
+        <link href="https://gori.me/sale/apple-refurbished/136227"/>
+        <updated>2021-07-16T11:40:15.000Z</updated>
+        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、Apple Wa…
+The post SEもSeries 6もお買い得！Apple Watch整備済商品の最新情報（2021年7月16日更新） first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire TV Stick 4Kが2,000円オフ【Amazonタイムセール祭り】]]></title>
+        <id>https://gori.me/?p=136222</id>
+        <link href="https://gori.me/sale/peripheral-sale/136222"/>
+        <updated>2021-07-16T04:19:22.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが7月16日から18日まで開催中の「タイムセール祭り」にて、Fire TV Stick 4Kが29％オフで販売されている。 【お得情報】チャージしてから買い物をすると最大2.5％のAmazonポイントが貯まる Fire TV Stick 4Kは、テレビのHDMI端子に接続してWi-Fiに…
+The post Fire TV Stick 4Kが2,000円オフ【Amazonタイムセール祭り】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウルトラワイドモニターも対応！エルゴトロンのモニターアームがお買い得【Amazonタイムセール祭り】]]></title>
+        <id>https://gori.me/?p=136221</id>
+        <link href="https://gori.me/sale/peripheral-sale/136221"/>
+        <updated>2021-07-16T03:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが7月16日から18日まで開催中の「タイムセール祭り」にて、エルゴトロン製のモニターアームが特価で販売されている。 【お得情報】チャージしてから買い物をすると最大2.5％のAmazonポイントが貯まる エルゴトロン LXは34インチ（3.2~11.3kg）まで、エルゴトロン HXは49イ…
+The post ウルトラワイドモニターも対応！エルゴトロンのモニターアームがお買い得【Amazonタイムセール祭り】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ciscoの4K UHDウェブカメラが10％オフ【Amazonタイムセール祭り】]]></title>
+        <id>https://gori.me/?p=136216</id>
+        <link href="https://gori.me/sale/peripheral-sale/136216"/>
+        <updated>2021-07-16T01:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが7月16日から18日まで開催中の「タイムセール祭り」にて、発売されたばかりのCiscoの4K UHDウェブカメラが10％オフで購入できる。 【お得情報】チャージしてから買い物をすると最大2.5％のAmazonポイントが貯まる 4K Ultra HDの高画質が特徴で、10倍ズームに対応。…
+The post Ciscoの4K UHDウェブカメラが10％オフ【Amazonタイムセール祭り】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気SSDが安い！Samsungの内蔵製品も、SanDiskのポータブル製品も！【Amazonタイムセール祭り】]]></title>
+        <id>https://gori.me/?p=136219</id>
+        <link href="https://gori.me/sale/peripheral-sale/136219"/>
+        <updated>2021-07-16T01:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが7月16日から18日まで開催中の「タイムセール祭り」にて、内蔵SSDドライブやポータブルSSDがお買い得価格で販売されている。 SanDiskのポータブルSSDは、最大読出し速度1050MB/秒、最大書込み速度1000MB/秒の高性能が魅力。USB 3.2 Gen 2に対応し、大容量デ…
+The post 人気SSDが安い！Samsungの内蔵製品も、SanDiskのポータブル製品も！【Amazonタイムセール祭り】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気の外部モニターが15％オフ！作業効率アップのための投資だ！【Amazonタイムセール祭り】]]></title>
+        <id>https://gori.me/?p=136214</id>
+        <link href="https://gori.me/sale/peripheral-sale/136214"/>
+        <updated>2021-07-16T01:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが7月16日から18日まで開催中の「タイムセール祭り」にて、人気の外部モニターが15％オフで販売されている。 【お得情報】チャージしてから買い物をすると最大2.5％のAmazonポイントが貯まる Dellのワイドフレームレスモニター「S2721DS」は、27インチで解像度2560…
+The post 人気の外部モニターが15％オフ！作業効率アップのための投資だ！【Amazonタイムセール祭り】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anker、162製品が最大45％オフ【Amazonタイムセール祭り】]]></title>
+        <id>https://gori.me/?p=136212</id>
+        <link href="https://gori.me/sale/peripheral-sale/136212"/>
+        <updated>2021-07-16T00:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Anker製品が、Amazonの「タイムセール祭り」に登場。合計162製品が最大45％オフになるセールを実施している。「Ankerのモバイルバッテリー、充電器などがお買い得」「Ankerのオーディオ機器、ロボット掃除機などがお買い得」で、人気製品がお買い得価格で販売中だ。 iPhone 12シリーズ…
+The post Anker、162製品が最大45％オフ【Amazonタイムセール祭り】 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPad Air（2020）とApple Watch Series 5がセール中【タイムセール祭り】]]></title>
         <id>https://gori.me/?p=136206</id>
@@ -3980,184 +4191,6 @@ The post ベルキン、7つのポートに拡張できるUSB-Cハブを発表 f
  【もっと読む】]]></summary>
         <author>
             <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course]]></title>
-        <id>60c2aa56d3126007592d6226</id>
-        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/"/>
-        <updated>2021-06-17T12:02:47.000Z</updated>
-        <summary type="html"><![CDATA[What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
-        <id>https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
-        <link href="https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
-        <updated>2021-06-17T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ライカ初の5Gスマホ「Leitz Phone 1」、ソフトバンクから発売]]></title>
-        <id>https://gori.me/?p=135617</id>
-        <link href="https://gori.me/mobile/smartphone/135617"/>
-        <updated>2021-06-17T05:50:41.000Z</updated>
-        <summary type="html"><![CDATA[ソフトバンクは6月17日、ドイツの老舗カメラメーカー「ライカ」監修の5G対応スマートフォン「Leitz Phone 1」（読み方：ライツフォン ワン）を発表した。価格は税込187,920円、発売は7月以降を予定している。 1インチ型F1.9/19mm/7枚構成レンズを搭載、RAW撮影にも対応 Lei…
-The post ライカ初の5Gスマホ「Leitz Phone 1」、ソフトバンクから発売 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【レビュー】Anker Magnetic Silicone Case：触り心地サラサラ、フィットゆるめ]]></title>
-        <id>https://gori.me/?p=135586</id>
-        <link href="https://gori.me/iphone-accessories/iphone-case/135586"/>
-        <updated>2021-06-17T01:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Ankerから、MagSafeに対応したiPhone 12シリーズ用ケース「Magnetic Silicone Case」が登場した。 MagSafeに対応するため、Belkin BOOST↑CHARGE PRO 3-in-1 Wireless Charger with MagSafeなどMagSa…
-The post 【レビュー】Anker Magnetic Silicone Case：触り心地サラサラ、フィットゆるめ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox]]></title>
-        <id>60c88bbc4dc1a607ed7b2ffa</id>
-        <link href="https://www.freecodecamp.org/news/what-are-bookmarklets/"/>
-        <updated>2021-06-17T00:53:04.000Z</updated>
-        <summary type="html"><![CDATA[Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAVPower、不正レビュー発覚でAmazonから”強制退場”]]></title>
-        <id>https://gori.me/?p=135608</id>
-        <link href="https://gori.me/iphone-accessories/135608"/>
-        <updated>2021-06-16T22:52:19.000Z</updated>
-        <summary type="html"><![CDATA[株式会社SUNVALLEY JAPANのワイヤレス充電器・モバイルバッテリーブランド「RAVPower」が、Amazonから取り下げられている。The Vergeによると、米Amazonは取り下げたことを認め、AUKEYとMPOWにも同様の措置を取っていたと明らかにした。 国内でもRAVPower製…
-The post RAVPower、不正レビュー発覚でAmazonから”強制退場” first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook、Oculus Questアプリに広告の配信を開始へ]]></title>
-        <id>https://gori.me/?p=135604</id>
-        <link href="https://gori.me/facebook/facebook-news/135604"/>
-        <updated>2021-06-16T22:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Facebookは今後数週間のうちに、Oculus Quest向けの広告配信をスタートする。Resolution Gamesの「Blaston」を筆頭に、複数のデベロッパーと行う。狙いは”VR開発における自立したプラットフォーム”の構築。ユーザーからのフィードバックをもとに、広告配信対応アプリの拡大…
-The post Facebook、Oculus Questアプリに広告の配信を開始へ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Monterey：ディスプレイ設定のデザインが刷新]]></title>
-        <id>https://gori.me/?p=135602</id>
-        <link href="https://gori.me/macosx/macosmonterey/135602"/>
-        <updated>2021-06-16T21:56:03.000Z</updated>
-        <summary type="html"><![CDATA[macOS Big Surのディスプレイ設定 macOS Montereyでは、システム環境設定にある「ディスプレイ」項目のデザインが刷新されている。ディスプレイの配置はキーボードとマウスとともに表示され、ディスプレイ名または画面下部の「ディスプレイ設定」をクリックすると個別の設定に遷移する仕組みと…
-The post macOS Monterey：ディスプレイ設定のデザインが刷新 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Split – How to Split a String into an Array in JS]]></title>
-        <id>60c088e5d3126007592d56f1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/"/>
-        <updated>2021-06-16T21:19:08.000Z</updated>
-        <summary type="html"><![CDATA[In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, "Yes, You Can DO It!". In JavaScript, we can create a string in a couple of ways: Using the string literal as a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inline Styles as Classes (lol)]]></title>
-        <id>https://css-tricks.com/?p=342358</id>
-        <link href="https://css-tricks.com/inline-styles-as-classes-lol/"/>
-        <updated>2021-06-16T21:11:02.000Z</updated>
-        <summary type="html"><![CDATA[If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. 
-I've revolutionized CSS. pic.twitter.com/1AWCldyCwP
-— Sam 
-
-…
-The post Inline Styles as Classes (lol) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained]]></title>
-        <id>60b8cb0aacb62507dd1d82ea</id>
-        <link href="https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/"/>
-        <updated>2021-06-16T20:56:49.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Better React Apps with These Simple Tricks]]></title>
-        <id>60ca25704dc1a607ed7b408c</id>
-        <link href="https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/"/>
-        <updated>2021-06-16T20:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful and Useless Code Comments]]></title>
-        <id>https://css-tricks.com/?p=342630</id>
-        <link href="https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/"/>
-        <updated>2021-06-16T19:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Jim Nielsen: 
-If somebody says a comment isn’t adding any value, I would ask: to whom?
-Personally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.
-Jim showed …
-The post Useful and Useless Code Comments appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teach Yourself Data Analytics in 30 Days]]></title>
-        <id>60ca30af4dc1a607ed7b4197</id>
-        <link href="https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/"/>
-        <updated>2021-06-16T17:19:31.000Z</updated>
-        <summary type="html"><![CDATA[You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Used the WAAPI to Build an Animation Library]]></title>
-        <id>https://css-tricks.com/?p=342353</id>
-        <link href="https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/"/>
-        <updated>2021-06-16T14:26:58.000Z</updated>
-        <summary type="html"><![CDATA[The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …
-The post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Okiki Ojo</name>
         </author>
     </entry>
 </feed>
