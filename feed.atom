@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T00:18:21.318Z</updated>
+    <updated>2021-07-19T00:17:36.917Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新型MacBook Pro（2021）、発売されたら14インチを選ぶ理由]]></title>
+        <id>https://gori.me/?p=136249</id>
+        <link href="https://gori.me/macbookpro/136249"/>
+        <updated>2021-07-18T21:55:52.000Z</updated>
+        <summary type="html"><![CDATA[新型MacBook Pro（2021）は、14インチと16インチの2モデルが用意されると噂されている。M1チップを上回る性能を持つ「M1X」の搭載、デザインの刷新、ミニLEDディスプレイの搭載、Touch Barの廃止と物理ファンクションキーの復活、MagSafeや旧ポートの復活、最大30時間のバッ…
+The post 新型MacBook Pro（2021）、発売されたら14インチを選ぶ理由 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミニLEDディスプレイ搭載のMacBook Pro、今年9月〜11月までに発売か]]></title>
+        <id>https://gori.me/?p=136253</id>
+        <link href="https://gori.me/macbookpro/136253"/>
+        <updated>2021-07-18T21:35:24.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、ミニLEDディスプレイを搭載した新型MacBook Proを9月から11月の間に発表する可能性がある。Appleに詳しいBloombergの名物記者Mark Gurman氏の最新ニュースレターによると、新型MacBook Proはもっと早い時期に発表される計画があったが、ミニLEDに関…
+The post ミニLEDディスプレイ搭載のMacBook Pro、今年9月〜11月までに発売か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13、Apple Watchに似た「常時表示ディスプレイ」に対応か]]></title>
+        <id>https://gori.me/?p=136251</id>
+        <link href="https://gori.me/iphone/iphone-news/136251"/>
+        <updated>2021-07-18T15:07:53.000Z</updated>
+        <summary type="html"><![CDATA[2021年の新型iPhone（iPhone 13）は、Apple Watchの一部モデルに搭載されている常時表示ディスプレイに対応する可能性がある。Appleに詳しいBloombergの名物記者Mark Gurman氏が、最新のニュースレターで明らかにした。Apple Watchの常時表示ディスプレ…
+The post iPhone 13、Apple Watchに似た「常時表示ディスプレイ」に対応か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[約3cm四方でUSB-Cポート2つ搭載、最大20WのUSB充電器が登場]]></title>
         <id>https://gori.me/?p=136245</id>
@@ -3934,159 +3973,6 @@ The post プリンターで広がる子供遊び　ミニカー用の地図が�
  【もっと読む】]]></summary>
         <author>
             <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【レビュー】Belkin SOUNDFORAM Freedom：探すアプリ対応の完全ワイヤレスイヤホン]]></title>
-        <id>https://gori.me/?p=135641</id>
-        <link href="https://gori.me/music-accessories/earphones/135641"/>
-        <updated>2021-06-18T22:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Belkinから、完全ワイヤレスイヤホン「Belkin SOUNDFORAM Freedom」が登場した。サードパーティ製イヤホンとして、探すアプリに唯一対応している製品だ。（2021年6月時点） 探すアプリ対応のほか、Qualcomm aptXコーデックの対応、PEEK+TPUの二層構造ドライバ搭…
-The post 【レビュー】Belkin SOUNDFORAM Freedom：探すアプリ対応の完全ワイヤレスイヤホン first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 15：アプリ間のドラッグ・アンド・ドロップに対応]]></title>
-        <id>https://gori.me/?p=135560</id>
-        <link href="https://gori.me/ios/ios-tips/135560"/>
-        <updated>2021-06-18T22:05:06.000Z</updated>
-        <summary type="html"><![CDATA[iOS 15は、アプリ間のドラッグ・アンド・ドロップに対応する。iPadは2017年にリリースされたiOS 11から提供されているが、iPhoneは4年越しに解禁される。 従来は、元のアプリでコピーし別のアプリを開いてペーストする必要があった。iOS 15からは、アプリで移動したいファイルをホールド…
-The post iOS 15：アプリ間のドラッグ・アンド・ドロップに対応 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Keyboard・Mouse・Trackpadのスペースグレイモデル、正式に販売終了]]></title>
-        <id>https://gori.me/?p=135674</id>
-        <link href="https://gori.me/mac-accessories/mac-prepherial/135674"/>
-        <updated>2021-06-18T21:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Appleが、Magic Keyboard、Magic Mouse 2、Magic Trackpad 2のスペースグレイモデルが販売終了した。スペースグレイモデルの商品ページは、シルバーモデルにリダイレクトされる。 3製品のスペースグレイモデルは今年5月、在庫限りで販売終了すると発表されていた。スペ…
-The post Magic Keyboard・Mouse・Trackpadのスペースグレイモデル、正式に販売終了 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 15：カーソル移動時に出現する虫眼鏡が復活]]></title>
-        <id>https://gori.me/?p=135600</id>
-        <link href="https://gori.me/ios/ios-tips/135600"/>
-        <updated>2021-06-18T21:50:54.000Z</updated>
-        <summary type="html"><![CDATA[iOS 15では、カーソルを移動する際に虫眼鏡（ルーペ）が表示される仕様になった。iOS 13以降、虫眼鏡は非表示。カーソルの位置が指で隠れてしまっていたため不便だった。 So the fact that the magnifying glass is back on iOS 15 makes me…
-The post iOS 15：カーソル移動時に出現する虫眼鏡が復活 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 15：時間ピッカー、グリグリ回転できる”スロット風”UIが復活]]></title>
-        <id>https://gori.me/?p=135568</id>
-        <link href="https://gori.me/ios/ios-tips/135568"/>
-        <updated>2021-06-18T21:35:04.000Z</updated>
-        <summary type="html"><![CDATA[iOS 14のタイムピッカー iOS 15では、iOS 14で”改悪”された時間ピッカーが、iOS 13以前に採用されていた”スロット風”UIとして復活する。 iOS 14は、カレンダーアプリやアラームなどで時間を入力する際に、数字をキーボードで入力する仕組みに変更された。iOS 13以前は上下にス…
-The post iOS 15：時間ピッカー、グリグリ回転できる”スロット風”UIが復活 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 15：写真アプリでEXIFデータが確認可能に]]></title>
-        <id>https://gori.me/?p=135570</id>
-        <link href="https://gori.me/ios/ios-tips/135570"/>
-        <updated>2021-06-18T21:30:47.000Z</updated>
-        <summary type="html"><![CDATA[iOS 14はEXIF情報の確認ができない iOS 15の写真アプリは、写真のEXIFメタデータが確認できる。撮影した写真の位置情報やキャプションに加え、iOS 15は、カメラ、レンズ、画素数、シャッタースピード、ファイルサイズ、ISO感度、画角、露出度が確認できる。また必要であれば、ユーザー自身で…
-The post iOS 15：写真アプリでEXIFデータが確認可能に first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the `outline` Property as a Collapsable Border]]></title>
-        <id>https://css-tricks.com/?p=341511</id>
-        <link href="https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/"/>
-        <updated>2021-06-18T20:38:59.000Z</updated>
-        <summary type="html"><![CDATA[The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …
-The post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Carter Li</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCP vs UDP – Which Protocol is Faster?]]></title>
-        <id>60b46dbd11ffb70827ef9dea</id>
-        <link href="https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/"/>
-        <updated>2021-06-18T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Specialisation Courses for Advanced ML Practitioners]]></title>
-        <id>60cc5a904dc1a607ed7b4c54</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/"/>
-        <updated>2021-06-18T15:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Alternative Voice UI To Voice Assistants]]></title>
-        <id>https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/</id>
-        <link href="https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/"/>
-        <updated>2021-06-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ottomatias Peura)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Sorting Algorithms]]></title>
-        <id>60cca3294dc1a607ed7b4c76</id>
-        <link href="https://www.freecodecamp.org/news/understanding-sorting-algorithms/"/>
-        <updated>2021-06-18T13:56:04.000Z</updated>
-        <summary type="html"><![CDATA[Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Typography]]></title>
-        <id>https://css-tricks.com/?p=342326</id>
-        <link href="https://css-tricks.com/links-on-typography-2/"/>
-        <updated>2021-06-18T13:44:17.000Z</updated>
-        <summary type="html"><![CDATA[I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the 
-…
-The post Links on Typography appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Client-Side Routing In Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/client-side-routing-next-js/</id>
-        <link href="https://smashingmagazine.com/2021/06/client-side-routing-next-js/"/>
-        <updated>2021-06-18T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adebiyi Adedotun)</name>
         </author>
     </entry>
 </feed>
