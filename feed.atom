@@ -2,10 +2,204 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T00:17:36.917Z</updated>
+    <updated>2021-07-20T00:16:15.934Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
+        <id>60f3e5ca66c61b07d458eb2d</id>
+        <link href="https://www.freecodecamp.org/news/install-xcode-command-line-tools/"/>
+        <updated>2021-07-19T22:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 6sからの買い替えを決意した理由が「ジムの予約を勝ち取るため」というお姉さまの話]]></title>
+        <id>https://gori.me/?p=136259</id>
+        <link href="https://gori.me/iphone/iphone6s/136259"/>
+        <updated>2021-07-19T22:05:08.000Z</updated>
+        <summary type="html"><![CDATA[※画像はイメージ 僕の通っている大衆向けフィットネスクラブでは、スタジオプログラムが大人気。従来はスタジオ前に並んで早い物順で参加できる仕組みだったようだが、コロナ禍で予約方法が変更。オンライン予約システムが導入され、各自のスマホから予約開始時刻とともに枠を抑える仕組みになった。 先日、ジムエリアで…
+The post iPhone 6sからの買い替えを決意した理由が「ジムの予約を勝ち取るため」というお姉さまの話 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Big Sur 11.5 RC、新ビルドを開発者向けに配信開始]]></title>
+        <id>https://gori.me/?p=136270</id>
+        <link href="https://gori.me/macosx/macosbigsur/136270"/>
+        <updated>2021-07-19T21:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Appleは7月20日、「macOS Big Sur 11.5 RC」の新ビルドを開発者向けに配信開始した。配布されたビルドナンバーは「20G71」。7月14日に配信されていたビルドナンバーは「20G70」だった。 最新ビルドの詳細は不明。パフォーマンスの改善や改良、細かい不具合や動作不良の修正が主…
+The post macOS Big Sur 11.5 RC、新ビルドを開発者向けに配信開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watchOS 7.6、正式リリース　心電図アプリや不規則な心拍の通知の対象地域拡大]]></title>
+        <id>https://gori.me/?p=136269</id>
+        <link href="https://gori.me/watchos/watchos7/136269"/>
+        <updated>2021-07-19T21:48:37.000Z</updated>
+        <summary type="html"><![CDATA[Appleは7月20日、watchOS 7.6を正式リリースした。 watchOS 7.6では、さらに30の地域で心電図アプリおよび不規則な心拍の通知に対応。心電図アプリはApple Watch Series 4以降のモデルが利用可能。対象地域は公式ページより確認できる。 心電図アプリおよび不規則な…
+The post watchOS 7.6、正式リリース　心電図アプリや不規則な心拍の通知の対象地域拡大 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 14.7、正式リリース　MagSafeバッテリーパック対応、バグ修正など]]></title>
+        <id>https://gori.me/?p=136267</id>
+        <link href="https://gori.me/ios/ios14/136267"/>
+        <updated>2021-07-19T21:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Appleは7月20日、iOS 14.7を正式リリースした。 iOS 14.7は、iPhone 12、iPhone 12 mini、iPhone 12 Pro、iPhone 12 Pro MaxでのMagSafeバッテリーパックの使用に対応。HomePodのタイマーを管理する機能がホームアプリに追加…
+The post iOS 14.7、正式リリース　MagSafeバッテリーパック対応、バグ修正など first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Images are hard.]]></title>
+        <id>https://css-tricks.com/?p=344404</id>
+        <link href="https://css-tricks.com/images-are-hard/"/>
+        <updated>2021-07-19T20:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …
+The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RGB Color – HTML and CSS Guide]]></title>
+        <id>60f53af066c61b07d458ed0a</id>
+        <link href="https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/"/>
+        <updated>2021-07-19T19:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Cloud Native? The Cloud Computing Delivery Model Explained]]></title>
+        <id>60f2829d66c61b07d458e58f</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-cloud-native/"/>
+        <updated>2021-07-19T18:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scrape Websites with Node.js and Cheerio]]></title>
+        <id>60ec528ce8ee9b08300edb9e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/"/>
+        <updated>2021-07-19T16:50:30.000Z</updated>
+        <summary type="html"><![CDATA[There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage]]></title>
+        <id>60e7d016134ad707be00f47c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/"/>
+        <updated>2021-07-19T15:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines]]></title>
+        <id>https://css-tricks.com/?p=343893</id>
+        <link href="https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/"/>
+        <updated>2021-07-19T14:43:29.000Z</updated>
+        <summary type="html"><![CDATA[The Scroll-Linked Animations specification is an upcoming and experimental addition to CSS. Using the @scroll-timeline at-rule and animation-timeline property this specification provides you can control the time position of regular CSS Animations by scrolling.
+In this post, we take a …
+The post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Bramus Van Damme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Kerberos Work? The Authentication Protocol Explained]]></title>
+        <id>60dbcc7c27f80207bcdbbcff</id>
+        <link href="https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/"/>
+        <updated>2021-07-19T14:34:59.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bose QuietComfort 35の後継モデル、近々発売されそう]]></title>
+        <id>https://gori.me/?p=136265</id>
+        <link href="https://gori.me/music-accessories/headphones/136265"/>
+        <updated>2021-07-19T14:02:41.000Z</updated>
+        <summary type="html"><![CDATA[Boseが、近日中に大人気ヘッドホン「QuietComfort 35」の後継モデル「QuietComfort 45」を発売する可能性がある。連邦通信委員会（FCC）の申請書類から実機の写真が明らかになった。 #Bose – #QuietComfort45 – First lo…
+The post Bose QuietComfort 35の後継モデル、近々発売されそう first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Recursion in Programming]]></title>
+        <id>60f18a9666c61b07d458e2b0</id>
+        <link href="https://www.freecodecamp.org/news/understanding-recursion-in-programming/"/>
+        <updated>2021-07-19T13:56:48.000Z</updated>
+        <summary type="html"><![CDATA[In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone SE 3、A14 Bionic搭載5G対応で2022年前半発売か]]></title>
+        <id>https://gori.me/?p=136261</id>
+        <link href="https://gori.me/iphone/iphone-news/136261"/>
+        <updated>2021-07-19T11:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、A14 Bionicチップを搭載し5Gに対応した新型iPhone SE（iPhone SE 3）を2022年に発表する可能性がある。4.7インチディスプレイを搭載し、現行のiPhone SE（iPhone SE 2）と同じデザインを引き継ぐ見通しだ。 Apple情報に詳しいアナリストM…
+The post iPhone SE 3、A14 Bionic搭載5G対応で2022年前半発売か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maintaining End-To-End Quality With Visual Testing]]></title>
+        <id>https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/</id>
+        <link href="https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/"/>
+        <updated>2021-07-19T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Colby Fayock)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB-Cポート×3＋USB-Aポート×1、最大65W出力のUSB充電器が20％オフ]]></title>
+        <id>https://gori.me/?p=136255</id>
+        <link href="https://gori.me/sale/peripheral-sale/136255"/>
+        <updated>2021-07-19T01:14:27.000Z</updated>
+        <summary type="html"><![CDATA[CIOが、4ポートを搭載したCIOのGaN対応USB充電器「CIO-G65W3C1A」を20％オフで販売するセールを期間限定で開催している。セールは7月26日まで。CIO-G65W3C1Aの特徴は、圧倒的なコンパクトさ。サイズは50 x 51 x 30mm、重さは112g。Apple純正の61W充電…
+The post USB-Cポート×3＋USB-Aポート×1、最大65W出力のUSB充電器が20％オフ first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型MacBook Pro（2021）、発売されたら14インチを選ぶ理由]]></title>
         <id>https://gori.me/?p=136249</id>
@@ -3943,32 +4137,6 @@ The post Apple Watch Series 6、AirPods Proがセール【プライムデー2021
         <updated>2021-06-20T15:01:14.000Z</updated>
         <summary type="html"><![CDATA[年に一度のプライム会員大感謝祭「プライムデー」にて、Fire TV Stick 4Kが過去最安値となる43％オフで販売されている。 Fire TV Stick 4Kは、Fire TV Stickの4K対応モデル。外出自粛期間中は人気商品となり在庫切れが続いていた人気商品だ。1.7GHzで動作する新し…
 The post 過去最安値！Fire TV Stick 4K、43％オフ【プライムデー2021】 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[活用しないと損！プライムデー2021のお得なキャンペーンまとめ]]></title>
-        <id>https://gori.me/?p=135676</id>
-        <link href="https://gori.me/amazon/amazon-sale/135676"/>
-        <updated>2021-06-19T22:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Amazonは6月21日（月）0時から22日23時59分までの48時間、年に一度のプライム会員大感謝祭「プライムデー」を開催する。セール期間中、多数のトップブランドやカスタマーレビュー星4つ以上の人気商品が特別価格で販売されるが、同時に多数のキャンペーンが開催されている。 プライムデーポイントアップ…
-The post 活用しないと損！プライムデー2021のお得なキャンペーンまとめ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プリンターで広がる子供遊び　ミニカー用の地図が印刷できる時代]]></title>
-        <id>https://gori.me/?p=135657</id>
-        <link href="https://gori.me/papa/childcare-gadgets/135657"/>
-        <updated>2021-06-19T21:45:34.000Z</updated>
-        <summary type="html"><![CDATA[プリンターは必要はないと思っていた。仕事柄、やり取りする資料はデジタルデータ。唯一印刷やコピーを必要とするのは役所関係の資料だが、最寄りのコンビニにあるプリンターがあれば十分。祖父母に見せるための写真もコンビニで簡単に印刷できる、非常に便利な時代なのだ。 ところが数カ月前、我が家はついにプリンターを…
-The post プリンターで広がる子供遊び　ミニカー用の地図が印刷できる時代 first appeared on ゴリミー.
 
  【もっと読む】]]></summary>
         <author>
