@@ -2,10 +2,185 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T00:16:15.934Z</updated>
+    <updated>2021-07-21T00:17:13.685Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Nine States of Design]]></title>
+        <id>https://css-tricks.com/?p=345062</id>
+        <link href="https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85"/>
+        <updated>2021-07-20T23:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:
+Modern UI teams are designing components 
+…
+The post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleの折畳スマホPixel Fold、120Hzディスプレイ搭載か]]></title>
+        <id>https://gori.me/?p=136301</id>
+        <link href="https://gori.me/google/pixel-news/136301"/>
+        <updated>2021-07-20T22:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Googleの折畳スマホ（Pixel Fold）は、120Hzリフレッシュレートのディスプレイを搭載する可能性がある。ディスプレイ業界のサプライチェーン調査会社のCEOを務めるRoss Young氏が明らかにした。「Pixel Fold」はSamsung Display製の7.57イオン型ディスプレ…
+The post Googleの折畳スマホPixel Fold、120Hzディスプレイ搭載か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Underline Text – How to Use the &lt;u&gt; Tag with Example Code]]></title>
+        <id>605301d528094f59be257c67</id>
+        <link href="https://www.freecodecamp.org/news/html-underline-text-how-to-use-the-u-tag-with-example-code/"/>
+        <updated>2021-07-20T22:48:13.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to learn about the <u> tag and when it is appropriate to use it in HTML 5.  In older versions of HTML, you'd use this tag as a way to underline text. We are going to learn about the new HTML 5]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Belkin、iPhone 12シリーズ向けMagSafe対応クリアケースを発表]]></title>
+        <id>https://gori.me/?p=136299</id>
+        <link href="https://gori.me/iphone-accessories/iphone-case/136299"/>
+        <updated>2021-07-20T22:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Belkinは7月20日、MagSafe対応iPhone 12シリーズ用ケース「SHEERFORCE MagSafe対応抗菌クリアケース」の販売を開始した。 SHEERFORCE MagSafe対応抗菌クリアケースは、透明で耐紫外線性のある素材が黄ばみを防ぎ、ケースの端を高くしたデザインを採用。EP…
+The post Belkin、iPhone 12シリーズ向けMagSafe対応クリアケースを発表 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【レビュー】GRAMAS UNIVERSAL CASE：カメラをカバーする手帳型ケース]]></title>
+        <id>https://gori.me/?p=136288</id>
+        <link href="https://gori.me/iphone-accessories/iphone-case/136288"/>
+        <updated>2021-07-20T21:45:06.000Z</updated>
+        <summary type="html"><![CDATA[いつしかiPhoneのカメラは、突起していることが当たり前になってしまった。カメラの性能が向上することは歓迎するが、ケースなしでは机の上に置いたときにガタガタしてしまう。カメラと合わせて本体を守るためにケースを付ける人は多いが、カメラは大抵覆われていない。 坂本ラヂヲがGRAMASブランドより、カメ…
+The post 【レビュー】GRAMAS UNIVERSAL CASE：カメラをカバーする手帳型ケース first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming VS Coding VS Development – What&#x27;s the Difference?]]></title>
+        <id>60f2dbac66c61b07d458e5c9</id>
+        <link href="https://www.freecodecamp.org/news/programming-coding-developement-whats-the-difference/"/>
+        <updated>2021-07-20T20:04:12.000Z</updated>
+        <summary type="html"><![CDATA[In my very early days as a budding web developer, I made a fairly common mistake. On Facebook, I sent a friend request to a senior software engineer (I wasn't aware of his position at the time) and started a chat with him thereafter. Done with greetings and pleasantries, I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://css-tricks.com/?p=344944</id>
+        <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
+        <updated>2021-07-20T20:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Eric doesn’t mince words, especially in the title, but also in the conclusion:
+In modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in 
+…
+The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scale a System With Process Splitting and Redis]]></title>
+        <id>60ed44c866c61b07d458d023</id>
+        <link href="https://www.freecodecamp.org/news/scale-system-split-processes/"/>
+        <updated>2021-07-20T19:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever gotten into trouble trying to handle a single process that's really huge or heavy? If so, I can help you figure out how to better manage it. In this article I will be sharing how I'm currently managing a single message that is too big to be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Properties – Max-width, Min-width, Max-height, and Min-height Explained with Examples]]></title>
+        <id>60e009e527f80207bcdbd00a</id>
+        <link href="https://www.freecodecamp.org/news/css-properties-examples/"/>
+        <updated>2021-07-20T17:09:20.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a website, making it responsive is one of the most important things you'll do. It can be difficult to create websites that look good across a variety of screen sizes. You'll have to handle rendering an element's width or height, and specifying varied width sizes using media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
+        <id>https://css-tricks.com/?p=344497</id>
+        <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
+        <updated>2021-07-20T15:03:40.000Z</updated>
+        <summary type="html"><![CDATA[I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …
+The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Murtuzaali Surti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anker、楽天お買い物マラソンで対象商品の30％オフセール開催中]]></title>
+        <id>https://gori.me/?p=136297</id>
+        <link href="https://gori.me/sale/peripheral-sale/136297"/>
+        <updated>2021-07-20T14:50:01.000Z</updated>
+        <summary type="html"><![CDATA[楽天が開催している、買えば買うほどポイントアップするキャンペーン「楽天お買い物マラソン」に、Ankerが参加。対象商品を最大30％オフで販売するセールを行っている。セールは7月26日9時59分まで。 静音設計された超薄型ロボット掃除機「Anker Eufy RoboVac 11S」は2,820円オフ…
+The post Anker、楽天お買い物マラソンで対象商品の30％オフセール開催中 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premiere Pro、M1 Macにネイティブ対応　80％高速化]]></title>
+        <id>https://gori.me/?p=136295</id>
+        <link href="https://gori.me/apps/mac-app-news/136295"/>
+        <updated>2021-07-20T14:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Adobeは7月20日、Premiere ProがAppleシリコンMac（M1）にネイティブ対応したと発表した。M1チップを搭載したMacBook Pro、MacBook Air、24インチiMac、Mac miniにおけるパフォーマンスが大幅に向上する。 Adobeによると、M1 Mac対応した…
+The post Premiere Pro、M1 Macにネイティブ対応　80％高速化 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型iPad miniはベゼルレスデザインでUSB-C採用、A15チップ内蔵で年内発表か]]></title>
+        <id>https://gori.me/?p=136293</id>
+        <link href="https://gori.me/ipad/ipadmini/136293"/>
+        <updated>2021-07-20T13:38:05.000Z</updated>
+        <summary type="html"><![CDATA[新型iPad mini（iPad mini 6）は、現行のiPad Airに似たデザイン、「A15』チップ内蔵、USB-Cポート採用、Smart Connector搭載が特徴になると見られる。9to5Macによると、早ければ年内に発表されるという。 BloombergのMark Gurman記者、リ…
+The post 新型iPad miniはベゼルレスデザインでUSB-C採用、A15チップ内蔵で年内発表か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Use the MySQL Database]]></title>
+        <id>60f1d20a66c61b07d458e4a3</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/"/>
+        <updated>2021-07-20T13:18:33.000Z</updated>
+        <summary type="html"><![CDATA[MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel. Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher. This course starts with SQL basics. Then it also goes]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Migrate From WordPress To A Headless CMS]]></title>
+        <id>https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/</id>
+        <link href="https://smashingmagazine.com/2021/07/wordpress-headless-cms-storyblok/"/>
+        <updated>2021-07-20T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will look at when it makes sense to migrate from a monolithic project to a headless setup and the benefits that come with it. In addition to a step-by-step guide on how to migrate WordPress to Storyblok Headless CMS, the problems that will arise during the process and how to deal with them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alba Silvente)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Install Xcode Command Line Tools on a Mac]]></title>
         <id>60f3e5ca66c61b07d458eb2d</id>
@@ -3994,149 +4169,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-21T12:42:44.000Z</updated>
         <summary type="html"><![CDATA[年に一度のプライム会員大感謝祭「プライムデー」では、ノイズキャンセリング機能に対応したイヤホンやヘッドホンが1万円以下で購入できる。 リモートワークや自宅勤務をする人が増えたことで、周りの音をシャットアウトできるノイズキャンセリング機能付きのイヤホンやヘッドホンの需要が伸びたと聞く。自宅内の一室で仕…
 The post 1万円以下で購入できるノイキャン対応イヤホン・ヘッドホン【プライムデー2021】 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirPods Pro、過去最安値を更新！7,638円オフ【プライムデー2021】]]></title>
-        <id>https://gori.me/?p=135700</id>
-        <link href="https://gori.me/sale/peripheral-sale/135700"/>
-        <updated>2021-06-21T08:44:13.000Z</updated>
-        <summary type="html"><![CDATA[プライムデーで特価販売されていたAirPods Proが、さらに値下げされ過去最安値を更新！7,638円オフ（25％オフ）にとなる、22,942円で購入できるようになった。 AirPods 2は引き続き21％オフで販売中。ワイヤレス充電対応モデルは19,820円、通常モデルは15,474円で購入でき…
-The post AirPods Pro、過去最安値を更新！7,638円オフ【プライムデー2021】 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Pencil（第2世代）が安い！iPad整備済商品の最新情報（2021年6月21日更新）]]></title>
-        <id>https://gori.me/?p=135697</id>
-        <link href="https://gori.me/sale/apple-refurbished/135697"/>
-        <updated>2021-06-21T02:44:45.000Z</updated>
-        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はiPadの各モデルが大量に復活！…
-The post Apple Pencil（第2世代）が安い！iPad整備済商品の最新情報（2021年6月21日更新） first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinksysのWi-Fi 6ルーターで通信高速化【プライムデー2021】]]></title>
-        <id>https://gori.me/?p=135695</id>
-        <link href="https://gori.me/sale/peripheral-sale/135695"/>
-        <updated>2021-06-21T01:52:04.000Z</updated>
-        <summary type="html"><![CDATA[年に一度のプライム会員大感謝祭「プライムデー」にて、LinksysのWi-Fi 6対応ルーターが特価で販売されている。セール対象になっているWi-Fi 6対応ルーターはほかにもあるが、僕自身が使用しており自信をもっておすすめできるLinksys製品を紹介する。 特におすすめは、Velop AX420…
-The post LinksysのWi-Fi 6ルーターで通信高速化【プライムデー2021】 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thunderbolt 4製品がお買い得【プライムデー2021】]]></title>
-        <id>https://gori.me/?p=135693</id>
-        <link href="https://gori.me/sale/peripheral-sale/135693"/>
-        <updated>2021-06-21T00:55:45.000Z</updated>
-        <summary type="html"><![CDATA[年に一度のプライム会員大感謝祭「プライムデー」にて、Thunderbolt 4製品が特価で販売されている。 Thunderbolt 4とは、現在のMacBook AirやiMacの外部ポートに搭載されているThunderbolt 3の後継規格。Thunderbolt 3、Thunderbolt 4、…
-The post Thunderbolt 4製品がお買い得【プライムデー2021】 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MagSafe対応製品がお買い得【プライムデー2021】]]></title>
-        <id>https://gori.me/?p=135691</id>
-        <link href="https://gori.me/sale/peripheral-sale/135691"/>
-        <updated>2021-06-20T23:52:31.000Z</updated>
-        <summary type="html"><![CDATA[年に一度のプライム会員大感謝祭「プライムデー」にて、MagSafe対応製品が特価で販売されている。 おすすめは、Belkin製の3-in-1充電器と2-in-1充電器。サードパーティ製品として15WのMagSafe規格に準拠しているMFiライセンスを取得した唯一の製品となっており、安心して利用できる…
-The post MagSafe対応製品がお買い得【プライムデー2021】 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anker、170製品が最大50％オフ【プライムデー2021】]]></title>
-        <id>https://gori.me/?p=135681</id>
-        <link href="https://gori.me/sale/peripheral-sale/135681"/>
-        <updated>2021-06-20T21:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Ankerは予告していたとおり、Amazonの「プライムデー」に登場。合計170製品が最大50％オフになるセールを実施している。「Ankerのモバイルバッテリー、充電器などがお買い得」「Ankerのオーディオ関連機器、ロボット掃除機などがお買い得」で、人気製品がお買い得価格で販売中だ。 予告通り、A…
-The post Anker、170製品が最大50％オフ【プライムデー2021】 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satechi、一部商品が最大30％オフ【プライムデー2021】]]></title>
-        <id>https://gori.me/?p=135683</id>
-        <link href="https://gori.me/sale/peripheral-sale/135683"/>
-        <updated>2021-06-20T21:35:49.000Z</updated>
-        <summary type="html"><![CDATA[Satechi製品が、年に一度のプライム会員大感謝祭「プライムデー」に登場した。 USB-C端子に直接挿すApple Watch 充電ドックが30％オフ（参考：レビュー記事）、9-in-1 USB-Cハブが20％オフ（参考：レビュー記事）で購入できる。 以下に対象商品を一部ピックアップして紹介する。…
-The post Satechi、一部商品が最大30％オフ【プライムデー2021】 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Echo Dot、70％オフで投げ売り中【プライムデー2021】]]></title>
-        <id>https://gori.me/?p=135688</id>
-        <link href="https://gori.me/sale/peripheral-sale/135688"/>
-        <updated>2021-06-20T21:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Echoシリーズのコンパクトモデル「Echo Dot（第3世代）」が、年に一度のプライム会員大感謝祭「プライムデー」に登場。70％オフとなる1,480円で購入できる。前モデルから音質が向上しており、Bluetoothや3.5mmステレオジャックでスピーカーやヘッドホンに接続も可能になった。Alexa…
-The post Echo Dot、70％オフで投げ売り中【プライムデー2021】 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プライムデー2021がスタート！お買い得商品・セールまとめ]]></title>
-        <id>https://gori.me/?p=135679</id>
-        <link href="https://gori.me/amazon/amazon-sale/135679"/>
-        <updated>2021-06-20T15:12:10.000Z</updated>
-        <summary type="html"><![CDATA[年に一度のプライム会員大感謝祭「プライムデー」がスタートした。開催期間は、6月21日（月）0時から22日（火）23時59分まで。 最大10,000ポイント還元されるプライムデーポイントアップキャンペーン、最大50,000ポイントが当たるプライムデースタンプラリーなどが開催されており、同時にKindl…
-The post プライムデー2021がスタート！お買い得商品・セールまとめ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch Series 6、AirPods Proがセール【プライムデー2021】]]></title>
-        <id>https://gori.me/?p=135684</id>
-        <link href="https://gori.me/sale/peripheral-sale/135684"/>
-        <updated>2021-06-20T15:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Apple Watch Series 6とAirPods Proが、年に一度のAmazonプライム会員大感謝祭「プライムデー」に登場した。Apple Watch Series 6は42,380円から（16％オフ）、AirPods Proは24,154円（21％オフ）で購入できる。 AirPods 2…
-The post Apple Watch Series 6、AirPods Proがセール【プライムデー2021】 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[過去最安値！Fire TV Stick 4K、43％オフ【プライムデー2021】]]></title>
-        <id>https://gori.me/?p=135685</id>
-        <link href="https://gori.me/sale/peripheral-sale/135685"/>
-        <updated>2021-06-20T15:01:14.000Z</updated>
-        <summary type="html"><![CDATA[年に一度のプライム会員大感謝祭「プライムデー」にて、Fire TV Stick 4Kが過去最安値となる43％オフで販売されている。 Fire TV Stick 4Kは、Fire TV Stickの4K対応モデル。外出自粛期間中は人気商品となり在庫切れが続いていた人気商品だ。1.7GHzで動作する新し…
-The post 過去最安値！Fire TV Stick 4K、43％オフ【プライムデー2021】 first appeared on ゴリミー.
 
  【もっと読む】]]></summary>
         <author>
