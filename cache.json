@@ -487,24 +487,6 @@
           "publishedOn": "2021-06-28T13:29:00.000Z",
           "wordCount": 738,
           "title": "Scaling Organizations Should Consider Building a Website Backed by a CRM Platform"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342718",
-          "author": "Chris Coyier",
-          "description": "I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.\nThe post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/custom-property-brain-twisters/",
-          "publishedOn": "2021-06-25T18:39:46.000Z",
-          "wordCount": 652,
-          "title": "Custom Property Brain Twisters"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342911",
-          "author": "Georgi Nikoloff",
-          "description": "I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.\nOne problem quickly became evident: …\nThe post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/",
-          "publishedOn": "2021-06-25T14:33:33.000Z",
-          "wordCount": 993,
-          "title": "How to Cancel Pending API Requests to Show Correct Data"
         }
       ]
     },
@@ -1547,6 +1529,33 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=136394",
+          "author": "g.O.R.i",
+          "description": "Appleは、数年以内にFace IDをMacに搭載する可能性がある。Appleに詳しいBloombergの名物記者Mark Gurman氏は最新ニュースレターで、Appleの究極の目標が「すべてのデバイスにFace IDの搭載」であると指摘。現在はTouch IDを内蔵するiPhone SEや10…\nThe post MacのFace ID、数年以内に実現？iPhone SEやiPadも搭載か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/136394",
+          "publishedOn": "2021-07-25T22:19:47.000Z",
+          "wordCount": 230,
+          "title": "MacのFace ID、数年以内に実現？iPhone SEやiPadも搭載か"
+        },
+        {
+          "id": "https://gori.me/?p=136392",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、M1 Mac miniが67,98…\nThe post 1.5万円差でもM1買うよなあ！Mac整備済商品の最新情報（2021年7月25日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/136392",
+          "publishedOn": "2021-07-25T12:11:55.000Z",
+          "wordCount": 493,
+          "title": "1.5万円差でもM1買うよなあ！Mac整備済商品の最新情報（2021年7月25日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=136390",
+          "author": "g.O.R.i",
+          "description": "Googleは今年3月、一部ユーザーを対象に検索結果のダークモードを提供開始した。正式機能として実装されたかは不明だが、検索結果によっては「ダークモードをご利用いただけます」と表示され有効化した人もいるだろう。 ダークモードは好みが分かれる。僕はダークモードのほうが見やすいと感じるアプリが一方で、検…\nThe post Google Chrome検索結果のダークモード、オン・オフを切り替える方法 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/google/google-chrome/136390",
+          "publishedOn": "2021-07-25T00:34:41.000Z",
+          "wordCount": 197,
+          "title": "Google Chrome検索結果のダークモード、オン・オフを切り替える方法"
+        },
         {
           "id": "https://gori.me/?p=136384",
           "author": "g.O.R.i",
@@ -3157,51 +3166,6 @@
           "publishedOn": "2021-06-26T21:45:09.000Z",
           "wordCount": 179,
           "title": "Windows 11、Internet Explorerはインストールされていない"
-        },
-        {
-          "id": "https://gori.me/?p=135797",
-          "author": "g.O.R.i",
-          "description": "Kindleストアが、対象作品1,000点以上が最大50％オフで購入できる「高額書籍キャンペーン」を開催している。セールは2021年7月8日（木）まで。 対象作品には、『BRAIN DRIVEN　パフォーマンスが高まる脳の状態とは』、『コンサルを超える　問題解決と価値創造の全技法』、『図解 人材マネ…\nThe post Kindleストアで高額書籍1,000点が最大50％オフセール開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/kindle-sale/135797",
-          "publishedOn": "2021-06-26T05:10:12.000Z",
-          "wordCount": 194,
-          "title": "Kindleストアで高額書籍1,000点が最大50％オフセール開催中"
-        },
-        {
-          "id": "https://gori.me/?p=135795",
-          "author": "g.O.R.i",
-          "description": "Appleは、iOS 15およびiPadOS 15でアプリが使用可能なメモリ（RAM）の上限を緩和する技術仕様を発表した。現状は最大5GBまでのメモリしか使用できず、最大16GBのメモリを搭載するM1 iPad Proのハードウェアが活かせないと指摘されていた。 【関連】M1 iPad Pro、最大…\nThe post iOS/iPadOS 15、アプリが使用可能なメモリの制限を緩和 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ios/ios15/135795",
-          "publishedOn": "2021-06-26T02:00:22.000Z",
-          "wordCount": 239,
-          "title": "iOS/iPadOS 15、アプリが使用可能なメモリの制限を緩和"
-        },
-        {
-          "id": "https://gori.me/?p=135792",
-          "author": "g.O.R.i",
-          "description": "Microsoftが年内に正式リリースするWindows 11は、Intel Macで公式にサポートされない可能性が高い。仮想化アプリケーションであれば使用できる可能性はあるが、Boot Campとしてインストールすることは難しいだろう。 Windows 11は無料アップデートとして配布されるが、ハ…\nThe post MacはWindows 11 が利用不可　Intel Macでも公式にサポートしない理由 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/microsoft/windows/135792",
-          "publishedOn": "2021-06-26T01:20:50.000Z",
-          "wordCount": 280,
-          "title": "MacはWindows 11 が利用不可　Intel Macでも公式にサポートしない理由"
-        },
-        {
-          "id": "https://gori.me/?p=135785",
-          "author": "g.O.R.i",
-          "description": "Microsoftは6月25日、Windows 11を正式に発表した。2015年に発表されたWindows 10から、6年ぶりとなる大型アップデートはデザインが刷新。スタートメニューが中央に移動し、スタートメニューも画面の中心に出現する。 アップデートは無料だが、ハードウェア要件として、1GHz以上…\nThe post Windows 11のウィンドウ整理整頓機能、Macアプリで再現できるよ！ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/microsoft/windows/135785",
-          "publishedOn": "2021-06-25T21:30:15.000Z",
-          "wordCount": 206,
-          "title": "Windows 11のウィンドウ整理整頓機能、Macアプリで再現できるよ！"
-        },
-        {
-          "id": "https://gori.me/?p=135780",
-          "author": "g.O.R.i",
-          "description": "Ankerが6月25日、「ライトニング & イーサネット 充電アダプタ」を発売した。iPhoneやLightningポートを搭載したiPadを充電しながら、最大480Mbpsの高速イーサネット通信が可能な充電アダプタだ。最大出力は12Wとなっており、急速充電には満たない。MFi認証を取得し…\nThe post Anker、iPhoneやiPad miniで有線LANが使える充電アダプタを発売 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone-accessories/iphone-prepherial/135780",
-          "publishedOn": "2021-06-25T12:39:52.000Z",
-          "wordCount": 194,
-          "title": "Anker、iPhoneやiPad miniで有線LANが使える充電アダプタを発売"
         }
       ]
     }
