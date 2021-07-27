@@ -12,6 +12,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344653",
+          "author": "Luke Edwards",
+          "description": "At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …\nThe post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
+          "publishedOn": "2021-07-26T14:36:13.000Z",
+          "wordCount": 4189,
+          "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345288",
+          "author": "Chris Coyier",
+          "description": "Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …\nThe post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://slinkity.dev/",
+          "publishedOn": "2021-07-26T14:36:04.000Z",
+          "wordCount": 550,
+          "title": "Slinkity"
+        },
+        {
           "id": "https://css-tricks.com/?p=344019",
           "author": "Farai Gandiya",
           "description": "As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…\nThe post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -496,6 +514,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
+          "link": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
+          "publishedOn": "2021-07-26T10:30:00.000Z",
+          "wordCount": 3080,
+          "title": "Gatsby Serverless Functions And The International Space Station",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c07c5052-399e-4aee-aa83-706eb1f0c1b6/gatsby-serverless-functions-international-space-station.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/guide-attracting-clients-agency/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Many web design agencies consider it a badge of honor that they win work exclusively through word-of-mouth recommendations. In this article, Paul Boag explains why that is entirely the wrong attitude and what to do about it.",
@@ -838,6 +870,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60fc070722b0e2078fcd0ae1",
+          "author": null,
+          "description": "The homepage for the Google Search engine is the most viewed webpage in the world. People conduct billions of searches every day.  When you land on the page, right above the search box, you'll see Google's logo. On many occassions the logo will be different and accompanied by what's called",
+          "link": "https://www.freecodecamp.org/news/google-doodle-games-baseball-pacman-and-more/",
+          "publishedOn": "2021-07-26T23:01:30.000Z",
+          "wordCount": 2250,
+          "title": "Google Doodle Games – Baseball, PacMan, and More"
+        },
+        {
+          "id": "60f746ee1d2b080797b807f6",
+          "author": null,
+          "description": "Working from home can have its challenges but there are also many benefits. A lot of employees enjoy the flexible schedule, and you can save money from not having to eat out or drive to work.  I have curated a list of 25 sites for remote work. Whether you are",
+          "link": "https://www.freecodecamp.org/news/how-to-find-remote-jobs/",
+          "publishedOn": "2021-07-26T21:46:24.000Z",
+          "wordCount": 1095,
+          "title": "How to Find Remote Jobs – 25 Websites To Help You Work from Home Online"
+        },
+        {
+          "id": "60fa671e1d2b080797b81cd4",
+          "author": null,
+          "description": "If you're working with React, it can be quite difficult to understand and implement API Requests. So in this article, we'll learn how it all works by implementing CRUD Operations using React, React Hooks, React Router, and Axios. Let's dive in. How to Install Node and npmFirst of all, let's",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-react/",
+          "publishedOn": "2021-07-26T21:41:00.000Z",
+          "wordCount": 3761,
+          "title": "How to Perform CRUD Operations using React, React Hooks, and Axios"
+        },
+        {
+          "id": "60fe9a5222b0e2078fcd154f",
+          "author": null,
+          "description": "You might be wondering what pseudocode is and why it's so useful for writing computer programs. But before we jump into pseudocode, let's refresh our memories about what programming and coding are, in the simplest sense. Programming is the manifestation of logic. A program is a set of instructions that",
+          "link": "https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/",
+          "publishedOn": "2021-07-26T19:23:37.000Z",
+          "wordCount": 1468,
+          "title": "What is Pseudocode? How to Use Pseudocode to Solve Coding Problems"
+        },
         {
           "id": "60faae4d1d2b080797b82046",
           "author": null,
@@ -1529,6 +1597,114 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=136428",
+          "author": "g.O.R.i",
+          "description": "Appleは7月27日、公式YouTubeチャンネルを更新。iPhoneのカメラを活用したクリエイティブな動画撮影方法を解説している。 取り上げられているのは、合計3種類。1つ目は、超広角カメラの活用。2つ目は、スローモーション撮影によるクレーンショットの再現。3つ目は、身近にあるアイテムを使った照…\nThe post Apple、iPhoneのカメラを活用したクリエイティブな動画撮影方法を解説 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/apple-tvcm/136428",
+          "publishedOn": "2021-07-26T23:55:34.000Z",
+          "wordCount": 166,
+          "title": "Apple、iPhoneのカメラを活用したクリエイティブな動画撮影方法を解説"
+        },
+        {
+          "id": "https://gori.me/?p=136426",
+          "author": "g.O.R.i",
+          "description": "新型Mac Proは、Ice Lake Xeon W-3300チップを搭載し2022年に発表する可能性がある。WCCFtechによると、情報をリークした人物は過去にIntel Xeonチップに関する正確な情報を提供した実績を持つという。 Apple’s MacPro 2022 seems to us…\nThe post 新型Mac Pro、2022年登場でIntel Ice Lake Xeon W-3300チップ搭載か first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macpro/136426",
+          "publishedOn": "2021-07-26T23:34:44.000Z",
+          "wordCount": 218,
+          "title": "新型Mac Pro、2022年登場でIntel Ice Lake Xeon W-3300チップ搭載か"
+        },
+        {
+          "id": "https://gori.me/?p=136424",
+          "author": "g.O.R.i",
+          "description": "Appleは7月27日、macOS Big Sur 11.5.1を正式リリースした。 macOS Big Sur 11.5.1は、重要なセキュリティアップデートが含まれており、「すべてのユーザーに推奨される」という。詳細は明らかにしていない。アップデートの完了には再起動が必要だ。\nThe post macOS Big Sur 11.5.1、正式リリース　重要なセキュリティアップデート first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/macosx/macosbigsur/136424",
+          "publishedOn": "2021-07-26T23:10:48.000Z",
+          "wordCount": 249,
+          "title": "macOS Big Sur 11.5.1、正式リリース　重要なセキュリティアップデート"
+        },
+        {
+          "id": "https://gori.me/?p=136422",
+          "author": "g.O.R.i",
+          "description": "新型iPad mini（iPad mini 6）は、8.3インチのディスプレイを搭載する可能性がある。ディスプレイ業界のサプライチェーン調査会社のCEOを務めるRoss Young氏によると、ホームボタンの排除およびベゼルの薄型化により、現行モデルの7.9インチから大型化するという。 Grew fr…\nThe post iPad mini 6、8.3インチディスプレイ搭載か　ホームボタンなしで狭額縁との情報 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipad/ipadmini/136422",
+          "publishedOn": "2021-07-26T21:54:26.000Z",
+          "wordCount": 237,
+          "title": "iPad mini 6、8.3インチディスプレイ搭載か　ホームボタンなしで狭額縁との情報"
+        },
+        {
+          "id": "https://gori.me/?p=136421",
+          "author": "g.O.R.i",
+          "description": "Appleは7月27日、iPadOS 14.7.1を正式リリースした。 iPadOS 14.7.1は、重要なセキュリティアップデートが含まれており、「すべてのユーザーに推奨される」という。詳細は明らかにしていない。同時にリリースされたiOS 14.7.1は、Touch IDを搭載したiPhoneで「…\nThe post iPadOS 14.7.1、正式リリース　重要なセキュリティアップデート first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipados/ipados14/136421",
+          "publishedOn": "2021-07-26T21:27:31.000Z",
+          "wordCount": 205,
+          "title": "iPadOS 14.7.1、正式リリース　重要なセキュリティアップデート"
+        },
+        {
+          "id": "https://gori.me/?p=136419",
+          "author": "g.O.R.i",
+          "description": "Appleは7月27日、iOS 14.7.1を正式リリースした。 iOS 14.7.1は、Touch IDを搭載したiPhoneで「iPhoneでロック解除」機能を使用してペアリング済みのApple Watchのロックを解除できない問題が修正されるという。また重要なセキュリティアップデートが含まれて…\nThe post iOS 14.7.1、正式リリース　一部iPhoneでApple Watchのロック解除できない問題が修正 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios14/136419",
+          "publishedOn": "2021-07-26T21:20:47.000Z",
+          "wordCount": 224,
+          "title": "iOS 14.7.1、正式リリース　一部iPhoneでApple Watchのロック解除できない問題が修正"
+        },
+        {
+          "id": "https://gori.me/?p=136417",
+          "author": "g.O.R.i",
+          "description": "Appleより Appleは、2021年の新型iPhone（iPhone 13）を発表するスペシャルイベントはオンライン開催になる可能性が高い。Appleに詳しいBloombergの名物記者Mark Gurman氏が、最新のニュースレターで明らかにした。 Appleの従業員は9月以降、最低でも週3回…\nThe post iPhone 13の発表イベント、昨年に続きオンラインになりそう first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/apple/special-event/136417",
+          "publishedOn": "2021-07-26T13:07:57.000Z",
+          "wordCount": 169,
+          "title": "iPhone 13の発表イベント、昨年に続きオンラインになりそう"
+        },
+        {
+          "id": "https://gori.me/?p=136416",
+          "author": "g.O.R.i",
+          "description": "2022年の新型iPhoneのハイエンドモデル（iPhone 14 Pro）は、筐体がチタン製になる可能性がある。JPMorgan Chaseによると、少なくとも1機種はチタン製を採用し、他のモデルは引き続きステンレススチールおよびアルミニウムの筐体になるという。 Apple Watchのライナップ…\nThe post 来年の”iPhone 14 Pro”、チタン製ボディになるかも？ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone/iphone-news/136416",
+          "publishedOn": "2021-07-26T12:31:02.000Z",
+          "wordCount": 253,
+          "title": "来年の”iPhone 14 Pro”、チタン製ボディになるかも？"
+        },
+        {
+          "id": "https://gori.me/?p=136414",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みApple Watch情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 Apple Watch …\nThe post 44mmのSEが3.2万円から！Apple Watch整備済商品の最新情報（2021年7月26日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/136414",
+          "publishedOn": "2021-07-26T11:32:02.000Z",
+          "wordCount": 252,
+          "title": "44mmのSEが3.2万円から！Apple Watch整備済商品の最新情報（2021年7月26日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=136412",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は、iPad Air（2019）が…\nThe post iPad Pro（2018）がお買い得！iPad整備済商品の最新情報（2021年7月26日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/136412",
+          "publishedOn": "2021-07-26T11:22:55.000Z",
+          "wordCount": 383,
+          "title": "iPad Pro（2018）がお買い得！iPad整備済商品の最新情報（2021年7月26日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=136410",
+          "author": "g.O.R.i",
+          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は久しぶりにあらゆるモデルの在庫が大量…\nThe post 久しぶりに大量復活！在庫ありまくり！Mac整備済商品の最新情報（2021年7月26日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/apple-refurbished/136410",
+          "publishedOn": "2021-07-26T11:15:49.000Z",
+          "wordCount": 1555,
+          "title": "久しぶりに大量復活！在庫ありまくり！Mac整備済商品の最新情報（2021年7月26日更新）"
+        },
+        {
+          "id": "https://gori.me/?p=136408",
+          "author": "g.O.R.i",
+          "description": "GAURUNが、iPhone 12用ガラスフィルム、iPad Proアクセサリーなど全商品が最大63％オフになる「TRY OUT！キャンペーン」を開催している。 特におすすめが、「2.5Dプライムケースフィットガラス」。品質の高い硬度9Hの強化ガラスを採用したフルカバーガラスフィルムだ。100℃〜4…\nThe post GAURUN、全製品を対象とした最大63％オフセール開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/sale/peripheral-sale/136408",
+          "publishedOn": "2021-07-26T04:46:23.000Z",
+          "wordCount": 197,
+          "title": "GAURUN、全製品を対象とした最大63％オフセール開催中"
+        },
         {
           "id": "https://gori.me/?p=136394",
           "author": "g.O.R.i",
@@ -3148,24 +3324,6 @@
           "publishedOn": "2021-06-27T21:45:04.000Z",
           "wordCount": 306,
           "title": "あれ、iPhone 13の画面内蔵Touch IDが復活する話ってどこいった？"
-        },
-        {
-          "id": "https://gori.me/?p=135664",
-          "author": "g.O.R.i",
-          "description": "子どもにとって、「やりたいこと」と「天気」の関係性はあまりない。炎天下でも外で遊びたくなることもあれば、外が最高の気候でも家の中で絵の具をやりたいこともある。 梅雨の時期は「外に行きたいけど雨が降っていてどこも行けない」という問題に直面する。そこで娘に可愛い長靴と傘を購入し「雨の日はそれを着て散歩し…\nThe post 子どもと梅雨を楽しむーー可愛い傘・長靴・レインコートで水溜りに全力でジャンプ！ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/papa/fun-with-kids/135664",
-          "publishedOn": "2021-06-26T22:05:09.000Z",
-          "wordCount": 196,
-          "title": "子どもと梅雨を楽しむーー可愛い傘・長靴・レインコートで水溜りに全力でジャンプ！"
-        },
-        {
-          "id": "https://gori.me/?p=135799",
-          "author": "g.O.R.i",
-          "description": "Windows 11の標準ブラウザは、ChromiumベースのMicrosoft Edgeだ。Windows 11は、年内に正式リリース予定。Internet Explorerは2022年6月15日に終了すると発表されているが、Windows 11には最初からインストールされていない。 Intern…\nThe post Windows 11、Internet Explorerはインストールされていない first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/microsoft/windows/135799",
-          "publishedOn": "2021-06-26T21:45:09.000Z",
-          "wordCount": 179,
-          "title": "Windows 11、Internet Explorerはインストールされていない"
         }
       ]
     }
