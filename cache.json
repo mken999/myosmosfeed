@@ -12,6 +12,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345169",
+          "author": "Chris Coyier",
+          "description": "I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …\nThe post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/",
+          "publishedOn": "2021-07-27T23:18:33.000Z",
+          "wordCount": 1430,
+          "title": "Learnings From a WebPageTest Session on CSS-Tricks"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345400",
+          "author": "Chris Coyier",
+          "description": "Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. \nThere are new things like “arbitrarily chuck underscores …\nThe post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://h3manth.com/ES2021/",
+          "publishedOn": "2021-07-27T23:18:12.000Z",
+          "wordCount": 316,
+          "title": "ES2021 Features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344815",
+          "author": "Ollie Williams",
+          "description": "Now that cross-browser support is at a tipping point, it’s a good time to take a look at logical properties and values. If you’re creating a website in multiple languages, logical properties and values are incredibly useful. Even if you’re …\nThe post CSS Logical Properties and Values appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-logical-properties-and-values/",
+          "publishedOn": "2021-07-27T15:02:43.000Z",
+          "wordCount": 2605,
+          "title": "CSS Logical Properties and Values"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345297",
+          "author": "Chris Coyier",
+          "description": "Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. \nstyled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …\nThe post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
+          "publishedOn": "2021-07-27T00:17:01.000Z",
+          "wordCount": 2758,
+          "title": "Demystifying styled-components"
+        },
+        {
           "id": "https://css-tricks.com/?p=344653",
           "author": "Luke Edwards",
           "description": "At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …\nThe post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -514,6 +550,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
+          "author": "hello@smashingmagazine.com (Alexander Dubovoy)",
+          "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
+          "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
+          "publishedOn": "2021-07-27T11:00:00.000Z",
+          "wordCount": 3560,
+          "title": "Global vs. Local Styling In Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
@@ -848,20 +898,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
-          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
-          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2474,
-          "title": "Creating Custom Emmet Snippets In VS Code",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -870,6 +906,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60ffec493306a507d1bf98f4",
+          "author": null,
+          "description": "Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions",
+          "link": "https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/",
+          "publishedOn": "2021-07-27T22:36:10.000Z",
+          "wordCount": 1528,
+          "title": "Python For Loop – Example and Tutorial"
+        },
+        {
+          "id": "60ff23533306a507d1bf9345",
+          "author": null,
+          "description": "In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How",
+          "link": "https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/",
+          "publishedOn": "2021-07-27T19:59:00.000Z",
+          "wordCount": 1729,
+          "title": "How to Flatten a Dictionary in Python in 4 Different Ways"
+        },
+        {
+          "id": "60dabcb327f80207bcdbb316",
+          "author": null,
+          "description": "CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to",
+          "link": "https://www.freecodecamp.org/news/what-is-headless-cms-explained/",
+          "publishedOn": "2021-07-27T17:53:47.000Z",
+          "wordCount": 1363,
+          "title": "Headless CMS Explained – What it is and When You Should Use it"
+        },
+        {
+          "id": "60fa5ec41d2b080797b81bf8",
+          "author": null,
+          "description": "In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a",
+          "link": "https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/",
+          "publishedOn": "2021-07-27T15:49:00.000Z",
+          "wordCount": 1704,
+          "title": "JavaScript Immutability – Frozen Objects in JS Explained with Examples"
+        },
+        {
+          "id": "60fbe07822b0e2078fcd09bc",
+          "author": null,
+          "description": "In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is \"we meet on Friday at 08:00 am\". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as",
+          "link": "https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/",
+          "publishedOn": "2021-07-27T15:24:00.000Z",
+          "wordCount": 974,
+          "title": "Python Substring – How to Slice a String"
+        },
         {
           "id": "60fc070722b0e2078fcd0ae1",
           "author": null,
@@ -1597,6 +1678,33 @@
       "feedUrl": "https://gori.me/feed",
       "siteUrl": "https://gori.me",
       "articles": [
+        {
+          "id": "https://gori.me/?p=136447",
+          "author": "g.O.R.i",
+          "description": "Appleは7月28日、「iOS 15 Beta 4」「iPadOS 15 Beta 4」「watchOS 8 Beta 4」「tvOS 15 Beta 4」「Xcode 13 Beta 4」を開発者向けに配信開始した。 iOS 15の最新ベータ版では、Safariのボタン配置の改良、ショートカット…\nThe post iOS/iPadOS 15やwatchOS 8のBeta 4、開発者向けに配信開始 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ios/ios15/136447",
+          "publishedOn": "2021-07-27T23:44:56.000Z",
+          "wordCount": 255,
+          "title": "iOS/iPadOS 15やwatchOS 8のBeta 4、開発者向けに配信開始"
+        },
+        {
+          "id": "https://gori.me/?p=136446",
+          "author": "g.O.R.i",
+          "description": "iPad mini 6とされるモックアップの写真 = @duanrui1205 新型iPad mini（iPad mini 6）は、デザイン変更されず現行機種（iPad mini 5）と同じデザインを引き継ぐ可能性がある。Macお宝鑑定団Blogが入手した中国サプライヤーの情報によると、内蔵チップが…\nThe post えっ？中国サプライヤー「iPad mini 6、デザイン変わらないよ」 first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/ipad/ipadmini/136446",
+          "publishedOn": "2021-07-27T22:28:06.000Z",
+          "wordCount": 277,
+          "title": "えっ？中国サプライヤー「iPad mini 6、デザイン変わらないよ」"
+        },
+        {
+          "id": "https://gori.me/?p=136314",
+          "author": "g.O.R.i",
+          "description": "「これはイマイチだな」と思いながら買い、想像以上にイマイチで絶句した製品を久しぶりに買ってしまった。Apple純正の「MagSafeバッテリーパック」は、2021年の「買って後悔・失敗したものランキング」のトップランカーは確実だ。 なぜイマイチなのか。サードパーティ製品と出力は変わらず、容量が少なく…\nThe post 【レビュー】MagSafeバッテリーパック：中途半端で期待外れ first appeared on ゴリミー.\n\n 【もっと読む】",
+          "link": "https://gori.me/iphone-accessories/battery/136314",
+          "publishedOn": "2021-07-27T21:45:32.000Z",
+          "wordCount": 301,
+          "title": "【レビュー】MagSafeバッテリーパック：中途半端で期待外れ"
+        },
         {
           "id": "https://gori.me/?p=136428",
           "author": "g.O.R.i",
@@ -3252,78 +3360,6 @@
           "publishedOn": "2021-06-28T21:30:43.000Z",
           "wordCount": 294,
           "title": "Apple Watch Series 7、電池持ちを重視か"
-        },
-        {
-          "id": "https://gori.me/?p=135826",
-          "author": "g.O.R.i",
-          "description": "Appleは6月25日、サポートドキュメント「医療機器への磁気干渉の可能性について」を公開した。特定の状況下において磁石や電磁場が医療機器に干渉する恐れがあるとして、磁石を内臓しているApple製品リストを記載している。 植え込み型のペースメーカーや除細動器に内蔵されているセンサーが、磁石や無線送信…\nThe post 医療機器に干渉する可能性があるApple製品一覧が公開 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/apple-news/135826",
-          "publishedOn": "2021-06-28T12:13:18.000Z",
-          "wordCount": 262,
-          "title": "医療機器に干渉する可能性があるApple製品一覧が公開"
-        },
-        {
-          "id": "https://gori.me/?p=135825",
-          "author": "g.O.R.i",
-          "description": "2021年の新型iPhone（iPhone 13）のハイエンドモデル（iPhone 13 Pro）は、超広角カメラにオートフォーカスが追加される可能性がある。Apple情報に詳しいアナリストMing-Chi Kuo氏が最新レポートで明らかにした。 iPhone 12シリーズ以前の超広角レンズには、オ…\nThe post iPhone 13 Pro、超広角レンズがオートフォーカス対応か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone/iphone-news/135825",
-          "publishedOn": "2021-06-28T07:51:20.000Z",
-          "wordCount": 316,
-          "title": "iPhone 13 Pro、超広角レンズがオートフォーカス対応か"
-        },
-        {
-          "id": "https://gori.me/?p=135823",
-          "author": "g.O.R.i",
-          "description": "Adobeが、「Adobe Summer Sale」として「Adobe Creative Cloudコンプリートプラン」が27％オフ、「Adobe Illustrator」が23％オフで購入できるセールを開催している。いずれも12カ月、24カ月、36カ月のオンラインコード版が対象となっている。 なお…\nThe post Adobe CCのコンプリート版とイラレ、最大27％オフセール開催中 first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/software-sale/135823",
-          "publishedOn": "2021-06-28T03:09:15.000Z",
-          "wordCount": 181,
-          "title": "Adobe CCのコンプリート版とイラレ、最大27％オフセール開催中"
-        },
-        {
-          "id": "https://gori.me/?p=135821",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日M1 Macがお買い得！M1 Mac …\nThe post M1 Mac miniやMacBook Airがお買い得！Mac整備済商品の最新情報（2021年6月28日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135821",
-          "publishedOn": "2021-06-28T02:47:11.000Z",
-          "wordCount": 640,
-          "title": "M1 Mac miniやMacBook Airがお買い得！Mac整備済商品の最新情報（2021年6月28日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135819",
-          "author": "g.O.R.i",
-          "description": "通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日は11インチiPad Proがお快…\nThe post 11インチiPad Proがお買い得！iPad整備済商品の最新情報（2021年6月28日更新） first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/sale/apple-refurbished/135819",
-          "publishedOn": "2021-06-28T02:40:54.000Z",
-          "wordCount": 313,
-          "title": "11インチiPad Proがお買い得！iPad整備済商品の最新情報（2021年6月28日更新）"
-        },
-        {
-          "id": "https://gori.me/?p=135817",
-          "author": "g.O.R.i",
-          "description": "Appleが、今後数週間以内に新製品を発表する可能性は低い。Appleに詳しいBloombergの名物記者Mark Gurman氏の最新ニュースレターによると、Appleの新製品に関するニュースは「控えめになる」という。 次に登場する新製品は2021年の新型iPhone（iPhone 13）およびA…\nThe post Apple、今後数週間以内は新製品の発表なし？ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/apple/apple-news/135817",
-          "publishedOn": "2021-06-28T01:24:41.000Z",
-          "wordCount": 186,
-          "title": "Apple、今後数週間以内は新製品の発表なし？"
-        },
-        {
-          "id": "https://gori.me/?p=135815",
-          "author": "g.O.R.i",
-          "description": "Appleは、現行モデルよりも大きいディスプレイを搭載したiPad Proを検討している可能性がある。Appleに詳しいBloombergの名物記者Mark Gurman氏が公開した最新のニュースレターによると、登場時期は「来年ではない」とし、製品化が実現するならば「数年後」になるという。 iPad…\nThe post iPad Proが”Max化”がを検討中？さらに大きいディスプレイを搭載か first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/ipad/ipad-news/135815",
-          "publishedOn": "2021-06-28T00:35:39.000Z",
-          "wordCount": 193,
-          "title": "iPad Proが”Max化”がを検討中？さらに大きいディスプレイを搭載か"
-        },
-        {
-          "id": "https://gori.me/?p=135811",
-          "author": "g.O.R.i",
-          "description": "2021年の新型iPhone（iPhone 13）は、Touch IDが画面に内蔵され復活する噂がある。著名リーカーや大手テック系メディアが報じており実現可能性は高いと見られていたが、正式発表3カ月前にして暗雲が漂っている。 iPhone 13に画面内蔵Touch ID搭載を示唆したメディアやリーカ…\nThe post あれ、iPhone 13の画面内蔵Touch IDが復活する話ってどこいった？ first appeared on ゴリミー.\n\n 【もっと読む】",
-          "link": "https://gori.me/iphone/iphone-news/135811",
-          "publishedOn": "2021-06-27T21:45:04.000Z",
-          "wordCount": 306,
-          "title": "あれ、iPhone 13の画面内蔵Touch IDが復活する話ってどこいった？"
         }
       ]
     }
