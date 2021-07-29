@@ -2,10 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T00:18:08.754Z</updated>
+    <updated>2021-07-29T00:17:18.090Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iOS/iPadOS15やmacOS MontereyのPublic Beta 4、配信開始]]></title>
+        <id>https://gori.me/?p=136462</id>
+        <link href="https://gori.me/ios/ios15/136462"/>
+        <updated>2021-07-28T22:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Apple Beta Software Programより Appleは7月29日、「iOS 15」「iPadOS 15」「macOS Monterey」の「Public Beta 4」を、パブリックベータプログラム登録者向けに配信開始した。開発者向けには「Beta 4」が配信されている。 iOS …
+The post iOS/iPadOS15やmacOS MontereyのPublic Beta 4、配信開始 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【レビュー】Belkin磁気フィットネスマウント：活用方法は無限大]]></title>
+        <id>https://gori.me/?p=136440</id>
+        <link href="https://gori.me/iphone-accessories/iphone-prepherial/136440"/>
+        <updated>2021-07-28T21:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Belkinから発売された、MagSafe対応の磁気フィットネスマウント「MagSafe対応 磁気フィットネスマウント」を購入した。 フィットネス用とされているが、iPhone 12シリーズのマグネット内蔵スタンド兼マウントとして活用方法は無限大。「iPhoneを立て掛けたい」「引っ掛けたい」「ぶら…
+The post 【レビュー】Belkin磁気フィットネスマウント：活用方法は無限大 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15 Opinions]]></title>
+        <id>https://css-tricks.com/?p=345404</id>
+        <link href="https://css-tricks.com/safari-15-opinions/"/>
+        <updated>2021-07-28T20:21:55.000Z</updated>
+        <summary type="html"><![CDATA[It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …
+The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functions in Python – Explained with Code Examples]]></title>
+        <id>60f993f51d2b080797b818a7</id>
+        <link href="https://www.freecodecamp.org/news/functions-in-python-a-beginners-guide/"/>
+        <updated>2021-07-28T17:24:21.000Z</updated>
+        <summary type="html"><![CDATA[In any programming language, functions facilitate code reusability. In simple terms, when you want to do something repeatedly, you can define that something as a function and call that function whenever you need to.  In this tutorial, we shall learn about user-defined functions in Python. When you started coding in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules – Explained with Examples]]></title>
+        <id>60fec60822b0e2078fcd16f0</id>
+        <link href="https://www.freecodecamp.org/news/javascript-modules-explained-with-examples/"/>
+        <updated>2021-07-28T16:27:49.000Z</updated>
+        <summary type="html"><![CDATA[A module is a function or group of similar functions. They are grouped together within a file and contain the code to execute a specific task when called into a larger application. You create modules to better organize and structure your codebase. You can use them to break down large]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、iPhoneとiPadが部品不足の影響を示唆　iPhone 13にも懸念]]></title>
+        <id>https://gori.me/?p=136459</id>
+        <link href="https://gori.me/iphone/iphone-news/136459"/>
+        <updated>2021-07-28T15:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Apple CFO（最高財務責任者）の Luca Maesteri氏は2021年第3四半期の決算発表で、2021年第4四半期（7〜9月）はiPhoneとiPadが部品不足の影響を受けるとの見通しを明らかにした。2021年の新型iPhone（iPhone 13）への影響には言及されていないが、需要に見…
+The post Apple、iPhoneとiPadが部品不足の影響を示唆　iPhone 13にも懸念 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Alexaアプリ、ホーム画面ウィジェットに対応]]></title>
+        <id>https://gori.me/?p=136457</id>
+        <link href="https://gori.me/apps/iphone-app-news/136457"/>
+        <updated>2021-07-28T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Alexaアプリは7月27日、「バージョン2.2.430030.0」にアップデート。iOS 14以降のデバイスで、Ask Alexaウィジェットが利用可能になった。ホーム画面にウィジェットを追加すれば、タップしてAlexaに話しかけられる。 自宅のスマートホーム化をしている人は、Ale…
+The post Amazon Alexaアプリ、ホーム画面ウィジェットに対応 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、2021年第3四半期の決算を発表　前年同期比で36％増]]></title>
+        <id>https://gori.me/?p=136455</id>
+        <link href="https://gori.me/apple/apple-news/136455"/>
+        <updated>2021-07-28T14:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Appleは現地時間7月27日、2021年第3四半期（2021年4月〜6月期）の決算を発表した。売上高は814億ドル、純利益は217億ドル。昨年同時期比で売上高は36％増、純利益は93％増となり、4〜6月期としては過去最高を更新した。 サービス事業の売上で過去最高を達成しており、前年同期比で33％増…
+The post Apple、2021年第3四半期の決算を発表　前年同期比で36％増 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Absolute Value, Sign, Rounding and Modulo in CSS Today]]></title>
+        <id>https://css-tricks.com/?p=320544</id>
+        <link href="https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/"/>
+        <updated>2021-07-28T14:37:34.000Z</updated>
+        <summary type="html"><![CDATA[For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…
+The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use PySpark for Data Processing and Machine Learning]]></title>
+        <id>60e74b9c134ad707be00f284</id>
+        <link href="https://www.freecodecamp.org/news/use-pyspark-for-data-processing-and-machine-learning/"/>
+        <updated>2021-07-28T14:18:37.000Z</updated>
+        <summary type="html"><![CDATA[PySpark is an interface for Apache Spark in Python. PySpark is often used for large-scale data processing and machine learning. We just released a PySpark crash course on the freeCodeCamp.org YouTube channel. Krish Naik developed this course. Krish is a lead data scientist and he runs a popular YouTube]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、iPhoneからAndroidへのデータ移行アプリを開発中か]]></title>
+        <id>https://gori.me/?p=136449</id>
+        <link href="https://gori.me/google/google-news/136449"/>
+        <updated>2021-07-28T12:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、iPhoneからAndroidスマートフォンへのデータ移行をサポートするiOSアプリを開発している可能性がある。9to5Googleによると、「データ復元ツール 」のシステムファイルから判明したという。 iPhoneからのデータ移アプリは、USB-C to Lightningケーブル…
+The post Google、iPhoneからAndroidへのデータ移行アプリを開発中か first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anker、LDAC・ハイレゾ・ノイキャン対応ヘッドホンを1万円で発売]]></title>
+        <id>https://gori.me/?p=136454</id>
+        <link href="https://gori.me/music-accessories/headphones/136454"/>
+        <updated>2021-07-28T12:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Ankerは7月28日、Soundcore初となる高音質コーデック・LDAC対応のワイヤレスヘッドホン「Soundcore Life Q35」を発売した。 LDACと40mmドライバで原音を再現、Anker独自ノイキャンを初採用 Soundcore Life Q35は、オーバーイヤーヘッドホンカテゴ…
+The post Anker、LDAC・ハイレゾ・ノイキャン対応ヘッドホンを1万円で発売 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating An Accessible Dialog From Scratch]]></title>
+        <id>https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/</id>
+        <link href="https://smashingmagazine.com/2021/07/accessible-dialog-from-scratch/"/>
+        <updated>2021-07-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dialogs are everywhere in modern interface design (for good or for bad), and yet many of them are not accessible to assistive technologies. In this article, we will dig into how to create a short script to create accessible dialogs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kitty Giraudel)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS/iPadOS 15やwatchOS 8のBeta 4、開発者向けに配信開始]]></title>
         <id>https://gori.me/?p=136447</id>
@@ -4036,203 +4189,6 @@ The post Apple、日本を表現したApple Watchスポーツループバンド�
         <summary type="html"><![CDATA[What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel 5a 5G、8月に発表および発売か]]></title>
-        <id>https://gori.me/?p=135838</id>
-        <link href="https://gori.me/google/pixel-news/135838"/>
-        <updated>2021-06-29T11:47:16.000Z</updated>
-        <summary type="html"><![CDATA[Steve HemmerstofferのVoiceより Googleは、「Pixel 5a 5G」を8月に発表および発売する可能性が高い。Bloombergの名物記者Mark Gurman氏が、ニュースレターで明らかにした。 Googleは今年4月、「Pixel 5a」の発売中止を予測したリーク情報…
-The post Pixel 5a 5G、8月に発表および発売か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 13とiPhone 13 Proの新しいダミーモデル写真が公開]]></title>
-        <id>https://gori.me/?p=135837</id>
-        <link href="https://gori.me/iphone/iphone-news/135837"/>
-        <updated>2021-06-29T11:16:25.000Z</updated>
-        <summary type="html"><![CDATA[@duanrui1205より 2021年の新型iPhone（iPhone 13）のダミーモデルとされる新しい写真が公開された。具体的なモデル名やサイズは明かされていないが、「iPhone 13 mini」と「iPhone 13 Pro Max」、「iPhone 13」と「iPhone 13 Pro」…
-The post iPhone 13とiPhone 13 Proの新しいダミーモデル写真が公開 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Down Bulky Builds With Netlify And Next.js]]></title>
-        <id>https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/"/>
-        <updated>2021-06-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/"/>
-        <updated>2021-06-29T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、一部従業員に米警察が使用するボディーカメラの装着を義務付けか]]></title>
-        <id>https://gori.me/?p=135833</id>
-        <link href="https://gori.me/apple/apple-news/135833"/>
-        <updated>2021-06-29T00:14:55.000Z</updated>
-        <summary type="html"><![CDATA[Axon Body 2よりキャプチャ Appleは一部従業員に対し、米警察が使用するボディーカメラの装着を義務付けている可能性がある。FrontPageTech.comによると、リーク情報を阻止する対策として実施しているというが、「リークを阻止する対策がリークしてしまった」と皮肉っている。 装着の義…
-The post Apple、一部従業員に米警察が使用するボディーカメラの装着を義務付けか first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System *Things]]></title>
-        <id>https://css-tricks.com/?p=343040</id>
-        <link href="https://css-tricks.com/system-things/"/>
-        <updated>2021-06-28T22:14:22.000Z</updated>
-        <summary type="html"><![CDATA[I think we’re all largely aware of named colors in CSS:
-color: OldLace;
-background: rebeccapurple;
-I guess you’d just call those “named colors” in CSS. 
-Those aren’t the only kind of named colors there are though. Some of them …
-The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS MontereyのBeta 2、開発者向けに配信開始]]></title>
-        <id>https://gori.me/?p=135830</id>
-        <link href="https://gori.me/macosx/macosmonterey/135830"/>
-        <updated>2021-06-28T21:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Appleは6月25日、「macOS Monterey Beta 2」を開発者向けに配信開始した。ビルドナンバーは「21A5268h」。最新バージョンの新機能や変更点は、現時点では明らかになっていない。 macOS 12 ”Montery”は、2021年秋に一般公開を予定。新機能として、ユニバーサル…
-The post macOS MontereyのBeta 2、開発者向けに配信開始 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Watch Series 7、電池持ちを重視か]]></title>
-        <id>https://gori.me/?p=135827</id>
-        <link href="https://gori.me/apple-watch/watch-news/135827"/>
-        <updated>2021-06-28T21:30:43.000Z</updated>
-        <summary type="html"><![CDATA[2021年の新型Apple Watch（Apple Watch Series 7）は電池持ちが改良される可能性があると、MacRumorsが推察している。 「Apple Watch Series 7」は新デザインの採用、ディスプレイの大型化、内蔵チップ（S7）の性能向上、超広帯域無線（UWB）の対応…
-The post Apple Watch Series 7、電池持ちを重視か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working around the viewport-based fluid typography bug in Safari]]></title>
-        <id>https://css-tricks.com/?p=343139</id>
-        <link href="https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/"/>
-        <updated>2021-06-28T21:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …
-The post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Securely Access Secret API keys using Netlify Functions in a React App]]></title>
-        <id>60d61acc6e1a1407b6b0bd46</id>
-        <link href="https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/"/>
-        <updated>2021-06-28T21:17:02.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy an NLP Model with FastAPI]]></title>
-        <id>60d9766b6e1a1407b6b0cb4f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/"/>
-        <updated>2021-06-28T20:35:12.000Z</updated>
-        <summary type="html"><![CDATA[If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an IDE in Programming? An IDE Definition for Developers]]></title>
-        <id>60d07b4578f45307fee80aef</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/"/>
-        <updated>2021-06-28T20:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS]]></title>
-        <id>60d675ac6e1a1407b6b0bea1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-closure-lexical-scope/"/>
-        <updated>2021-06-28T18:45:21.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positioning Overlay Content with CSS Grid]]></title>
-        <id>https://css-tricks.com/?p=342971</id>
-        <link href="https://css-tricks.com/positioning-overlay-content-with-css-grid/"/>
-        <updated>2021-06-28T14:25:33.000Z</updated>
-        <summary type="html"><![CDATA[Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.
-Recently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …
-The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ryan Mulligan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Create a Design System in Figma]]></title>
-        <id>60d4d3d86e1a1407b6b0bb25</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/"/>
-        <updated>2021-06-28T13:50:35.000Z</updated>
-        <summary type="html"><![CDATA[A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Learn Data Analytics]]></title>
-        <id>60d4ea756e1a1407b6b0bb71</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/"/>
-        <updated>2021-06-28T13:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Organizations Should Consider Building a Website Backed by a CRM Platform]]></title>
-        <id>https://css-tricks.com/?p=343072</id>
-        <link href="https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/"/>
-        <updated>2021-06-28T13:29:00.000Z</updated>
-        <summary type="html"><![CDATA[To make some terminology clear here:
-CMS = Content Management System
-CRM = Customer Relationship Management
-Both are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …
-The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
