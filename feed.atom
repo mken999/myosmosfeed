@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mken999.github.io/myosmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T00:17:18.090Z</updated>
+    <updated>2021-07-30T00:17:13.171Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://mken999.github.io/myosmosfeed/index.html"/>
     <link rel="self" href="https://mken999.github.io/myosmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[App StoreとiTunes Store、サービスダウン　「機能停止」と発表]]></title>
+        <id>https://gori.me/?p=136472</id>
+        <link href="https://gori.me/apple/apple-news/136472"/>
+        <updated>2021-07-29T23:48:53.000Z</updated>
+        <summary type="html"><![CDATA[App StoreおよびiTunes Storeがサービスダウンしている。Apple公式のシステム状況ページによると、いずれのサービスも7時29分時点より「機能停止」と表示されており、「このサービスの速度が低下する、またはこのサービスを利用できない可能性があります」と案内されている。
+The post App StoreとiTunes Store、サービスダウン　「機能停止」と発表 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods 3、9月発表か　iPhone 13と同時期に登場との噂]]></title>
+        <id>https://gori.me/?p=136470</id>
+        <link href="https://gori.me/music-accessories/airpods/136470"/>
+        <updated>2021-07-29T22:49:57.000Z</updated>
+        <summary type="html"><![CDATA[新型AirPods（AirPods 3）は、新型iPhone（iPhone 13）と同じ9月に発表される可能性がある。M1 iMac、M1 iPad Proの仕様を正確に予測した実績を持つ、iOSデベロッパーのDylan氏によると、「AirPods 3は新しいiPhoneとともに9月に発表される」と…
+The post AirPods 3、9月発表か　iPhone 13と同時期に登場との噂 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Camera2 – How to Use the Camera2 API to Take Photos and Videos]]></title>
+        <id>60f0501b66c61b07d458df00</id>
+        <link href="https://www.freecodecamp.org/news/android-camera2-api-take-photos-and-videos/"/>
+        <updated>2021-07-29T22:36:44.000Z</updated>
+        <summary type="html"><![CDATA[We all use the camera on our phones and we use it a l-o-t. There are even some applications that have integrated the camera as a feature.  On one end, there is a standard way of interacting with the camera. On the other, there is a way to customize your]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watchOS 7.6.1、正式リリース　重要なセキュリティアップデート]]></title>
+        <id>https://gori.me/?p=136468</id>
+        <link href="https://gori.me/watchos/watchos7/136468"/>
+        <updated>2021-07-29T22:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Appleは7月30日、watchOS 7.6.1を正式リリースした。アップデート内容は「重要なセキュリティアップデート」となっており、すべてのユーザに推奨されるという。 watchOS 7.6.1は昨日一時リリースされたが、直後に取り下げ。原因は明らかになっていない。  watchOSをアップデ…
+The post watchOS 7.6.1、正式リリース　重要なセキュリティアップデート first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[箱買いまとめ買いサービス「Amazonパントリー」、8月にサービス終了]]></title>
+        <id>https://gori.me/?p=136466</id>
+        <link href="https://gori.me/amazon/amazon-news/136466"/>
+        <updated>2021-07-29T22:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Amazonは、食品や日用品を箱単位で購入できるサービス「Amazonパントリー」を、8月24日23時59分にサービス提供終了すると発表した。 Amazonパントリーとは、食品、飲料、お酒、キッチン用品、ペット用品、おむつなど、いつもの買い物の定番商品を1つの箱にまとめて注文できるサービス。1箱あた…
+The post 箱買いまとめ買いサービス「Amazonパントリー」、8月にサービス終了 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Explains the Open Graph Images]]></title>
+        <id>https://css-tricks.com/?p=345518</id>
+        <link href="https://github.blog/2021-06-22-framework-building-open-graph-images/"/>
+        <updated>2021-07-29T19:49:32.000Z</updated>
+        <summary type="html"><![CDATA[An explanation of those new GitHub social media images:
+[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to 
+…
+The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Equal Sign – How to Type the Does Not Equal Symbol]]></title>
+        <id>60f534ec66c61b07d458ecfe</id>
+        <link href="https://www.freecodecamp.org/news/not-equal-sign-how-to-type-the-does-not-equal-symbol/"/>
+        <updated>2021-07-29T18:27:33.000Z</updated>
+        <summary type="html"><![CDATA[The does not equal symbol, or ≠, is often not part of a standard keyboard setup – or it's well hidden. So if you need to write it, how do you do it? How to Write the Not Equal Sign on Desktop DevicesOn Windows: Use the Character MapThe Character Map is a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Deploy 12 Apps to AWS, Azure, &amp; Google Cloud]]></title>
+        <id>6102ccd03306a507d1bfb150</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-12-apps-to-aws-azure-google-cloud/"/>
+        <updated>2021-07-29T15:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Dockerizing an app makes it simpler to deploy. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to deploy 12 apps to 3 popular hosting services. Scalable Scripts developed this course. They create courses on all sorts of languages and frameworks on]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Basic Excel Tutorial – How to Automate Repetitive Tasks in a Spreadsheet]]></title>
+        <id>60fc708a22b0e2078fcd0cdc</id>
+        <link href="https://www.freecodecamp.org/news/automate-repetitive-tasks-in-excel-with-vba/"/>
+        <updated>2021-07-29T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[I use VBA, or Visual Basic for Applications, to automate my repetitive tasks. This saves me quite a lot of time in my day-to-day life.  Based on the fact that you're reading this tutorial, I assume that you would like to be able to do the same. So I will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python If Else Statement – Conditional Statements Explained]]></title>
+        <id>61018d5c3306a507d1bfa74a</id>
+        <link href="https://www.freecodecamp.org/news/python-if-else-statement-conditional-statements-explained/"/>
+        <updated>2021-07-29T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[There are many cases where you don't want all of your code to be executed in your programs.  Instead, you might want certain code to run only when a specific condition is met, and a different set of code to run when the condition is not satisified.  That's where conditional]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So you want to self-publish books and courses on programming]]></title>
+        <id>https://css-tricks.com/?p=344993</id>
+        <link href="https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/"/>
+        <updated>2021-07-29T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …
+The post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Loren Sands-Ramshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer-Friendly Passwordless Auth]]></title>
+        <id>https://css-tricks.com/?p=345260</id>
+        <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
+        <updated>2021-07-29T14:47:47.000Z</updated>
+        <summary type="html"><![CDATA[I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …
+The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There Is No Such Thing As A CSS Absolute Unit]]></title>
+        <id>https://smashingmagazine.com/2021/07/css-absolute-units/</id>
+        <link href="https://smashingmagazine.com/2021/07/css-absolute-units/"/>
+        <updated>2021-07-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Elad Shechter)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国内のApple Store、マスク着用を再度義務化]]></title>
+        <id>https://gori.me/?p=136463</id>
+        <link href="https://gori.me/apple/apple-news/136463"/>
+        <updated>2021-07-29T02:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Appleは、新型コロナウイルスのワクチン接種の有無に関係なく、米国内のApple Storeへ入店する際にマスクの着用を再度義務化する方針を決定した。Bloombergによると、現地時間29日より有効化されるという。 Appleは今年6月に、マスク不要で米国内のApple Storeへ入店可能にし…
+The post 米国内のApple Store、マスク着用を再度義務化 first appeared on ゴリミー.
+
+ 【もっと読む】]]></summary>
+        <author>
+            <name>g.O.R.i</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS/iPadOS15やmacOS MontereyのPublic Beta 4、配信開始]]></title>
         <id>https://gori.me/?p=136462</id>
@@ -3985,210 +4145,6 @@ The post AirPods Pro 2、やっぱり来年発表？新モデル登場まで我�
  【もっと読む】]]></summary>
         <author>
             <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型iPad Air、2022年モデルは有機ELディスプレイ？iPad Proも2023年に移行か]]></title>
-        <id>https://gori.me/?p=135879</id>
-        <link href="https://gori.me/ipad/ipadair/135879"/>
-        <updated>2021-06-30T12:05:36.000Z</updated>
-        <summary type="html"><![CDATA[2022年に登場する新型iPad Airは、有機ELディスプレイを搭載する可能性がある。韓国メディアTHE ELECによると、2022年に「10.86インチの有機ディスプレイを搭載したiPad」が登場するという。iPad Airを示唆していると考えられる。 iPad Air（2022）の有機ELディ…
-The post 新型iPad Air、2022年モデルは有機ELディスプレイ？iPad Proも2023年に移行か first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State Of Web Workers In 2021]]></title>
-        <id>https://smashingmagazine.com/2021/06/web-workers-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/web-workers-2021/"/>
-        <updated>2021-06-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Surma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Many Shades Of July (2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/</id>
-        <link href="https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/"/>
-        <updated>2021-06-30T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPad（第6世代）が3万円台！iPad整備済商品の最新情報（2021年6月30日更新）]]></title>
-        <id>https://gori.me/?p=135876</id>
-        <link href="https://gori.me/sale/apple-refurbished/135876"/>
-        <updated>2021-06-30T04:01:02.000Z</updated>
-        <summary type="html"><![CDATA[通常価格よりも15％オフで購入できる、Apple公式サイトの整備済みiPad情報が更新されている！記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する！ 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はiPad（第6世代）が34,98…
-The post iPad（第6世代）が3万円台！iPad整備済商品の最新情報（2021年6月30日更新） first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型MacBook ProとAirPods、2021年後半登場を示唆する最新情報]]></title>
-        <id>https://gori.me/?p=135874</id>
-        <link href="https://gori.me/macbookpro/135874"/>
-        <updated>2021-06-30T02:01:46.000Z</updated>
-        <summary type="html"><![CDATA[@RendersbyIanより Appleは、2021年後半に新型MacBookとAirPodsを発売する可能性がある。経済日報によると、Appleのサプライチェーンは今後数カ月以内に生産数の増加を見込んでいるという。 製品の詳細は不明だが、Appleに詳しいBloombergの名物記者Mark G…
-The post 新型MacBook ProとAirPods、2021年後半登場を示唆する最新情報 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1 MacのParallels Desktop上でWindows 11を動かす方法と条件は？]]></title>
-        <id>https://gori.me/?p=135871</id>
-        <link href="https://gori.me/microsoft/windows/135871"/>
-        <updated>2021-06-30T00:57:13.000Z</updated>
-        <summary type="html"><![CDATA[Microsoftは現地時間28日、Windows 11 Insider Preview Build 22000.51を公開。PC Watchなどによると、M1 Mac上の仮想環境での動作に成功したと報告している。 ところが調べてみると、Windows 11が動作する人としない人に分かれている。投稿…
-The post M1 MacのParallels Desktop上でWindows 11を動かす方法と条件は？ first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does `font: 110%/1.4 system-ui` mean?]]></title>
-        <id>https://css-tricks.com/?p=343470</id>
-        <link href="https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/"/>
-        <updated>2021-06-29T22:43:50.000Z</updated>
-        <summary type="html"><![CDATA[I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. 
-html {
-  font: 110%/1.4 system-ui;
-}
-…
-The post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GREEEN SPOONのパーソナルスープは美味しくてヘルシー、しかもパッケージが可愛い]]></title>
-        <id>https://gori.me/?p=135810</id>
-        <link href="https://gori.me/health/135810"/>
-        <updated>2021-06-29T22:15:13.000Z</updated>
-        <summary type="html"><![CDATA[GREEN SPOONとの出会いは、母の日のプレゼント。孫たちの成長を見届けてもらえるように、健康を意識したプレゼンとして母親の好みやニーズを汲み取ったパーソナルスムージーを贈った。両家とも好評で美味しいと喜んでもらえた。 必要な野菜がカップに詰まって毎月自宅に届くパーソナルスムージーのサービスとし…
-The post GREEEN SPOONのパーソナルスープは美味しくてヘルシー、しかもパッケージが可愛い first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 4、開発者向けに配信開始]]></title>
-        <id>https://gori.me/?p=135869</id>
-        <link href="https://gori.me/ios/ios14/135869"/>
-        <updated>2021-06-29T21:55:23.000Z</updated>
-        <summary type="html"><![CDATA[Appleは6月30日、「iOS 14.7 Beta 4」「iPadOS 14.7 Beta 4」「macOS Big Sur 11.5 Beta」「watchOS 7.6 Beta 4」「tvOS 14.7 Beta 4」を開発者向けに配信開始した。最新バージョンの新機能や変更点は、現時点では明ら…
-The post iOS/iPadOS 14.7やmacOS Big Sur 11.5のBeta 4、開発者向けに配信開始 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonの子供向けサブスク「Amazon Kids+」、3カ月480円で利用できるキャンペーンが開催中]]></title>
-        <id>https://gori.me/?p=135841</id>
-        <link href="https://gori.me/amazon/amazon-sale/135841"/>
-        <updated>2021-06-29T21:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Kids+よりキャプチャ 子供向けコンテンツが利用し放題のサブスクサービス「Amazon Kids+」が、83％オフで3カ月間利用できる「サマーディスカウントキャンペーン」を開催している。キャンペーンは7月17日（土）までの期間限定。Amazon Kids+に初めて登録する人だけではな…
-The post Amazonの子供向けサブスク「Amazon Kids+」、3カ月480円で利用できるキャンペーンが開催中 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromium spelling and grammar features]]></title>
-        <id>https://css-tricks.com/?p=343260</id>
-        <link href="https://www.azabani.com/2021/05/17/spelling-grammar.html"/>
-        <updated>2021-06-29T20:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?
-The squiggly lines that indicate possible spelling or grammar errors 
-…
-The post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need]]></title>
-        <id>60db519527f80207bcdbb6fa</id>
-        <link href="https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/"/>
-        <updated>2021-06-29T20:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux List Processes – How to Check Running Processes]]></title>
-        <id>604b8c6ea7946308b7687683</id>
-        <link href="https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/"/>
-        <updated>2021-06-29T19:47:13.000Z</updated>
-        <summary type="html"><![CDATA[Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use timedelta Objects in Python to Work with Dates]]></title>
-        <id>60daf29027f80207bcdbb3fe</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/"/>
-        <updated>2021-06-29T18:25:52.000Z</updated>
-        <summary type="html"><![CDATA[Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[:nth-child Between Two Fixed Indexes]]></title>
-        <id>https://css-tricks.com/?p=342736</id>
-        <link href="https://css-tricks.com/nth-child-between-two-fixed-indexes/"/>
-        <updated>2021-06-29T14:37:21.000Z</updated>
-        <summary type="html"><![CDATA[I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. 
-The answer, it …
-The post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple、日本を表現したApple Watchスポーツループバンドと文字盤を発表]]></title>
-        <id>https://gori.me/?p=135844</id>
-        <link href="https://gori.me/watch-accessories/watch-band/135844"/>
-        <updated>2021-06-29T13:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Appleは6月29日、Apple Watchインターナショナルコレクションバンドと文字盤を発表した。22種類の限定版スポーツループバンドは、世界22か国を表したカラフルなデザインを特徴としており、それぞれに対応するストライプ文字盤もダウンロード可能。 用意されている国は、オーストラリア、ベルギー、…
-The post Apple、日本を表現したApple Watchスポーツループバンドと文字盤を発表 first appeared on ゴリミー.
-
- 【もっと読む】]]></summary>
-        <author>
-            <name>g.O.R.i</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course]]></title>
-        <id>60d76f6f6e1a1407b6b0c521</id>
-        <link href="https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/"/>
-        <updated>2021-06-29T13:24:44.000Z</updated>
-        <summary type="html"><![CDATA[What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
 </feed>
